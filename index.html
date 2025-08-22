@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fusion City</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #1e1e1e;
+      color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #ff3366;
+      padding: 1.5rem;
+      position: relative;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      text-align: center;
+    }
+    .language-flags {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+    }
+    .language-flags img {
+      width: 32px;
+      height: 22px;
+      margin-left: 0.5rem;
+      cursor: pointer;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+    .content {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .screenshot {
+      width: 100%;
+      max-width: 600px;
+      margin: 2rem auto;
+      display: block;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+    .download-btn {
+      background-color: #ff3366;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      display: block;
+      margin: 2rem auto;
+      text-decoration: none;
+      text-align: center;
+      width: fit-content;
+    }
+    form {
+      background: #2a2a2a;
+      padding: 1.5rem;
+      border-radius: 12px;
+      margin-top: 2rem;
+    }
+    form input[type="email"] {
+      width: 100%;
+      padding: 0.75rem;
+      margin-bottom: 1rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+    }
+    form button {
+      background-color: #ff3366;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      color: #888;
+    }
+  </style>
+  <script>
+    function switchLanguage(lang) {
+      const en = document.getElementById('content-en');
+      const es = document.getElementById('content-es');
+      if (lang === 'es') {
+        en.style.display = 'none';
+        es.style.display = 'block';
+      } else {
+        en.style.display = 'block';
+        es.style.display = 'none';
+      }
+    }
+  </script>
+</head>
+<body>
+  <header>
+    <h1>Fusion City</h1>
+    <div class="language-flags">
+      <img src="https://flagcdn.com/w40/gb.png" alt="English" onclick="switchLanguage('en')">
+      <img src="https://flagcdn.com/w40/es.png" alt="Español" onclick="switchLanguage('es')">
+    </div>
+  </header>
+  <div class="content">
+    <div id="content-en">
+      <p><strong>Fusion City</strong> is an asynchronous multiplayer merge game currently in <strong>closed beta</strong>. Explore the city, unlock merge boards inside buildings, and collect unique items to progress.</p>
+
+      <p>Buy and upgrade vehicles to move faster through different districts. Exchange resources with other players, complete missions, and discover the secrets of a living, evolving metropolis.</p>
+
+      <img src="screenshot1.jpg" alt="Fusion City Screenshot" class="screenshot">
+
+      <a href="#" class="download-btn">Join the closed beta</a>
+
+      <a href="https://forms.gle/KGzn5AbJyK7Sn8ZC8" class="download-btn" target="_blank">Sign up as a tester</a>
+    </div>
+
+    <div id="content-es" style="display: none;">
+      <p><strong>Fusion City</strong> es un juego de <em>merge</em> multijugador asincrónico que se encuentra actualmente en <strong>fase beta cerrada</strong>. Explora la ciudad, desbloquea tableros especiales en edificios y fusiona objetos únicos para progresar.</p>
+
+      <p>Compra y mejora vehículos para desplazarte más rápido por los distintos barrios. Intercambia recursos con otros jugadores, completa misiones y descubre los secretos de una metrópolis viva y cambiante.</p>
+
+      <img src="screenshot1.jpg" alt="Captura de Fusion City" class="screenshot">
+
+      <a href="#" class="download-btn">Únete a la beta cerrada</a>
+
+      <a href="https://forms.gle/your-google-form" class="download-btn" target="_blank">Regístrate como tester</a>
+    </div>
+  </div>
+  <footer>
+    &copy; 2025 Fusion City. All rights reserved.
+  </footer>
+</body>
+</html>
