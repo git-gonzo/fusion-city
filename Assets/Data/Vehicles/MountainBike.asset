@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b16dd0fb706e8214ab8791277f5592b1, type: 3}
+  m_Name: MountainBike
+  m_EditorClassIdentifier: 
+  vehicleType: 1
+  id: 2
+  vehicleName: MountainBike
+  vehicleDescrip: 
+  reduceTimePercent: 18
+  durability: 10
+  price:
+    rewardType: 1
+    amount: 350
+    vehicleID: 0
+    mergePiece:
+      pType: 0
+      Lvl: 0
+  materials: []

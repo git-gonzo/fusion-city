@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b16dd0fb706e8214ab8791277f5592b1, type: 3}
+  m_Name: 6_ElectricBicycle
+  m_EditorClassIdentifier: 
+  vehicleType: 1
+  id: 6
+  vehicleName: Electric Bicycle
+  vehicleDescrip: Save the environment driving this bike
+  reduceTimePercent: 25
+  durability: 20
+  price:
+    rewardType: 1
+    amount: 1200
+    vehicleID: 0
+    mergePiece:
+      pType: 0
+      Lvl: 0
+  vehiclePrefab: {fileID: 4475718268664123589, guid: 202796f8091a4004a91844dc5a4c1b17,
+    type: 3}
+  materials:
+  - descrip: 
+    material: {fileID: 2100000, guid: 27b14e9b831b8b04585592dc3f320f72, type: 2}
+  - descrip: 
+    material: {fileID: 2100000, guid: df87ef913ca5a1d418925126d00a9b3b, type: 2}
+  - descrip: 
+    material: {fileID: 2100000, guid: c140358d6bd485145ae2790b4c4b6295, type: 2}
+  - descrip: 
+    material: {fileID: 2100000, guid: ac21f45497ab95f41b383b0a18925b87, type: 2}

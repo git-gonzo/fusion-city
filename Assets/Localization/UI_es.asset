@@ -1,0 +1,614 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: cfd06bfc363850c41ba135b79efa6c75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 112543019008
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340953790820352
+    m_Localized: Crea tu nombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341950890127360
+    m_Localized: Cambia tu nombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342720553299968
+    m_Localized: Aceptar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342054569127936
+    m_Localized: Este sera tu flamante nombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342490965487616
+    m_Localized: Cambiar el nombre puede ser costoso, asegurate de elegir uno que
+      te guste de verdad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348788708749312
+    m_Localized: Elegir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688093469749248
+    m_Localized: Llegar ya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688324588482560
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 689143949963264
+    m_Localized: Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 689385114054656
+    m_Localized: FAMA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695998428360704
+    m_Localized: Terminar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3251649142730752
+    m_Localized: RECOMPENSAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3273654088904704
+    m_Localized: RECLAMAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964012609679360
+    m_Localized: Trabajos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964092817354752
+    m_Localized: Actividades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7965485976399872
+    m_Localized: Tiempo para llegar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16370506938068992
+    m_Localized: Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19253748540256256
+    m_Localized: Garaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21016867448958976
+    m_Localized: Comprar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21022917472432128
+    m_Localized: Velocidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21022986623922176
+    m_Localized: Durabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21162793807261696
+    m_Localized: Vender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21164742099218432
+    m_Localized: Reparar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21171687774367744
+    m_Localized: Ver Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24744403311931392
+    m_Localized: Gente aqui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54086228387061760
+    m_Localized: Entrar en casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60260542937325568
+    m_Localized: Encuentro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60260892494815232
+    m_Localized: Incidente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60261330313043968
+    m_Localized: Sorpresa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147024255541248
+    m_Localized: Ver Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147164991217664
+    m_Localized: <color=yellow>Gratis</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147681809162240
+    m_Localized: Conseguir <color=yellow>AHORA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70317003449065472
+    m_Localized: ESTADISTICAS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70317371620876288
+    m_Localized: Trayectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73914289731166208
+    m_Localized: Vehiculos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80900838146465792
+    m_Localized: Precio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82739437779312640
+    m_Localized: Se desbloquea al nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83427836832014336
+    m_Localized: Desbloqueado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86665398384091136
+    m_Localized: Ya lo tienes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86963978550403072
+    m_Localized: Reclamar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86969195031453696
+    m_Localized: Ganancias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108462054322495488
+    m_Localized: Recargar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132029813945819136
+    m_Localized: Energia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132029978224123904
+    m_Localized: Quieres comprar mas energia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305107649552384
+    m_Localized: Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305175395950592
+    m_Localized: Graficos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305264046759936
+    m_Localized: Alta Calidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145314224359366656
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147789693835042816
+    m_Localized: Temporada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147790777869688832
+    m_Localized: Recompensas de Liga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147949986271748096
+    m_Localized: Premios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142905654716162048
+    m_Localized: Mas Famosos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149196944563003392
+    m_Localized: Ver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160509956687159296
+    m_Localized: Mochila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160839065258713088
+    m_Localized: Almacena objetos en tu mochila, toca sobre un objeto para devolverlo
+      al tablero, puedes comprar mas espacios para almacenar mas objetos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163044299821309952
+    m_Localized: Entregas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164966630663675904
+    m_Localized: Para entregar en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164966746640375808
+    m_Localized: Mostrar lugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164972139856814080
+    m_Localized: Pon los objetos en tu mochila para entregarlos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164972351098740736
+    m_Localized: Completa tareas para conseguir mejores recompensas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196858132956209152
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209908689627275264
+    m_Localized: Termina en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213072879967821824
+    m_Localized: Piezas combinadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213074123289550848
+    m_Localized: Ordenes completadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213082761118900224
+    m_Localized: Caminar es bueno pero se tarda mucho, <color=yellow>Compra un vehiculo</color>
+      para ir mas rapido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215321979245322240
+    m_Localized: MEJOR VEHICULO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223570478650908672
+    m_Localized: Tiempo Limitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224393886427013120
+    m_Localized: Has conseguido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224394122272727040
+    m_Localized: Enhorabuena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226076893546307584
+    m_Localized: Tus Premios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226077000383619072
+    m_Localized: Toca en uno para soltarlo al tablero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227678192272433152
+    m_Localized: Hacer Regalo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227678293845893120
+    m_Localized: Robar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227684829905313792
+    m_Localized: Ven a este lugar para interactuar con este jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227916792213823488
+    m_Localized: Perfil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228300732879626240
+    m_Localized: Estos son los objetos que el jugador necesita<br>Selecciona el que
+      quieras enviar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228473501357465600
+    m_Localized: Necesita ayuda con estos objetos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228474332358139904
+    m_Localized: Elige un objeto para enviar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228981907801530368
+    m_Localized: Has recibidio estos regalos de
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229006611178348544
+    m_Localized: Tienes Regalos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229006752169877504
+    m_Localized: Te han robado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229007334276358144
+    m_Localized: Estos objetos han sido robados por
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229036624971849728
+    m_Localized: Enviando regalo . . .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229036735550480384
+    m_Localized: Robando objeto . . .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229038973874364416
+    m_Localized: Necesitas tener  los objetos en tu mochila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229406939648385024
+    m_Localized: Regalo Enviado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229413360951648256
+    m_Localized: No necesita objetos en concreto, los potenciadores siempre son bien
+      recibidos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229478908041388032
+    m_Localized: Estos son los objetos que tiene en su mochila<br>Necesitas un arma
+      del mismo nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229501717421514752
+    m_Localized: No hay objetos que se puedan robar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229502450078343168
+    m_Localized: Tus armas disponibles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229502758477127680
+    m_Localized: Necesitas armas de nivel 5 o mas para robar objetos del mismo nivel
+      o inferior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229509860545290240
+    m_Localized: Elige un objeto valido para robar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275479196262400
+    m_Localized: Robado con Exito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275854410309632
+    m_Localized: Conseguido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275938845843456
+    m_Localized: Gastado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232253370293837824
+    m_Localized: Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232265013841125376
+    m_Localized: Nos gustaria conocer tu opinion,<br>contactanos o siguenos a traves
+      de estos enlaces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232603141621702656
+    m_Localized: Cerrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232654255327043584
+    m_Localized: Abandonar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232654423292141568
+    m_Localized: Recuperar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237325930295484416
+    m_Localized: Edificios en Propiedad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237326233380085760
+    m_Localized: Regalos enviados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237326301164232704
+    m_Localized: Objetos Robados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237728704430628864
+    m_Localized: monedas/hora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237728823125237760
+    m_Localized: Maximo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237813711635505152
+    m_Localized: Edificio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237814704989298688
+    m_Localized: Comprar un edificio produce beneficios a lo largo del tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237817817875898368
+    m_Localized: Capacidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237845902729961472
+    m_Localized: Reclama tus recompensas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 238052196569079808
+    m_Localized: Nuevos Avatares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239143927871987712
+    m_Localized: Puntos de Fama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287427332338114560
+    m_Localized: Ruleta de la Fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290019683652886528
+    m_Localized: Elige una Ruleta<br><color=#FFFF47>Comun</color> o <color=#FF90FF>Especial</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290019897688219648
+    m_Localized: Necesitas un ticket para lanzar la Ruleta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290020624829538304
+    m_Localized: Comprar tickets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290728917730353152
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291398541429989376
+    m_Localized: Girar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295019334592389120
+    m_Localized: Mejorar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298349661926744064
+    m_Localized: Temporada terminada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318511745104633856
+    m_Localized: Elige tu recompensa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318676299600125952
+    m_Localized: Se acabo el tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318676687636160512
+    m_Localized: Puntuacion Extra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319714966091358208
+    m_Localized: Tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319715093078106112
+    m_Localized: Aumenta tus posibilidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319966247720607744
+    m_Localized: Puntos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320033075713040384
+    m_Localized: El Ranking termina en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320033347680100352
+    m_Localized: Bienvenido al <color=#EEE883>Circo</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320824442940841984
+    m_Localized: Clasificacion de ayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321915611070357504
+    m_Localized: Clasificacion de hoy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322235553510612992
+    m_Localized: Jugaras con
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335678925336240128
+    m_Localized: Objetos necesarios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335680094125187072
+    m_Localized: Recompensas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335680346974609408
+    m_Localized: Completar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368660812003246080
+    m_Localized: Empezar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372963291050246144
+    m_Localized: Atencion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372971530244554752
+    m_Localized: Esta actualizacion tiene cambios tecnicos que no son compatibles
+      con la version anterior. Por ello tenemos que resetear tu progreso. Aqui tienes
+      un obsequio en compensacion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125080848007168
+    m_Localized: Consiguelo ahora!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125583539535872
+    m_Localized: Oferta Especial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125795121201152
+    m_Localized: UNICO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383492137663037440
+    m_Localized: Tienes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390981970744541184
+    m_Localized: Posibles objetos generados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400120012071731200
+    m_Localized: 'Contratar a '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400120130896363520
+    m_Localized: Puedo ayudarte con los generadores, haciendo que te den solo los
+      objetos que necesitas.<br>Y a un modico precio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400121291770658816
+    m_Localized: dias
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

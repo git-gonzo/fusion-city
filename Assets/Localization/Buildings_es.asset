@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Buildings_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: afa8858c523ae704cac9f0aa71d08052, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 48037388288
+    m_Localized: Academia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204375875584
+    m_Localized: Invierte tu tiempo aprendiendo algo nuevo, estudia y mejora tus
+      habilidades mentales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574000680960
+    m_Localized: Banco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1716799954944
+    m_Localized: Consigue algunas monedas <color=green>gratis</color> en invierte
+      en fondos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946800574464
+    m_Localized: Bar Botella Verde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291459117056
+    m_Localized: Copas y refrescos! Disfruta del tiempo conociendo gente!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321611668414464
+    m_Localized: Campo de Baloncesto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322231666237440
+    m_Localized: Un campo callejero para practicar con jugadores locales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322589687832576
+    m_Localized: Tienda de bicicletas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322695594008576
+    m_Localized: No pierdas tiempo andando cuando puedes ir en bici, ven y comprate
+      una
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322860228829184
+    m_Localized: Tienda de coches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323023789907968
+    m_Localized: Coches nuevos para llegar mas rapido a cualquier parte, elige el
+      que mas te guste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323451046879232
+    m_Localized: Taller de pintura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323539932569600
+    m_Localized: Aqui puedes cambiar el color de tus vehiculos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323790500290560
+    m_Localized: Casino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323855948210176
+    m_Localized: Te sientes con suerte? Entra en el casino y demuestralo, podras
+      ganar buenos premios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334525645217792
+    m_Localized: Iglesia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334583589527552
+    m_Localized: "La Fe es lo que nos da esperanza para vivir, y tambien algo de
+      pasta si eres el due\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335172574666752
+    m_Localized: Cine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335236286144512
+    m_Localized: Las mejores peliculas solo disponibles aqui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335405069131776
+    m_Localized: Circo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335470672240640
+    m_Localized: Los espectaculos mas atrevidos de la ciudad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335759831752704
+    m_Localized: Siente la velocidad con trepidantes competiciones de carreras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447015846273024
+    m_Localized: Ayuntamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447109253423104
+    m_Localized: Aministracion de la ciudad y sus ciudadanos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1464881412857856
+    m_Localized: Gran Escenario de Conciertos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465201270480896
+    m_Localized: Grandes actualiciones de los artistas de musica mas famosos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465606213754880
+    m_Localized: Sala de Conciertos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465779719528448
+    m_Localized: En esta sala se hacen conciertos y actuaciones de teatro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466007214383104
+    m_Localized: Galeria de Arte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466554856267776
+    m_Localized: Los mas famosos pintores muestran sus creaciones aqui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469223377330176
+    m_Localized: Hamburgueseria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469378432360448
+    m_Localized: Un restaurante de comida rapida para continuar con el dia a dia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155497587351248896
+    m_Localized: Ola de Surf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155497754112581632
+    m_Localized: Ven a disfrutar el sol, la playa y las olas. Consigue gafas de sol,
+      tablas de surf, juguetes de playa, y fruta fresca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155498983555358720
+    m_Localized: Estacion de Policia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155499173326643200
+    m_Localized: Todo tipo de suministros para el cumplimiento de la ley. Equipo
+      y armas, tal vez las necesites.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164583943251714048
+    m_Localized: Coches de Lujo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164584068330053632
+    m_Localized: Los mas exclusivos coches con la ultima tecnologia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164584441266593792
+    m_Localized: Circuito de Carreras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166674139392794624
+    m_Localized: Tienda de Helicopteros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166674541752377344
+    m_Localized: No hay manera mas rapida e imponente de viajar que en un helicoptero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251915498965458944
+    m_Localized: Pista de tenis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251915708768739328
+    m_Localized: Entrena y juega partidos locales de tenis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252223936564060160
+    m_Localized: Tienda de Motos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252229096963072000
+    m_Localized: Ven aqui para comprar motos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252231798619136000
+    m_Localized: Hospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252231882756874240
+    m_Localized: Ven aqui si te sientes enfermo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252236093045366784
+    m_Localized: Centro Comercial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252236269688479744
+    m_Localized: A todo el mundo le gusta ir de compras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289915656475738112
+    m_Localized: Conciertos en directo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289915790718631936
+    m_Localized: Actua en directo en un concierto
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

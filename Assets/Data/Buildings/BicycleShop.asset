@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b386db9d26906846a2154eb039ac2b0, type: 3}
+  m_Name: BicycleShop
+  m_EditorClassIdentifier: 
+  buildingType: 39
+  buildingName: Bicyles Shop
+  buildingDescrip: Don't waste your time walking when you can go cycling, come and
+    buy one of our bicycles
+  isHouse: 0
+  unlockLevel: 2
+  boardUnlockLevel: 0
+  boardConfig: {fileID: 0}
+  vehiclesInShop:
+  - {fileID: 11400000, guid: c3591e6e8d619cf44bed5912de871aed, type: 2}
+  - {fileID: 11400000, guid: 279f8c12ed0fa284c8569bc2d13f25b9, type: 2}
+  characterStory: {fileID: 11400000, guid: 06b041b3d08c2d04291bcae49448caa3, type: 2}

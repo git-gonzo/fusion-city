@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8983293447955816604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8983293447955816606}
+  - component: {fileID: 8983293447955816605}
+  - component: {fileID: 8282321911940731356}
+  - component: {fileID: 3498965007173336633}
+  - component: {fileID: 3724524561252603043}
+  - component: {fileID: 5568103313693692991}
+  - component: {fileID: 3249086309432498190}
+  - component: {fileID: 5041548760325202968}
+  - component: {fileID: 2077295599516298844}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8983293447955816606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.56730556, y: 2.625479, z: 3.5635548}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8983293447955816605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fc02df516d7d554aa5e202fd60d045e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  topBar: {fileID: 0}
+  lowerBar: {fileID: 0}
+  shopManager: {fileID: 0}
+  mergeLowerBar: {fileID: 0}
+  lowerBarShop: {fileID: 0}
+  sideBar: {fileID: 0}
+  txtFPS: {fileID: 0}
+  canvasBackground: {fileID: 0}
+  speedBoardBackground: {fileID: 0}
+  ShopScreen: {fileID: 0}
+  SkillsScreen: {fileID: 0}
+  CarShopScreen: {fileID: 0}
+  mergeMapMissionsScreen: {fileID: 0}
+  dailyTasksScreen: {fileID: 0}
+  rouletteScreen: {fileID: 0}
+  mergeStorageScreen: {fileID: 0}
+  giftsStealScreen: {fileID: 0}
+  levelUPPopup: {fileID: 0}
+  leagueRewardPopup: {fileID: 0}
+  AdminPanel: {fileID: 0}
+  TravellingContainer: {fileID: 0}
+  btnStorage: {fileID: 0}
+  charactersList: {fileID: 0}
+  JobsNotification: {fileID: 0}
+  MissionsLowerbarNotification: {fileID: 0}
+  mapManager: {fileID: 0}
+  tutorialManager: {fileID: 0}
+  gameNotificationsManager: {fileID: 0}
+  soundNormalButton: {fileID: 0}
+  soundSpeedUplButton: {fileID: 0}
+  soundPurchaseButton: {fileID: 0}
+  soundCoins: {fileID: 0}
+  soundGems: {fileID: 0}
+  soundStorageBounce: {fileID: 0}
+  sfxClaimEnergy: {fileID: 0}
+  sfxClaimXP: {fileID: 0}
+  Music: {fileID: 0}
+  MusicBooster: {fileID: 0}
+  server: {fileID: 0}
+  gameConfig: {fileID: 0}
+  garaje3D: {fileID: 0}
+  garaje3D_Canvas: {fileID: 0}
+  gameServerConfigPrefab: {fileID: 0}
+  mainCanvasTransform: {fileID: 0}
+  seasonEndController: {fileID: 0}
+  speedBoardManager: {fileID: 0}
+  loadingScreen: {fileID: 0}
+--- !u!114 &8282321911940731356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db8a07afb31de73458f4cad762191ecf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charIcons:
+  - {fileID: -131727057725239500, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  - {fileID: 5263932168545421906, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  textPlayerLevel: {fileID: 0}
+  textPlayerName: {fileID: 0}
+  iconCharacter: {fileID: 0}
+  progressBar: {fileID: 0}
+  friends: []
+  vehiclesOwned: []
+  buildingsOwned: []
+  seasonFame: 0
+--- !u!114 &3498965007173336633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9edf9d02274c447a8722edf4509f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PopupContainer: {fileID: 0}
+  Bg: {fileID: 0}
+  Backgroun: {fileID: 0}
+  popupYesNo: {fileID: 5390508351225187157, guid: d3f7acdda45c649418ebc4e7259b5c9c,
+    type: 3}
+  popupPlayerState: {fileID: 2087805268201404300, guid: 7adfe1b5cf555b94cb3e50b5729fca27,
+    type: 3}
+  popupChangeName: {fileID: 5390508351225187157, guid: b104534d8d3a76f41b1cb8e241b142be,
+    type: 3}
+  popupSettings: {fileID: 3442370332347607394, guid: 971c5c6ca2c08b341a56b4566bd97a5e,
+    type: 3}
+  popupAvatar: {fileID: 2087805268201404300, guid: 475215c2e75f15242ad0b6cef3833afb,
+    type: 3}
+  popupLeagueReward: {fileID: 1727243604701073679, guid: 346f6699092508b41a6406b9efc5d186,
+    type: 3}
+  popupWelcomePack: {fileID: 5321173452584595263, guid: c1d8f5c9e92d48049bfbff4b428c3c4f,
+    type: 3}
+  popupCarOffer: {fileID: 4955174407236752108, guid: b671cabc364797345b0a116b285eb791,
+    type: 3}
+  popupGenerator: {fileID: 6145754576806653230, guid: a1310093daf4737469693c8d522bf0e4,
+    type: 3}
+  popupChest: {fileID: 6145754576806653230, guid: 071bf1254f137014f89e8cb84dfbcf08,
+    type: 3}
+  popupGiftSteal: {fileID: 7064972727176936733, guid: 64facb976f1ec284892496305cc24a37,
+    type: 3}
+  popupGenericOffer: {fileID: 8729058323207035450, guid: 70e8bdcf6f8366046829a6582adcc78f,
+    type: 3}
+  popupGenericOfferGenerator: {fileID: 8729058323207035450, guid: 70623e26dc17ff64c99dad80c8e767f4,
+    type: 3}
+  popupTutorial: {fileID: 0}
+  popupBuilding: {fileID: 6369294720844505538, guid: 8adfaf7931235014a8223239a2d36878,
+    type: 3}
+  popupDailyBonus: {fileID: 563323184469054851, guid: 86d7bc866708a344387b932f9ca6d529,
+    type: 3}
+  popupOpen: {fileID: 0}
+  popupClose: {fileID: 0}
+  canvas3d: {fileID: 0}
+  _purchasedPopup: {fileID: 3415881939948603840, guid: a56e3c312f4444f4e920c65489e80945,
+    type: 3}
+  _assistantPopup: {fileID: 5589044543811794791, guid: 0ee31c0218e54b64885f625312c31ead,
+    type: 3}
+  _resetProgressPopup: {fileID: 3415881939948603840, guid: 01cced31c23bbe142a2591cc6f2580eb,
+    type: 3}
+  _stealsuccessPopup: {fileID: 1560400611437073712, guid: 7681d02218653bc4e85245e02d37ab84,
+    type: 3}
+--- !u!114 &3724524561252603043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53510afdc1b9a0d489e342e5b5991712, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameID_google: 3910491
+  gameID_ios: 3910490
+  testMode: 0
+  OnVideoEndSuccess:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &5568103313693692991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ddc9b1dd040804cbf2fa519c6c9eba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3249086309432498190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a60aa42ae89d47a439f4c229668902a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5041548760325202968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbdddc133fb283041a051d7c6653ed0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hardRewards:
+  - pType: 6
+    Lvl: 4
+  - pType: 13
+    Lvl: 4
+  - pType: 12
+    Lvl: 3
+  - pType: 8
+    Lvl: 4
+  - pType: 21
+    Lvl: 4
+  - pType: 9
+    Lvl: 2
+  - pType: 41
+    Lvl: 4
+  hardRewards1:
+  - pType: 6
+    Lvl: 4
+  - pType: 13
+    Lvl: 4
+  - pType: 29
+    Lvl: 4
+  - pType: 8
+    Lvl: 5
+  - pType: 33
+    Lvl: 5
+  - pType: 69
+    Lvl: 4
+  - pType: 41
+    Lvl: 6
+  hardRewards2:
+  - pType: 8
+    Lvl: 4
+  - pType: 21
+    Lvl: 4
+  - pType: 34
+    Lvl: 4
+  - pType: 36
+    Lvl: 4
+  - pType: 47
+    Lvl: 4
+  - pType: 40
+    Lvl: 4
+  - pType: 1
+    Lvl: 0
+  hardRewards3:
+  - pType: 24
+    Lvl: 2
+  - pType: 8
+    Lvl: 4
+  - pType: 9
+    Lvl: 2
+  - pType: 49
+    Lvl: 4
+  - pType: 31
+    Lvl: 5
+  - pType: 33
+    Lvl: 5
+  - pType: 70
+    Lvl: 3
+  hardRewards4:
+  - pType: 50
+    Lvl: 4
+  - pType: 61
+    Lvl: 4
+  - pType: 66
+    Lvl: 4
+  - pType: 34
+    Lvl: 4
+  - pType: 47
+    Lvl: 4
+  - pType: 18
+    Lvl: 4
+  - pType: 70
+    Lvl: 3
+  dailyBonusProgress:
+    yearDay: 0
+    progress: 0
+    round: 0
+--- !u!114 &2077295599516298844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8983293447955816604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5051d9f163956f4ea124c6eda7bf3c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

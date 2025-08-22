@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Buildings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: afa8858c523ae704cac9f0aa71d08052, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 48037388288
+    m_Localized: Academy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204375875584
+    m_Localized: Invest your time learning something new, study and improve your
+      mental skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574000680960
+    m_Localized: Bank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1716799954944
+    m_Localized: Get some <color=green>free</color> gems and coins or invest in funds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946800574464
+    m_Localized: The Green Botle Bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291459117056
+    m_Localized: 'Drinks and Spirits. Enjoy your time and meet new people. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321611668414464
+    m_Localized: Basketball field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322231666237440
+    m_Localized: A street basket field to play with the most skilled from the neighborhood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322589687832576
+    m_Localized: Bicyles Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322695594008576
+    m_Localized: Don't waste your time walking when you can go cycling, come and
+      buy one of our bicycles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322860228829184
+    m_Localized: Car Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323023789907968
+    m_Localized: Brand new cars to get faster everywhere, choose the one you like
+      the most
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323451046879232
+    m_Localized: Car Workshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323539932569600
+    m_Localized: Customize the color of your vehicles here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323790500290560
+    m_Localized: Casino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323855948210176
+    m_Localized: Do you feel lucky? Enter the casino and prove it, you can win good
+      prizes here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334525645217792
+    m_Localized: Church
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334583589527552
+    m_Localized: Faith is what keep us human
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335172574666752
+    m_Localized: Cinema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335236286144512
+    m_Localized: The best movies only available in this theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335405069131776
+    m_Localized: Circus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335470672240640
+    m_Localized: Amazing performances of the greatest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335759831752704
+    m_Localized: Feel the speed with Amazing racing competitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447015846273024
+    m_Localized: City Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447109253423104
+    m_Localized: Administrates everything about the citizens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1464881412857856
+    m_Localized: Grand Live Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465201270480896
+    m_Localized: Great live performances from the biggest celebrities of the music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465606213754880
+    m_Localized: Small Live Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465779719528448
+    m_Localized: 'In this place live events are performing music, theatre, etc '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466007214383104
+    m_Localized: Art Galery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466554856267776
+    m_Localized: Most Famous painter will show their creations here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469223377330176
+    m_Localized: Burger Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469378432360448
+    m_Localized: This is a normal restaurant to have a quick meal and continue with
+      your day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155497587351248896
+    m_Localized: Surf Wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155497754112581632
+    m_Localized: Enjoy the sun, the beach, the sea... get cool sunglasses, surfboards,
+      fresh fruit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155498983555358720
+    m_Localized: Police Station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155499173326643200
+    m_Localized: All the supplies for the police. Equipment and Weapons, maybe you
+      will need them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164583943251714048
+    m_Localized: Luxury Cars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164584068330053632
+    m_Localized: The most exclusive cars with the latest technology
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164584441266593792
+    m_Localized: Racing Circuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166674541752377344
+    m_Localized: There is no faster and VIP way to around the city than in a helicopter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166674139392794624
+    m_Localized: Helicpters Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251915498965458944
+    m_Localized: Tennis court
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251915708768739328
+    m_Localized: Make sure you have plenty of fluids on hand and rehydrate regularly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252223936564060160
+    m_Localized: Motorbikes Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252229096963072000
+    m_Localized: Come here to buy motorcycles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252231798619136000
+    m_Localized: Hospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252231882756874240
+    m_Localized: Come here if you feel sick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252236093045366784
+    m_Localized: Shopping Center
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252236269688479744
+    m_Localized: Everybody love shopping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289915656475738112
+    m_Localized: Live concerts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289915790718631936
+    m_Localized: Show your performance in a live concert
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

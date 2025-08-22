@@ -1,0 +1,490 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06427fb831014c046a65aadabaa0365d, type: 3}
+  m_Name: BoardConcierto
+  m_EditorClassIdentifier: 
+  boardID: concierto1
+  sizeX: 6
+  sizeY: 6
+  isSpeedBoard: 0
+  pieces:
+  - pieceType: 14
+    pieceLevel: 4
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 14
+    pieceLevel: 2
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 14
+    pieceLevel: 3
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 18
+    pieceLevel: 4
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 47
+    pieceLevel: 2
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 15
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 20
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    unlockPrice: 0
+    generator:
+      capLeft: 0
+  - pieceType: 47
+    pieceLevel: 2
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 14
+    pieceLevel: 3
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 53
+    pieceLevel: 0
+    locked: 0
+    hidden: 1
+    unlockLevel: 3
+    unlockPrice: 500
+    generator:
+      capLeft: 14
+  - pieceType: 51
+    pieceLevel: 4
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 1
+    pieceLevel: 0
+    locked: 0
+    hidden: 1
+    unlockLevel: 3
+    unlockPrice: 500
+    generator:
+      capLeft: 12
+  - pieceType: 47
+    pieceLevel: 3
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 51
+    pieceLevel: 4
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 48
+    pieceLevel: 0
+    locked: 0
+    hidden: 1
+    unlockLevel: 5
+    unlockPrice: 500
+    generator:
+      capLeft: 20
+  - pieceType: 18
+    pieceLevel: 3
+    locked: 0
+    hidden: 1
+    unlockLevel: 0
+    unlockPrice: 500
+    generator:
+      capLeft: 0
+  - pieceType: 1
+    pieceLevel: 0
+    locked: 0
+    hidden: 1
+    unlockLevel: 3
+    unlockPrice: 500
+    generator:
+      capLeft: 12
+  missions:
+  - piece:
+      pieceType: 51
+      pieceLevel: 3
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 30
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 18
+      pieceLevel: 2
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 35
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 51
+      pieceLevel: 4
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 50
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 18
+      pieceLevel: 3
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 60
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 3
+  - piece:
+      pieceType: 14
+      pieceLevel: 5
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 1
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 100
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 3
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 4
+  - piece:
+      pieceType: 18
+      pieceLevel: 4
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 1
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 125
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 4
+  startingMissions: 3
+  maxVisibleMissions: 3
+  missionsCooldown: 0
+  BGColor: {r: 0.6509804, g: 0.6392157, b: 0.3137255, a: 1}
+  boardBGColor: {r: 0.6431373, g: 0.6117647, b: 0.37254903, a: 1}
+  boardTileColorNormal: {r: 0.9180442, g: 0.9339623, b: 0.39208794, a: 0.078431375}
+  boardTileColorDark: {r: 0.40784314, g: 0.38431373, b: 0.27450982, a: 0.23921569}
+  boardTileColorSelected: {r: 0.990566, g: 0.9510362, b: 0.2663314, a: 1}

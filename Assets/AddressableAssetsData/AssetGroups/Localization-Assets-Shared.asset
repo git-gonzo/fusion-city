@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: b4ae31ff4981f7341abcdd5f01013015
+  m_SerializeEntries:
+  - m_GUID: 66fb3dddb4cc4aa4fbad685693284f86
+    m_Address: Assets/Localization/DailyTasks Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67314442079c2974692967706d74d37d
+    m_Address: Assets/Localization/CharacterStories Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 776f4544e775cf041a8ebb9585273955
+    m_Address: Attributes Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Locale-en
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9751a0f253854274fb3d9d6513f2d81b
+    m_Address: Tutorials_2 Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Locale-en
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afa8858c523ae704cac9f0aa71d08052
+    m_Address: Assets/Localization/Buildings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cabf2b25cd4c79747939652128a4740f
+    m_Address: Assets/Localization/Notifications Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfd06bfc363850c41ba135b79efa6c75
+    m_Address: UI Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    - Locale-en
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e893d06d4181ca444b04208a5ddb7307
+    m_Address: Assets/Localization/Merge Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 78a0c9dc5b68d5843ac89c55c4666858, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 66f939614df8a994bbeb0524f455c8f2, type: 2}
+    - {fileID: 11400000, guid: e34c3e43915d0094bbb57581b924eed7, type: 2}

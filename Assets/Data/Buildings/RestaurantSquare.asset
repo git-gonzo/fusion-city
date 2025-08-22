@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b386db9d26906846a2154eb039ac2b0, type: 3}
+  m_Name: RestaurantSquare
+  m_EditorClassIdentifier: 
+  buildingType: 53
+  buildingName: Restaurants Square
+  buildingDescrip: Fast food, drinks and bakery
+  isHouse: 0
+  hasPrice: 0
+  hasOwner: 0
+  owner: 
+  price: 0
+  unlockLevel: 0
+  boardConfig: {fileID: 11400000, guid: 109a021ad79a88040becf6dce380a1f1, type: 2}
+  possibleJobs:
+  - {fileID: 11400000, guid: 67b48f6df6003ba47b3948f739e8e81b, type: 2}
+  - {fileID: 11400000, guid: 7074afd8f37b14947934ca7b2336a2c3, type: 2}
+  vehiclesInShop: []
+  buildingActivities:
+  - {fileID: 0}

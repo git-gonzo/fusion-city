@@ -1,0 +1,491 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a49dcd40ebf9894f9c585c34b4ad2a5, type: 3}
+  m_Name: SongConfig2
+  m_EditorClassIdentifier: 
+  musicTrack: {fileID: 8300000, guid: 29292e579cf08384a9737c27f7640ece, type: 3}
+  timeBeforeSound: 2.2
+  speed: 4
+  useTimeSinceStart: 1
+  chunks:
+  - timeSinceStart: 0
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.24
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.14
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.24
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.29
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.33
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 1.9
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.24
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.14
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.3
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.35
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 3.9
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.15
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.3
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.35
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 6
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.3
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.35
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 8
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.3
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.35
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 10
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.3
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.35
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 12
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.3
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.35
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 14
+    steps:
+    - timing: 0.2
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.4
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 0
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 2
+      noteLane3: 0
+    - timing: 0.3
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+    - timing: 0.35
+      loops: 0
+      noteLane1: 0
+      noteLane2: 0
+      noteLane3: 2
+  - timeSinceStart: 16
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 3
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+  - timeSinceStart: 18
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+  - timeSinceStart: 20.1
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+  - timeSinceStart: 22.1
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+  - timeSinceStart: 24.2
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+  - timeSinceStart: 26.2
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+  - timeSinceStart: 28.3
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+  - timeSinceStart: 30.3
+    steps:
+    - timing: 0.25
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1
+    - timing: 0.5
+      loops: 0
+      noteLane1: 0
+      noteLane2: 1
+      noteLane3: 0
+    - timing: 0.5
+      loops: 0
+      noteLane1: 1
+      noteLane2: 0
+      noteLane3: 1

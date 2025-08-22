@@ -1,0 +1,1564 @@
+fileFormatVersion: 2
+guid: e47f902f73946f54cbbd7ab2883196b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5895840106224399719
+    second: IconsMergeSchool_Number1
+  - first:
+      213: 900152927208119030
+    second: IconsMergeSchool_Number2
+  - first:
+      213: 4459642119409427263
+    second: IconsMergeSchool_Number3
+  - first:
+      213: -8597998768421229297
+    second: IconsMergeSchool_Number4
+  - first:
+      213: -3287713841407311590
+    second: IconsMergeSchool_Number5
+  - first:
+      213: 1781443668350957238
+    second: IconsMergeSchool_Number6
+  - first:
+      213: 1581786747724506231
+    second: IconsMergeSchool_Number7
+  - first:
+      213: -1660007483019739553
+    second: IconsMergeSchool_Number8
+  - first:
+      213: 2435963516895116892
+    second: IconsMergeSchool_Number9
+  - first:
+      213: 6650911745830925836
+    second: IconsMergeSchool_NumbersGenerator
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 60
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconsMergeSchool_GeneratorTable
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 773
+        width: 253
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7596a49a5615cd0800000000000000
+      internalID: -1294618134949735066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeF
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16205ecee453de1e0800000000000000
+      internalID: -2813584940454025973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeE
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9b3f04d9d840be0800000000000000
+      internalID: 7867622750452113352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeD
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 166
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2083db21b20fb0800000000000000
+      internalID: -6181717155432578643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeC
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 152
+        width: 168
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6465e5fa5a0420800000000000000
+      internalID: -9222794297273296752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeC+
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 150
+        width: 166
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8233006604ad600800000000000000
+      internalID: 7494416759840520452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeB
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 148
+        width: 167
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6989d03ef7168c0800000000000000
+      internalID: -3641400573196089407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeB+
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 14
+        width: 167
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be71b9550f28e850800000000000000
+      internalID: -394174556531573290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeA
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 13
+        width: 165
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b55c2bb536d46d0800000000000000
+      internalID: 1355904550529775220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_GradeA+
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6
+        width: 167
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d24176135a7ce360800000000000000
+      internalID: -5212446867607377419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 319
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765b100d65b32d150800000000000000
+      internalID: 5895840106224399719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 319
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa94cd615cfd7c00800000000000000
+      internalID: 900152927208119030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 320
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33e4c021e4d3ed30800000000000000
+      internalID: 4459642119409427263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 321
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da10d9ca5cda880800000000000000
+      internalID: -8597998768421229297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 320
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1148c72ea1bf52d0800000000000000
+      internalID: -3287713841407311590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 319
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67d6fe395f8b810800000000000000
+      internalID: 1781443668350957238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 318
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7742a889aa2a3f510800000000000000
+      internalID: 1581786747724506231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 319
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e3e124df776f8e0800000000000000
+      internalID: -1660007483019739553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Number9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 318
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e385e89e74ec120800000000000000
+      internalID: 2435963516895116892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_NumbersGenerator
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 147
+        width: 160
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b9baaef8cc4c50800000000000000
+      internalID: 6650911745830925836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charA
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 648
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a5ee1c1f714fd47bdcf1e471efc4b2
+      internalID: -1607929722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charB
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 648
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74294739eabfb1149a350e24a91e217b
+      internalID: -34594654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charC
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 651
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3270f2b7c5ccce44a920fd53e7e408d
+      internalID: -996596573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charD
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 577
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3402b0abfae1b4ba5ecb485b14533d
+      internalID: -2345437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charE
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 579
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e04168e1c66ec4d86ad1b09e81b9ce
+      internalID: -1916364255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charF
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 501
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce66c907e34b06409c9a183a65e9f8a
+      internalID: 19727328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charG
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 499
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d39048c7d9a3349b3b2fd5322e6738
+      internalID: -1878910873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charH
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 419
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24254953bfe31e24f84cfff7a4ffb903
+      internalID: 185056496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charI
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 423
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fd55c692f0bfb49aa889509a137d57
+      internalID: 1264459359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_charJ
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 423
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a007163093eb04da823b678688abd1
+      internalID: -1863130975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 778
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968cb6bcc9c37aa42a263d7bece20583
+      internalID: 681557477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 779
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3239a2fb21e1f0549b4aeeb6a2ecebcb
+      internalID: 633080162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 895
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbeda715a623bb4285e4c52aa3f18e0
+      internalID: -12615208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 912
+        width: 120
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf2691f3782a7f47b7123a5aa0909cf
+      internalID: 99464069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 882
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9d694e1246d3c4dbdf237fe7d973f3
+      internalID: -1090145136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 773
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114e80cf8f5a85498d72b8afb87db5f
+      internalID: -1769081905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 765
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d115bde2a6bd803419809fbc22ee760a
+      internalID: 617672972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 777
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811a514443d97cc439225726112b27e6
+      internalID: -2117382062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_paleta
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 767
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36b7ee6f1afa84797623781cc57b1a
+      internalID: 230878429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Regla1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 163
+        width: 190
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef1e8a2d850cb4093038522db5a2c1
+      internalID: 1107212468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_Regla2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 502
+        width: 164
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1670d3759c92934c94447ffa254eaed
+      internalID: 813926380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_libro1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 657
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7512cbf6149043aafd9c38cacb86c
+      internalID: -318199874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 657
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc37a2657fae947bac13e671c11cf9
+      internalID: 109593964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_libro3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 647
+        width: 149
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba41600bdf58c048a25bab908ecd789
+      internalID: -1187052811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_libro4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 538
+        width: 138
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce921358b56b1f049801c678669ffd85
+      internalID: 738236332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_libro5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 535
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e2379bf215834bb324e57d993ed50
+      internalID: 1311348662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSchool_libreta
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 895
+        width: 109
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd57eea17795834ea4b3f8d501cdf08
+      internalID: -2006970221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconTijeras
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 307
+        width: 146
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a315276b3885374c95d6b4ec693cd3f
+      internalID: -551324292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 414
+        width: 39
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2c3365f4b28b40bc4494fc43aeb06
+      internalID: -1151578928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 410
+        width: 33
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da962d3ee7a45a4b8fb6881cd7c0e15
+      internalID: 784002019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 410
+        width: 38
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10f7ddbf2fe474bac7cfc383e77f83
+      internalID: -955924443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 411
+        width: 43
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeb65b6298f9324e9fc16cb3dd5d660
+      internalID: 1769171474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 410
+        width: 36
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f16a655af467d4280cdfbd9417367e
+      internalID: -1401534617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 408
+        width: 43
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60980ccd3b4bbd4c896036e5463b922
+      internalID: 1789649579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 594
+        width: 35
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448f2834b46bb34d81c392eb5878e55
+      internalID: -1804986200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz8
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 597
+        width: 44
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ef6c4abbc50cb409c2564c834e2213
+      internalID: 621888663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 595
+        width: 34
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bc248760df8ad48a5d69ec60e94b9b
+      internalID: 1703567110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergelapiz10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 598
+        width: 39
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48821c3b9af1240a9c56a5669a278e
+      internalID: 37334820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TijerasParte
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 248
+        width: 158
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de70dc1b6e33e4b876277c89cd430f
+      internalID: -1210054392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTicket01
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 410
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c82899152df4c439d44c0eb88aa04f
+      internalID: 1230671271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTicket02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57470ab314c37b445b5f868b5284aa06
+      internalID: 139870116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTicket03
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 531
+        width: 179
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982dedab7e2a2c844b2edf8ddb6915cc
+      internalID: 1958593275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTicket04
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 407
+        width: 229
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecae9c15be5c114bbc6a4aae204efc7
+      internalID: 1029124962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d6360489facdbbf409bddd0d5ff9fd2a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IconsMergeSchool_GradeE+: -1247833747951515
+      IconsMergelapiz8: 621888663
+      IconsMergeSchool_5: -1090145136
+      IconsMergeSchool_GradeB+: -394174556531573290
+      IconsMergelapiz6: 1789649579
+      IconsMergeSchool_charJ: -1863130975
+      IconsMergeSchool_charG: -1878910873
+      IconsMergeSchool_2: 633080162
+      IconsMergeSchool_paleta: 230878429
+      IconsMergelapiz10: 37334820
+      IconsMergeSchool_Number1: 5895840106224399719
+      IconsMergeSchool_1: 681557477
+      IconsMergeSchool_charF: 19727328
+      IconsMergeSchool_Number6: 1781443668350957238
+      IconsMergeSchool_8: -2117382062
+      IconsMergeSchool_0: -318199874
+      IconsMergelapiz4: 1769171474
+      IconsMergelapiz1: -1151578928
+      IconsMergeSchool_GradeB: -3641400573196089407
+      IconsMergeSchool_GradeC: -9222794297273296752
+      IconsMergeSchool_libro3: -1187052811
+      IconsMergeSchool_Number7: 1581786747724506231
+      IconsMergeSchool_Number3: 4459642119409427263
+      IconsMergeSchool_charA: -1607929722
+      IconsMergeSchool_charB: -34594654
+      IconsMergeSchool_libro4: 738236332
+      IconsMergeSchool_libro5: 1311348662
+      IconsMergeSchool_GradeD+: 4234086110830692220
+      IconsMergeSchool_GradeE: 7867622750452113352
+      IconsMergeSchool_Number2: 900152927208119030
+      IconsMergelapiz9: 1703567110
+      TijerasParte: -1210054392
+      IconsMergeTicket01: 1230671271
+      IconsMergeSchool_GradeA+: -5212446867607377419
+      IconsMergeSchool_Regla1: 1107212468
+      IconsMergeSchool_libro1: -318199874
+      IconsMergeSchool_Number5: -3287713841407311590
+      IconsMergeSchool_NumbersGenerator: 6650911745830925836
+      IconsMergeSchool_charC: -996596573
+      IconsMergeSchool_charE: -1916364255
+      IconsMergeSchool_Number8: -1660007483019739553
+      IconsMergeSchool_6: -1769081905
+      IconsMergeSchool_Number4: -8597998768421229297
+      IconsMergelapiz5: -1401534617
+      IconsMergeSchool_GradeF: -2813584940454025973
+      IconsMergeSchool_charI: 1264459359
+      IconsMergeSchool_Regla2: 813926380
+      IconsMergeTicket02: 139870116
+      IconsMergelapiz3: -1151578928
+      IconsMergeSchool_charD: -2345437
+      IconsMergeSchool_GeneratorTable: -1294618134949735066
+      IconsMergeTicket03: 1958593275
+      IconsMergelapiz2: -955924443
+      IconsMergeSchool_4: 99464069
+      IconsMergeSchool_GradeA: 1355904550529775220
+      IconsMergelapiz7: -1804986200
+      IconsMergeSchool_GradeC+: 7494416759840520452
+      IconsMergeSchool_GradeD: -6181717155432578643
+      IconsMergeSchool_charH: 185056496
+      IconsMergeSchool_7: 617672972
+      IconsMergeTicket04: 1029124962
+      IconsMergeSchool_3: -12615208
+      IconTijeras: -551324292
+      IconsMergeSchool_libreta: -2006970221
+      IconsMergeSchool_Number9: 2435963516895116892
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &180849976121430374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2123554995080881316}
+  - component: {fileID: 4632442769663149929}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - CompleteMission2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2123554995080881316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180849976121430374}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4632442769663149929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180849976121430374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 44
+  TutorialsCompletedBefore: 2b000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.1
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 113149407527985152
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 2
+    completeType: 0
+    targetPiece:
+      pieceType: 6
+      pieceLevel: 2
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 7
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 1
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &977714848473790433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7239290189002021883}
+  - component: {fileID: 5524811102433836198}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard2-3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7239290189002021883
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977714848473790433}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5524811102433836198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977714848473790433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 19
+  TutorialsCompletedBefore: 12000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 2
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 112430745682731008
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 1
+    completeType: 0
+    targetPiece:
+      pieceType: 6
+      pieceLevel: 1
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 13
+        pieceLevel: 2
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 1
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &1136457793392399477
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6276555064438722388}
+  - component: {fileID: 3961039671310997838}
+  m_Layer: 0
+  m_Name: Tutorial Storage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6276555064438722388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1136457793392399477}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3961039671310997838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1136457793392399477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 39
+  TutorialsCompletedBefore: 
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: -110, y: -10, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 3
+  buttonsToHide:
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete:
+  - {fileID: 0}
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.5
+  buildingToTap: {fileID: 0}
+  blockUI: 1
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &1429634166373836977
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8199032097767306532}
+  - component: {fileID: 156462933117309473}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard2-1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8199032097767306532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1429634166373836977}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &156462933117309473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1429634166373836977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 17
+  TutorialsCompletedBefore: 07000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 2
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109762533446934528
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 0
+    completeType: 0
+    targetPiece:
+      pieceType: 5
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 13
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 4
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &3307811859008517821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2586687322088187533}
+  - component: {fileID: 3661350384820224316}
+  m_Layer: 0
+  m_Name: Tutorial Merge BuyBoxBtn No text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2586687322088187533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3307811859008517821}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3661350384820224316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3307811859008517821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 29
+  TutorialsCompletedBefore: 1c000000
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 3
+  buttonsToHide:
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115991870235704
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115991870235702}
+  - component: {fileID: 4024115991870235705}
+  m_Layer: 0
+  m_Name: Tutorial ChangeName
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115991870235702
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991870235704}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115991870235705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991870235704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8bc965c74f78c84ea66ec3fa56c0b4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 26
+  TutorialsCompletedBefore: 
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 142857811238346752
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: PopupManager, Assembly-CSharp
+        m_MethodName: ShowChangeName
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115991933768984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115991933768985}
+  - component: {fileID: 4024115991933768982}
+  m_Layer: 0
+  m_Name: Tutorial Merge BuyBoxBtn No text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115991933768985
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991933768984}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115991933768982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991933768984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 29
+  TutorialsCompletedBefore: 1c000000
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow:
+  - {fileID: 0}
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115991940512131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115991940512128}
+  - component: {fileID: 197759071591234379}
+  m_Layer: 0
+  m_Name: CM vcamTuto 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115991940512128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991940512131}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.3485724, y: 0.0640551, z: -0.023885526, w: 0.9347854}
+  m_LocalPosition: {x: 5.48, y: 12.759, z: -35.734}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 40.9, y: 7.84, z: 0}
+--- !u!114 &197759071591234379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991940512131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Priority:
+    Enabled: 1
+    m_Value: -3
+  OutputChannel: 1
+  StandbyUpdate: 2
+  m_StreamingVersion: 20241001
+  m_LegacyPriority: 0
+  Target:
+    TrackingTarget: {fileID: 0}
+    LookAtTarget: {fileID: 0}
+    CustomLookAtTarget: 0
+  Lens:
+    FieldOfView: 30
+    OrthographicSize: 2.61
+    NearClipPlane: 0.3
+    FarClipPlane: 1000
+    Dutch: 0
+    ModeOverride: 0
+    PhysicalProperties:
+      GateFit: 2
+      SensorSize: {x: 1, y: 1}
+      LensShift: {x: 0, y: 0}
+      FocusDistance: 10
+      Iso: 200
+      ShutterSpeed: 0.005
+      Aperture: 16
+      BladeCount: 5
+      Curvature: {x: 2, y: 11}
+      BarrelClipping: 0.25
+      Anamorphism: 0
+  BlendHint: 0
+--- !u!1 &4024115991966807045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115991966807043}
+  - component: {fileID: 4024115991966807042}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - GetXP No text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115991966807043
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991966807045}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115991966807042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115991966807045}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 23
+  TutorialsCompletedBefore: 16000000
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992033125667
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992033125664}
+  - component: {fileID: 4024115992033125665}
+  m_Layer: 0
+  m_Name: Tutorial Merge Drinks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992033125664
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992033125667}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992033125665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992033125667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 32
+  TutorialsCompletedBefore: 1f000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109762788049575936
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 1
+    completeType: 0
+    targetPiece:
+      pieceType: 10
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 10
+        pieceLevel: 1
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 1
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992054317065
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992054317062}
+  - component: {fileID: 4024115992054317063}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - DoMoreMissions
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992054317062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992054317065}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992054317063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992054317065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 24
+  TutorialsCompletedBefore: 17000000
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 114229510156607488
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992106328623
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992106328621}
+  - component: {fileID: 4024115992106328620}
+  m_Layer: 0
+  m_Name: Tutorial SpawnFromChest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992106328621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992106328623}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992106328620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992106328623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 36
+  TutorialsCompletedBefore: 23000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete:
+  - {fileID: 0}
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 211678976286941184
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 0
+    completeType: 0
+    targetPiece:
+      pieceType: 1
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 8
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 1
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992210433708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992210433709}
+  - component: {fileID: 1067189834491481393}
+  - component: {fileID: 1314527046373260803}
+  - component: {fileID: 5776835474900119238}
+  m_Layer: 0
+  m_Name: CM vcam3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992210433709
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992210433708}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.01875348, y: 0.37927568, z: -0.0076888422, w: -0.92506176}
+  m_LocalPosition: {x: 18, y: 10.71, z: -35.52}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 2.323, y: -44.587, z: 0}
+--- !u!114 &1067189834491481393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992210433708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Priority:
+    Enabled: 1
+    m_Value: -3
+  OutputChannel: 1
+  StandbyUpdate: 2
+  m_StreamingVersion: 20241001
+  m_LegacyPriority: 0
+  Target:
+    TrackingTarget: {fileID: 0}
+    LookAtTarget: {fileID: 0}
+    CustomLookAtTarget: 0
+  Lens:
+    FieldOfView: 40.190464
+    OrthographicSize: 2.61
+    NearClipPlane: 0.3
+    FarClipPlane: 1000
+    Dutch: 0
+    ModeOverride: 0
+    PhysicalProperties:
+      GateFit: 2
+      SensorSize: {x: 1, y: 1}
+      LensShift: {x: 0, y: 0}
+      FocusDistance: 10
+      Iso: 200
+      ShutterSpeed: 0.005
+      Aperture: 16
+      BladeCount: 5
+      Curvature: {x: 2, y: 11}
+      BarrelClipping: 0.25
+      Anamorphism: 0
+  BlendHint: 0
+--- !u!114 &1314527046373260803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992210433708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f38bda98361e1de48a4ca2bd86ea3c17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Composition:
+    ScreenPosition: {x: 0, y: 0}
+    DeadZone:
+      Enabled: 1
+      Size: {x: 0, y: 0}
+    HardLimits:
+      Enabled: 1
+      Size: {x: 0.8, y: 0.8}
+      Offset: {x: 0, y: 0}
+  CenterOnActivate: 1
+  TargetOffset: {x: 0, y: 0, z: 0}
+  Damping: {x: 0.5, y: 0.5}
+  Lookahead:
+    Enabled: 0
+    Time: 0
+    Smoothing: 0
+    IgnoreY: 0
+--- !u!114 &5776835474900119238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992210433708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90eebaab98e4b44b0ba8c79821e554e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SplineSettings:
+    Spline: {fileID: 0}
+    Position: -0.36
+    Units: 0
+  SplineOffset: {x: -2.4392943, y: -0.8918495, z: -0.26444072}
+  CameraRotation: 0
+  Damping:
+    Enabled: 1
+    Position: {x: 0, y: 0, z: 1}
+    Angular: 0
+  AutomaticDolly:
+    Enabled: 0
+    Method:
+      rid: -2
+  m_LegacyPosition: -1
+  m_LegacyUnits: 0
+  m_LegacySpline: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+--- !u!1 &4024115992222222114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992222222115}
+  - component: {fileID: 4024115992222222112}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992222222115
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992222222114}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992222222112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992222222114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 18
+  TutorialsCompletedBefore: 11000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109762788049575936
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 1
+    completeType: 0
+    targetPiece:
+      pieceType: 6
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 6
+        pieceLevel: 1
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 2
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992311672628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992311672626}
+  - component: {fileID: 4024115992311672629}
+  m_Layer: 0
+  m_Name: Tutorial Merge Open Box 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992311672626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992311672628}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992311672629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992311672628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 34
+  TutorialsCompletedBefore: 21000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 211677005899390976
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 0
+    completeType: 1
+    targetPiece:
+      pieceType: 1
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 1
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 0
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992335944959
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992335944956}
+  - component: {fileID: 4024115992335944957}
+  m_Layer: 0
+  m_Name: Tutorial NewGeneratorDrinks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992335944956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992335944959}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992335944957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992335944959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 31
+  TutorialsCompletedBefore: 1d000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 211664781671686144
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 0
+    completeType: 0
+    targetPiece:
+      pieceType: 16
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 10
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 2
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992358184225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992358184414}
+  - component: {fileID: 4024115992358184415}
+  m_Layer: 0
+  m_Name: Tutorials
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992358184414
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992358184225}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.4762392, y: 2.241458, z: 12.378714}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4024115991940512128}
+  - {fileID: 4024115992748769867}
+  - {fileID: 4024115993121270064}
+  - {fileID: 4024115993422302122}
+  - {fileID: 4024115992989631077}
+  - {fileID: 4024115993757279128}
+  - {fileID: 4024115992714747081}
+  - {fileID: 4024115993769116769}
+  - {fileID: 4024115992222222115}
+  - {fileID: 4024115992545682545}
+  - {fileID: 4024115993232996320}
+  - {fileID: 4024115993348566562}
+  - {fileID: 4024115991966807043}
+  - {fileID: 4024115992054317062}
+  - {fileID: 4024115993353426949}
+  - {fileID: 4024115993711632343}
+  - {fileID: 4024115993020428742}
+  - {fileID: 8199032097767306532}
+  - {fileID: 4603206862235342215}
+  - {fileID: 7239290189002021883}
+  - {fileID: 2123554995080881316}
+  - {fileID: 7088435434196268911}
+  - {fileID: 6845011036810414685}
+  - {fileID: 4024115992629889193}
+  - {fileID: 2586687322088187533}
+  - {fileID: 4024115992335944956}
+  - {fileID: 4024115992033125664}
+  - {fileID: 4024115993451221821}
+  - {fileID: 4024115992311672626}
+  - {fileID: 4024115993763198301}
+  - {fileID: 4024115992106328621}
+  - {fileID: 6224095741873076479}
+  - {fileID: 2915376649972344300}
+  - {fileID: 6276555064438722388}
+  - {fileID: 5323209521159176821}
+  - {fileID: 4024115991870235702}
+  - {fileID: 4024115992554687235}
+  - {fileID: 4024115992599004460}
+  - {fileID: 4024115992210433709}
+  - {fileID: 4024115992943525937}
+  - {fileID: 4024115991933768985}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992358184415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992358184225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a5cab0ab4ec8d0448b2af8a7e935c87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialsContainer: {fileID: 0}
+  tutorials:
+  - {fileID: 4024115993121270065}
+  - {fileID: 4024115993422302123}
+  - {fileID: 4024115992989631074}
+  - {fileID: 4024115993757279129}
+  - {fileID: 4024115992714747078}
+  - {fileID: 4024115993769116702}
+  - {fileID: 4024115992222222112}
+  - {fileID: 4024115992545682542}
+  - {fileID: 4024115993232996323}
+  - {fileID: 4024115993348566563}
+  - {fileID: 4024115991966807042}
+  - {fileID: 156462933117309473}
+  - {fileID: 7277639124935417457}
+  - {fileID: 5524811102433836198}
+  - {fileID: 4632442769663149929}
+  - {fileID: 336726584101103551}
+  - {fileID: 2285579726036235399}
+  - {fileID: 4024115993020428743}
+  - {fileID: 4024115992629889190}
+  - {fileID: 3661350384820224316}
+  - {fileID: 4024115992335944957}
+  - {fileID: 4024115992033125665}
+  - {fileID: 3961039671310997838}
+  _overlay: {fileID: 0}
+  _tutorialDeliveries: {fileID: 166891024153807183}
+  _tutorialRefill: {fileID: 9154031774904303080}
+  _tutorialStorage: {fileID: 3961039671310997838}
+  _tutorialGiveVehicle: {fileID: 0}
+  _tutorialChangeName: {fileID: 4024115991870235705}
+  _tutorialChangeAvatar: {fileID: 4024115992554687234}
+--- !u!1 &4024115992545682544
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992545682545}
+  - component: {fileID: 4024115992545682542}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992545682545
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992545682544}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992545682542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992545682544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 19
+  TutorialsCompletedBefore: 12000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 112430745682731008
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 1
+    completeType: 0
+    targetPiece:
+      pieceType: 6
+      pieceLevel: 1
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 6
+        pieceLevel: 2
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 1
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992554687237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992554687235}
+  - component: {fileID: 4024115992554687234}
+  m_Layer: 0
+  m_Name: Tutorial ChangeAvatar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992554687235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992554687237}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992554687234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992554687237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8bc965c74f78c84ea66ec3fa56c0b4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 27
+  TutorialsCompletedBefore: 
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 146849512420302848
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: PopupManager, Assembly-CSharp
+        m_MethodName: ShowChangeAvatar
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992599004463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992599004460}
+  m_Layer: 0
+  m_Name: IntroCameraCity
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992599004460
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992599004463}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4024115992629889192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992629889193}
+  - component: {fileID: 4024115992629889190}
+  m_Layer: 0
+  m_Name: Tutorial Merge Open Box
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992629889193
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992629889192}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992629889190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992629889192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 28
+  TutorialsCompletedBefore: 0a000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 204855184436781056
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 0
+    completeType: 1
+    targetPiece:
+      pieceType: 16
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 16
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 0
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992714747080
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992714747081}
+  - component: {fileID: 4024115992714747078}
+  m_Layer: 0
+  m_Name: Tutorial Enter first Building
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992714747081
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992714747080}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992714747078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992714747080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 7
+  TutorialsCompletedBefore: 06000000
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 398076444815360
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 0
+    translation: 
+  - hideTextBubble: 1
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 398358192992256
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow:
+  - {fileID: 0}
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115992748769866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992748769867}
+  - component: {fileID: 3644806457395867739}
+  m_Layer: 0
+  m_Name: CM vcamTuto 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992748769867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992748769866}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.20228128, y: 0.066943586, z: -0.013861093, w: 0.9769385}
+  m_LocalPosition: {x: 7.75, y: 1.9, z: -25.82}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 23.396, y: 7.84, z: 0}
+--- !u!114 &3644806457395867739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992748769866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Priority:
+    Enabled: 1
+    m_Value: -3
+  OutputChannel: 1
+  StandbyUpdate: 2
+  m_StreamingVersion: 20241001
+  m_LegacyPriority: 0
+  Target:
+    TrackingTarget: {fileID: 0}
+    LookAtTarget: {fileID: 0}
+    CustomLookAtTarget: 0
+  Lens:
+    FieldOfView: 23
+    OrthographicSize: 2.61
+    NearClipPlane: 0.3
+    FarClipPlane: 1000
+    Dutch: 0
+    ModeOverride: 0
+    PhysicalProperties:
+      GateFit: 2
+      SensorSize: {x: 1, y: 1}
+      LensShift: {x: 0, y: 0}
+      FocusDistance: 10
+      Iso: 200
+      ShutterSpeed: 0.005
+      Aperture: 16
+      BladeCount: 5
+      Curvature: {x: 2, y: 11}
+      BarrelClipping: 0.25
+      Anamorphism: 0
+  BlendHint: 0
+--- !u!1 &4024115992943525936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992943525937}
+  - component: {fileID: 292140780931127898}
+  - component: {fileID: 728939950015844113}
+  - component: {fileID: 5221245115299331582}
+  m_Layer: 0
+  m_Name: CM vcam3 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992943525937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992943525936}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.29043016, y: 0.067958325, z: -0.03319023, w: -0.9539028}
+  m_LocalPosition: {x: 23.37, y: 13.8, z: -35.27}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 33.959, y: -7.647, z: 1.647}
+--- !u!114 &292140780931127898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992943525936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Priority:
+    Enabled: 1
+    m_Value: -3
+  OutputChannel: 1
+  StandbyUpdate: 2
+  m_StreamingVersion: 20241001
+  m_LegacyPriority: 0
+  Target:
+    TrackingTarget: {fileID: 0}
+    LookAtTarget: {fileID: 0}
+    CustomLookAtTarget: 0
+  Lens:
+    FieldOfView: 52.75
+    OrthographicSize: 2.61
+    NearClipPlane: 0.3
+    FarClipPlane: 1000
+    Dutch: 0
+    ModeOverride: 0
+    PhysicalProperties:
+      GateFit: 2
+      SensorSize: {x: 1, y: 1}
+      LensShift: {x: 0, y: 0}
+      FocusDistance: 10
+      Iso: 200
+      ShutterSpeed: 0.005
+      Aperture: 16
+      BladeCount: 5
+      Curvature: {x: 2, y: 11}
+      BarrelClipping: 0.25
+      Anamorphism: 0
+  BlendHint: 0
+--- !u!114 &728939950015844113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992943525936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f38bda98361e1de48a4ca2bd86ea3c17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Composition:
+    ScreenPosition: {x: 0, y: 0}
+    DeadZone:
+      Enabled: 1
+      Size: {x: 0, y: 0}
+    HardLimits:
+      Enabled: 1
+      Size: {x: 0.8, y: 0.8}
+      Offset: {x: 0, y: 0}
+  CenterOnActivate: 1
+  TargetOffset: {x: 0, y: 0, z: 0}
+  Damping: {x: 0.5, y: 0.5}
+  Lookahead:
+    Enabled: 0
+    Time: 0
+    Smoothing: 0
+    IgnoreY: 0
+--- !u!114 &5221245115299331582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992943525936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90eebaab98e4b44b0ba8c79821e554e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SplineSettings:
+    Spline: {fileID: 0}
+    Position: -0.36
+    Units: 0
+  SplineOffset: {x: 0.81076807, y: 0.93177485, z: 4.605167}
+  CameraRotation: 0
+  Damping:
+    Enabled: 1
+    Position: {x: 0, y: 0, z: 1}
+    Angular: 0
+  AutomaticDolly:
+    Enabled: 0
+    Method:
+      rid: -2
+  m_LegacyPosition: -1
+  m_LegacyUnits: 0
+  m_LegacySpline: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+--- !u!1 &4024115992989631076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115992989631077}
+  - component: {fileID: 4024115992989631074}
+  m_Layer: 0
+  m_Name: Tutorial Start from home 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115992989631077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992989631076}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115992989631074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115992989631076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 5
+  TutorialsCompletedBefore: 04000000
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109414350485217280
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993020428745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993020428742}
+  - component: {fileID: 4024115993020428743}
+  m_Layer: 0
+  m_Name: Tutorial Go To second Building
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993020428742
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993020428745}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993020428743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993020428745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 10
+  TutorialsCompletedBefore: 17000000
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 204989993427427328
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  - hideTextBubble: 1
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 395545723416576
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow:
+  - {fileID: 0}
+  - {fileID: 0}
+  ObjectsToShowOnComplete:
+  - {fileID: 0}
+  - {fileID: 0}
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993121270067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993121270064}
+  - component: {fileID: 4024115993121270065}
+  m_Layer: 0
+  m_Name: Tutorial Intro
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993121270064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993121270067}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993121270065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993121270067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f7fe3c9675b8a47ab8deb0fd3a61a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 1
+  TutorialsCompletedBefore: 
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 3644806457395867739}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  director: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993232996322
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993232996320}
+  - component: {fileID: 4024115993232996323}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - CompleteMission
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993232996320
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993232996322}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993232996323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993232996322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 21
+  TutorialsCompletedBefore: 13000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.1
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 113149407527985152
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 2
+    completeType: 0
+    targetPiece:
+      pieceType: 6
+      pieceLevel: 2
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 7
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 1
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993348566565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993348566562}
+  - component: {fileID: 4024115993348566563}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - SelectXP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993348566562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993348566565}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993348566563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993348566565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 22
+  TutorialsCompletedBefore: 15000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.35
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 113544118289850368
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 3
+    completeType: 1
+    targetPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 7
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 0
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993353426951
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993353426949}
+  - component: {fileID: 4024115993353426948}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - Open mission
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993353426949
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993353426951}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993353426948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993353426951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 20
+  TutorialsCompletedBefore: 17000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow:
+  - {fileID: 0}
+  - {fileID: 0}
+  ObjectsToShowOnComplete:
+  - {fileID: 0}
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.334
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 113148701316243456
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 2
+    completeType: 0
+    targetPiece:
+      pieceType: 0
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 0
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 0
+    translation: 
+  handPrefab: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993422302125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993422302122}
+  - component: {fileID: 4024115993422302123}
+  m_Layer: 0
+  m_Name: Tutorial Start from home 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993422302122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993422302125}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993422302123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993422302125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 4
+  TutorialsCompletedBefore: 01000000
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109403704284700672
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993451221823
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993451221821}
+  - component: {fileID: 4024115993451221820}
+  m_Layer: 0
+  m_Name: Tutorial Merge CompleteMission 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993451221821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993451221823}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993451221820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993451221823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 33
+  TutorialsCompletedBefore: 20000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.1
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 113149407527985152
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 2
+    completeType: 0
+    targetPiece:
+      pieceType: 10
+      pieceLevel: 1
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 7
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 1
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993711632342
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993711632343}
+  - component: {fileID: 9154031774904303080}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - Refill Generator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993711632343
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993711632342}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9154031774904303080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993711632342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 25
+  TutorialsCompletedBefore: 
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 134516524420456448
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 1
+  autoCompleteInLevel: 3
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 1
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993757279131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993757279128}
+  - component: {fileID: 4024115993757279129}
+  m_Layer: 0
+  m_Name: Tutorial Go To first Building
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993757279128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993757279131}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993757279129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993757279131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 6
+  TutorialsCompletedBefore: 05000000
+  steps:
+  - hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109423389155811328
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 0
+    translation: 
+  - hideTextBubble: 1
+    hideContinueButton: 0
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 395545723416576
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete:
+  - {fileID: 0}
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993763198303
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993763198301}
+  - component: {fileID: 4024115993763198300}
+  m_Layer: 0
+  m_Name: Tutorial Merge BuyBox 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993763198301
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993763198303}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993763198300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993763198303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 35
+  TutorialsCompletedBefore: 22000000
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &4024115993769116771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4024115993769116769}
+  - component: {fileID: 4024115993769116702}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4024115993769116769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993769116771}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4024115993769116702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4024115993769116771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 17
+  TutorialsCompletedBefore: 07000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109762533446934528
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 0
+    completeType: 0
+    targetPiece:
+      pieceType: 5
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 6
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 4
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &5497111687812288877
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6224095741873076479}
+  - component: {fileID: 4565137960218457654}
+  m_Layer: 0
+  m_Name: Tutorial Merge Storage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6224095741873076479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497111687812288877}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4565137960218457654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5497111687812288877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 35
+  TutorialsCompletedBefore: 22000000
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &5675222246296091729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5323209521159176821}
+  - component: {fileID: 4625257978726835715}
+  m_Layer: 0
+  m_Name: Tutorial StorageRewards
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5323209521159176821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5675222246296091729}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4625257978726835715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5675222246296091729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6c5a9c7a3de6049932f0be4da0b044, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 48
+  TutorialsCompletedBefore: 2f000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 3
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.44
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 1
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &5682940053694250300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7088435434196268911}
+  - component: {fileID: 336726584101103551}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - SelectXP 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7088435434196268911
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5682940053694250300}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &336726584101103551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5682940053694250300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 45
+  TutorialsCompletedBefore: 2c000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.35
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 113544118289850368
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 3
+    completeType: 1
+    targetPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 7
+        pieceLevel: 0
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 0
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &5727045873424813841
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6845011036810414685}
+  - component: {fileID: 2285579726036235399}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard - GetXP 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6845011036810414685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5727045873424813841}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2285579726036235399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5727045873424813841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 45
+  TutorialsCompletedBefore: 2d000000
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 0
+    handPosition: {x: 0, y: 0, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 0
+  buttonsToHide: []
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &6558513393796862079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4603206862235342215}
+  - component: {fileID: 7277639124935417457}
+  m_Layer: 0
+  m_Name: Tutorial MergeBoard2-2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4603206862235342215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6558513393796862079}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7277639124935417457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6558513393796862079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ce447f19182af498a5919aecc58058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 18
+  TutorialsCompletedBefore: 11000000
+  steps: []
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 2
+  buttonsToHide:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete: []
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0
+  buildingToTap: {fileID: 0}
+  blockUI: 0
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  mergeStep:
+    hideTextBubble: 0
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: GUID:9751a0f253854274fb3d9d6513f2d81b
+      m_TableEntryReference:
+        m_KeyId: 109762788049575936
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    stepType: 1
+    completeType: 0
+    targetPiece:
+      pieceType: 6
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      unlockPrice: 0
+      generator:
+        capLeft: 0
+    result:
+      pieceType:
+        pieceType: 13
+        pieceLevel: 1
+        locked: 0
+        hidden: 0
+        unlockLevel: 0
+        unlockPrice: 0
+        generator:
+          capLeft: 0
+      amount: 2
+    translation: 
+  handPrefab: {fileID: 1570173101976427383, guid: 902e2b740e73265429afbb20c155ee34,
+    type: 3}
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &7359305477221611605
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2915376649972344300}
+  - component: {fileID: 166891024153807183}
+  m_Layer: 0
+  m_Name: Tutorial Deliveries
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2915376649972344300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7359305477221611605}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4024115992358184414}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &166891024153807183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7359305477221611605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc182e62abbf8b4aa47973b8dde9c36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialKey: 39
+  TutorialsCompletedBefore: 
+  steps:
+  - hideTextBubble: 1
+    hideContinueButton: 1
+    localizedKey:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    targetToTap: {fileID: 0}
+    useHandPointer: 1
+    handPosition: {x: -110, y: -10, z: 0}
+    pointerBounceOnTop: 1
+    translation: 
+  targetButton: {fileID: 0}
+  showTutoGirl: 0
+  autoCompleteInLevel: 3
+  buttonsToHide:
+  - {fileID: 0}
+  buttonsToShow: []
+  ObjectsToShowOnComplete:
+  - {fileID: 0}
+  cameraTuto: {fileID: 0}
+  startDelaySeconds: 0.5
+  buildingToTap: {fileID: 0}
+  blockUI: 1
+  isRunning: 0
+  insideMergeBoard: 0
+  OnStartMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCompleteMethod:
+    m_PersistentCalls:
+      m_Calls: []
+  buildingToFocus: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

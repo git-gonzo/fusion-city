@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 943e0d81278602549804cf1e1d4c1009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1323201200619022550
+    second: MapAtlas_Road
+  - first:
+      213: -5376553848020753566
+    second: MapAtlas_Wall1
+  - first:
+      213: 1867717383111702946
+    second: MapAtlas_Road_01
+  - first:
+      213: 8090595938119880824
+    second: MapAtlas_Road_02
+  - first:
+      213: -2038095726450132997
+    second: MapAtlas_RoadCurve_01
+  - first:
+      213: -8283441671159391280
+    second: MapAtlas_RoadCross_01
+  - first:
+      213: 9063033408529449755
+    second: MapAtlas_Road1
+  - first:
+      213: 1323201200619022550
+    second: MapAtlas_Road2
+  - first:
+      213: 2864907714325095772
+    second: MapAtlas_Road3
+  - first:
+      213: -172782243041272684
+    second: MapAtlas_Road4
+  - first:
+      213: -3497153214106104554
+    second: MapAtlas_Road5
+  - first:
+      213: 5031323932859620643
+    second: MapAtlas_Road6
+  - first:
+      213: 5965644433858574696
+    second: MapAtlas_Road7
+  - first:
+      213: 3307414826852689788
+    second: MapAtlas_Road8
+  - first:
+      213: 6548812696154355627
+    second: MapAtlas_Wall2
+  - first:
+      213: 3333464543444441633
+    second: MapAtlas_Wall3
+  - first:
+      213: -7378369595313850331
+    second: MapAtlas_Wall4
+  - first:
+      213: 7525007264835335069
+    second: MapAtlas_Wall5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapAtlas_Wall1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 911
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a6fce2c4a265b0800000000000000
+      internalID: -5376553848020753566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road_01
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 675
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f13970177be910800000000000000
+      internalID: 1867717383111702946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road_02
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 675
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709ad0d322974070800000000000000
+      internalID: 8090595938119880824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_RoadCurve_01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 578
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b2be2cba37b3e0800000000000000
+      internalID: -2038095726450132997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_RoadCross_01
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 680
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db50e800bd4b0d80800000000000000
+      internalID: -8283441671159391280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 416
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1345e6fddc56cd70800000000000000
+      internalID: 9063033408529449755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 294
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d864493b74fc5210800000000000000
+      internalID: 1323201200619022550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 294
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55af92236232c720800000000000000
+      internalID: 2864907714325095772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c970427772a9df0800000000000000
+      internalID: -172782243041272684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 416
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d07143ead977fc0800000000000000
+      internalID: -3497153214106104554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 294
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd408b57ad2d540800000000000000
+      internalID: 5031323932859620643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 294
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8693d68510a3ac250800000000000000
+      internalID: 5965644433858574696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Road8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 294
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c772a67f24c46ed20800000000000000
+      internalID: 3307414826852689788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Wall2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 791
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba739d6337e02ea50800000000000000
+      internalID: 6548812696154355627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Wall3
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 790
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9d5f3758d24e20800000000000000
+      internalID: 3333464543444441633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Wall4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 789
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52876c102f3ca9990800000000000000
+      internalID: -7378369595313850331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapAtlas_Wall5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 789
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937eb8fc323e6860800000000000000
+      internalID: 7525007264835335069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MapAtlas_Road1: 9063033408529449755
+      MapAtlas_Road2: 1323201200619022550
+      MapAtlas_RoadCross_01: -8283441671159391280
+      MapAtlas_Wall2: 6548812696154355627
+      MapAtlas_Road3: 2864907714325095772
+      MapAtlas_Road6: 5031323932859620643
+      MapAtlas_Road7: 5965644433858574696
+      MapAtlas_Road8: 3307414826852689788
+      MapAtlas_Wall5: 7525007264835335069
+      MapAtlas_Wall3: 3333464543444441633
+      MapAtlas_Wall4: -7378369595313850331
+      MapAtlas_Road_01: 1867717383111702946
+      MapAtlas_Road5: -3497153214106104554
+      MapAtlas_Road4: -172782243041272684
+      MapAtlas_Wall1: -5376553848020753566
+      MapAtlas_Road_02: 8090595938119880824
+      MapAtlas_RoadCurve_01: -2038095726450132997
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

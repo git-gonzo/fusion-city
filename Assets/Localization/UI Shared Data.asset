@@ -1,0 +1,609 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: cfd06bfc363850c41ba135b79efa6c75
+  m_Entries:
+  - m_Id: 112543019008
+    m_Key: btn_continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342720553299968
+    m_Key: btn_Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348788708749312
+    m_Key: btn_Choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688093469749248
+    m_Key: btn_ArriveNow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688324588482560
+    m_Key: btn_Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695998428360704
+    m_Key: btn_FinishNow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340953790820352
+    m_Key: Popup_ChangeName_Title_First
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341950890127360
+    m_Key: Popup_ChangeName_Title_After
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342054569127936
+    m_Key: Popup_ChangeName_Descrip_First
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342490965487616
+    m_Key: Popup_ChangeName_Descrip_After
+    m_Metadata:
+      m_Items: []
+  - m_Id: 689143949963264
+    m_Key: Title_Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 689385114054656
+    m_Key: Title_Fame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3251649142730752
+    m_Key: Title_Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3273654088904704
+    m_Key: btn_Claim_Mayusc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964012609679360
+    m_Key: Title_Jobs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964092817354752
+    m_Key: Title_Activities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7965485976399872
+    m_Key: Title_TimeToGetHere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16370506938068992
+    m_Key: "Title_Level\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19253748540256256
+    m_Key: Title_Garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21016867448958976
+    m_Key: Btn_buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21022917472432128
+    m_Key: txt_speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21022986623922176
+    m_Key: Durability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21162793807261696
+    m_Key: btn_Sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21164742099218432
+    m_Key: btn_Repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21171687774367744
+    m_Key: btn_EnterShop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24744403311931392
+    m_Key: Title_people
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54086228387061760
+    m_Key: btn_EnterHouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60260542937325568
+    m_Key: Title_Encounter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60260892494815232
+    m_Key: Title_Incident
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60261330313043968
+    m_Key: Title_Surprise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147024255541248
+    m_Key: BTN_Watch_Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147164991217664
+    m_Key: Title_Free_Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147681809162240
+    m_Key: Title_GetItNow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70317003449065472
+    m_Key: Title_Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70317371620876288
+    m_Key: Title_Travels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73914289731166208
+    m_Key: Title_Vehicles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80900838146465792
+    m_Key: buildingPrice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82739437779312640
+    m_Key: unlockBuilding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83427836832014336
+    m_Key: Unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86665398384091136
+    m_Key: Owned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86963978550403072
+    m_Key: btn_Claim_Minusc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86969195031453696
+    m_Key: profit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108462054322495488
+    m_Key: btn_Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132029813945819136
+    m_Key: popup_energy_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132029978224123904
+    m_Key: popup_energy_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142905654716162048
+    m_Key: btn_AllTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305107649552384
+    m_Key: StatMusic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305175395950592
+    m_Key: StatGraphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305264046759936
+    m_Key: StatHighQuality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145314224359366656
+    m_Key: SettingsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147789693835042816
+    m_Key: Season
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147790777869688832
+    m_Key: SeasonRewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147949986271748096
+    m_Key: prizes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149196944563003392
+    m_Key: btn_view
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160509956687159296
+    m_Key: Title_Storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160839065258713088
+    m_Key: Storage_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163044299821309952
+    m_Key: Title_Missions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164966630663675904
+    m_Key: DeliverIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164966746640375808
+    m_Key: ShowLocation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164972139856814080
+    m_Key: PutInstorage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164972351098740736
+    m_Key: CompleteMissionsDescrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196858132956209152
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209908689627275264
+    m_Key: EndsIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213072879967821824
+    m_Key: MergedPieces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213074123289550848
+    m_Key: OrdersComplete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213082761118900224
+    m_Key: travelTooltip1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215321979245322240
+    m_Key: BestVehicleCAPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223570478650908672
+    m_Key: TimeLimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224393886427013120
+    m_Key: PopupPurchaseDescrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224394122272727040
+    m_Key: Congratulations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226076893546307584
+    m_Key: YourGifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226077000383619072
+    m_Key: YourGiftsDescrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227678192272433152
+    m_Key: MakeGift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227678293845893120
+    m_Key: Steal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227684829905313792
+    m_Key: ComeToPlayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227916792213823488
+    m_Key: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228300732879626240
+    m_Key: MakeGiftDescrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228473501357465600
+    m_Key: islookingfor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228474332358139904
+    m_Key: AvailableItems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228981907801530368
+    m_Key: YouHaveGifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229006611178348544
+    m_Key: GiftReceivedTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229006752169877504
+    m_Key: StolenTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229007334276358144
+    m_Key: StolenDescrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229036624971849728
+    m_Key: SendingGiftWait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229036735550480384
+    m_Key: SendStelaingWait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229038973874364416
+    m_Key: GiftStorageEmpty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229406939648385024
+    m_Key: GiftSent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229413360951648256
+    m_Key: NoNeededItems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229478908041388032
+    m_Key: StealDescrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229501717421514752
+    m_Key: NoItemsToStealInStorage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229502450078343168
+    m_Key: WeaponsAvailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229502758477127680
+    m_Key: NoWeaponsAvailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229509860545290240
+    m_Key: ChooseItemToSteal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275479196262400
+    m_Key: StealSuccessTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275854410309632
+    m_Key: StealSuccessDesc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275938845843456
+    m_Key: StealSuccessDesc2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232253370293837824
+    m_Key: StatSound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232265013841125376
+    m_Key: SettingsPopupDescrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232603141621702656
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232654255327043584
+    m_Key: Discard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232654423292141568
+    m_Key: Restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237325930295484416
+    m_Key: BuildingsOwned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237326233380085760
+    m_Key: GiftsSent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237326301164232704
+    m_Key: ItemsStolen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237728704430628864
+    m_Key: coinsperhour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237728823125237760
+    m_Key: MaxCap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237813711635505152
+    m_Key: Building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237814704989298688
+    m_Key: BuyBuildingDetails
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237817817875898368
+    m_Key: Capacity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237845902729961472
+    m_Key: ClaimEarningsBelow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 238052196569079808
+    m_Key: NewAvatars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239143927871987712
+    m_Key: FamePoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287427332338114560
+    m_Key: LuckyWheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290019683652886528
+    m_Key: RoulettePreTitle1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290019897688219648
+    m_Key: RoulettePreTitle2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290020624829538304
+    m_Key: BtnBuyTickets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290728917730353152
+    m_Key: ui_back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291398541429989376
+    m_Key: ui_spin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295019334592389120
+    m_Key: ui_upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298349661926744064
+    m_Key: seasonEnded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318511745104633856
+    m_Key: ChooseReward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318676299600125952
+    m_Key: TimeOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318676687636160512
+    m_Key: ExtraPoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319714966091358208
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319715093078106112
+    m_Key: IncreaseYourChances
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319966247720607744
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320033075713040384
+    m_Key: LeaderboardEndsIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320033347680100352
+    m_Key: WelcomeToTheCircus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320824442940841984
+    m_Key: YesterdayResults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321915611070357504
+    m_Key: TodayResult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322235553510612992
+    m_Key: PlayingWith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335678925336240128
+    m_Key: RequestedItems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335680094125187072
+    m_Key: Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335680346974609408
+    m_Key: Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368660812003246080
+    m_Key: btnStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372963291050246144
+    m_Key: AttentionTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372971530244554752
+    m_Key: resetReason
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125080848007168
+    m_Key: getOfferNow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125583539535872
+    m_Key: specialOffer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125795121201152
+    m_Key: Unique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383492137663037440
+    m_Key: YouOwn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390981970744541184
+    m_Key: PossibleItems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400120012071731200
+    m_Key: hire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400120130896363520
+    m_Key: Assistant_smartGenerators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400121291770658816
+    m_Key: days
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1616156283838

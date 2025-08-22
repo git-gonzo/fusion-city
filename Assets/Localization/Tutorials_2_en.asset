@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorials_2_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9751a0f253854274fb3d9d6513f2d81b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 351715225645056
+    m_Localized: Now we are ready to go to the city, press the map icon for it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394595977801728
+    m_Localized: Here is the appartment, you can see our location with the green
+      pointer on top of the building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394928376393728
+    m_Localized: This is the neighborhood, you will find many things to do around
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395271243968512
+    m_Localized: Now lets go to this restaurant, it's really close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395545723416576
+    m_Localized: <color=#4CFCFF>Tap</color> on the button <color=yellow>Go</color>
+      to start moving to this place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398076444815360
+    m_Localized: Now that you are here,  <color=#4CFCFF>tap</color> on the Restaurant
+      to see the actions you can make
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398358192992256
+    m_Localized: In most of the places you will be able to ask for a job, let's try
+      it,  <color=#4CFCFF>tap</color> on the button <color=yellow>Ask for jobs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398828487716864
+    m_Localized: These are some jobs this restaurant offers, it will take some time
+      but you will ear and learn, eventually they will be better
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399277584429056
+    m_Localized: Great, you have earned some money and gained some experience, close
+      this screen <color=#4CFCFF>Tapping</color> on de <color=yellow>Close button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399733433970688
+    m_Localized: Time to go back to the Appartment,  <color=#4CFCFF>tap</color> on
+      it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399952431165440
+    m_Localized: <color=#4CFCFF>Tap</color> on the button <color=yellow>Go</color>
+      to start moving to this place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400232098967552
+    m_Localized: You are here,  <color=#4CFCFF>tap</color> on the building to see
+      the actions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400422113521664
+    m_Localized: <color=#4CFCFF>Tap</color> on <color=yellow>Enter</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407072157347840
+    m_Localized: Now you know how to move along the city. Explore it do more jobs
+      and find your style. <br>I will point you some activities you can start doing,
+      will be a good way to star socializing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24759518774046720
+    m_Localized: Lets find another job nearby, the <color=#4CFCFF> bicycle shop</color>
+      seems a good place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25471777385099264
+    m_Localized: You have arrived,  <color=#4CFCFF>tap</color> on the bicycle shop
+      to see the actions you can make
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25472457663459328
+    m_Localized: Lets have a look to the jobs here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109403704284700672
+    m_Localized: Hi, I've heard that you are new here. Welcome to the city!<br>This
+      is your location, represented with the <color=green>green</color> pointer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109414350485217280
+    m_Localized: This is the neighborhood<br> If you want to become a celebrity the
+      best thing we can do is start doing some jobs. I will show you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109423389155811328
+    m_Localized: 'We can try in the Restaurants Square, Tap on it and then move to
+      it. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109762533446934528
+    m_Localized: 'In the middle of the board there is a Generator, tap on it to get
+      items, try to get at least 4 '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109762788049575936
+    m_Localized: Merge items of the same type draggin them togheter to get next level
+      item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112430745682731008
+    m_Localized: That is it, do it again ang get the item needed for the order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113148701316243456
+    m_Localized: Nice, now complete more missions to collect more rewards. You can
+      tap on the orders at any time to see the rewards you will get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113149407527985152
+    m_Localized: Now drag the item into the order on top of the board to complete
+      it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113544118289850368
+    m_Localized: Well done, you got the reward into your balance and a new item,
+      select it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113544693509283840
+    m_Localized: Tap the button to collect de XP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114229510156607488
+    m_Localized: Nice, now complete more missions to collect more rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134516524420456448
+    m_Localized: The generator is exhausted, it recovers with time, but you can refill
+      it now with <color=yellow>Refill</color> button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142857811238346752
+    m_Localized: You got a <color=yellow>Fame Point</color> and have entered the
+      Leaderboard. Now it's time to set your name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146849512420302848
+    m_Localized: Now select an Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204855184436781056
+    m_Localized: You have enough coins to open box, lets try and see what is inside
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204989993427427328
+    m_Localized: 'Level up to unlock more areas in the city.
+
+      <br>Let''s get
+      back to the restaurant'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211664781671686144
+    m_Localized: Amazing! That looks like a new generator, lets see what it can spawn
+      and complete another order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211677005899390976
+    m_Localized: 'You were born for this! <br>
+
+      We still have coins to open
+      another box, what could be inside?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211678976286941184
+    m_Localized: Oh my God! It's a chest! <br>Tap on it to get its content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227925589858738176
+    m_Localized: <color=yellow>1 -</color> Drop requested Items in your storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227925751150698496
+    m_Localized: <color=yellow>2 -</color> Take them to the location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227925943463731200
+    m_Localized: <color=yellow>3 -</color> Complete the delivery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259053906351382528
+    m_Localized: Fantastic, you can merge most of the items of the same type like
+      coins, gems, XP, energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259054570964017152
+    m_Localized: Now try to complete more orders to get coins and experience
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259075957787222016
+    m_Localized: Look at that! We've got a new delivery. These will grant us with
+      better rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287002714481647616
+    m_Localized: The best way to move around the city is with a vehicle, you can
+      use my motorbike, it will break after some travels, you can buy more vehicles
+      anytime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330748513568710656
+    m_Localized: How to complete deliveries?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 393186051534553088
+    m_Localized: 'You can move items to your <color=yellow>Storage</color> or bring
+      them back whenever you need.
+
+      You cal also access your <color=yellow>Gifts</color>
+      and <color=yellow>Rewards</color>.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

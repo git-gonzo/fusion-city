@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DailyTasks Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DailyTasks
+  m_TableCollectionNameGuidString: 66fb3dddb4cc4aa4fbad685693284f86
+  m_Entries:
+  - m_Id: 50541387776
+    m_Key: UseBoosters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 845181640704
+    m_Key: WinCoins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2506780336128
+    m_Key: SendGift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4634060021760
+    m_Key: CompleteOrder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4748832956416
+    m_Key: CompleteMissions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4861982695424
+    m_Key: Steal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18125135306752
+    m_Key: ChangeAvatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18251551629312
+    m_Key: MergeItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18404769554432
+    m_Key: Travels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20416697491456
+    m_Key: DailyTasks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20513212620800
+    m_Key: FinalRewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699550113226752
+    m_Key: CompleteAllTask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 700021750128640
+    m_Key: ComeBackTomorrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002634995589120
+    m_Key: WinFame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112128584966144
+    m_Key: MergePieces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113793279057920
+    m_Key: WatchVideos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1263120139968512
+    m_Key: BuyVehicle
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2605722934331047938
+  references:
+    version: 2
+    RefIds:
+    - rid: 2605722934331047938
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1673388045816

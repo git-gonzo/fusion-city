@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b16dd0fb706e8214ab8791277f5592b1, type: 3}
+  m_Name: 202_MotoRacing
+  m_EditorClassIdentifier: 
+  vehicleType: 2
+  id: 202
+  vehicleName: Racing Motorbike
+  vehicleDescrip: This one is really good, very fast and durable
+  reduceTimePercent: 450
+  durability: 50
+  price:
+    rewardType: 2
+    amount: 100
+    vehicleID: 0
+    mergePiece:
+      pType: 0
+      Lvl: 0
+  vehiclePrefab: {fileID: 8408554826878500628, guid: 90133f0ed3516fc45ad47a8328f3d4ce,
+    type: 3}
+  materials: []

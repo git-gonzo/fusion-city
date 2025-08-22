@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b386db9d26906846a2154eb039ac2b0, type: 3}
+  m_Name: RestaurantMedium
+  m_EditorClassIdentifier: 
+  buildingType: 19
+  buildingName: The green palm tree
+  buildingDescrip: This is a special restaurant to have a premium meal, some celebrities
+    are regulars to this place
+  isHouse: 0
+  hasPrice: 0
+  hasOwner: 0
+  owner: 
+  price: 0
+  unlockLevel: 9
+  boardConfig: {fileID: 0}
+  possibleJobs:
+  - {fileID: 11400000, guid: 45d0b3a58c99292439804de98b450ba2, type: 2}
+  - {fileID: 11400000, guid: b02a5942a94ef1f4fa4ae4878205c716, type: 2}
+  vehiclesInShop: []
+  buildingActivities:
+  - {fileID: 11400000, guid: afd842a621bd81641a3ed1b44483cd81, type: 2}

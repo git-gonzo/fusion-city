@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9d52f15f693327468bc97142db7fe88, type: 3}
+  m_Name: Chest1
+  m_EditorClassIdentifier: 
+  piecesChances:
+  - pieceType: 8
+    pieceLevel: 0
+    weight: 9
+  - pieceType: 8
+    pieceLevel: 1
+    weight: 2
+  - pieceType: 9
+    pieceLevel: 0
+    weight: 5
+  - pieceType: 7
+    pieceLevel: 0
+    weight: 2
+  - pieceType: 24
+    pieceLevel: 0
+    weight: 4
+  - pieceType: 52
+    pieceLevel: 0
+    weight: 1
+  - pieceType: 69
+    pieceLevel: 0
+    weight: 1
+  - pieceType: 71
+    pieceLevel: 0
+    weight: 2
+  guaranteedPieces:
+  - pType: 24
+    Lvl: 1
+  capacity: 13
+  coolDown: 0

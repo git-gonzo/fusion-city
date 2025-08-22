@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b16dd0fb706e8214ab8791277f5592b1, type: 3}
+  m_Name: 302_HelicopterSmall
+  m_EditorClassIdentifier: 
+  vehicleType: 4
+  id: 302
+  vehicleName: Small Helicopter
+  vehicleDescrip: 
+  reduceTimePercent: 300
+  durability: 60
+  price:
+    rewardType: 1
+    amount: 90000
+    vehicleID: 0
+    mergePiece:
+      pType: 0
+      Lvl: 0
+  vehiclePrefab: {fileID: 5188442555523579829, guid: 42000209cc6f7cc4989f28a4f9f762d8,
+    type: 3}
+  materials: []

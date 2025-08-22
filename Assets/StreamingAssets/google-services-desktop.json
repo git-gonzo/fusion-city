@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "536896712825",
+    "project_id": "mylittlemerge",
+    "storage_bucket": "mylittlemerge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536896712825:android:2414933ee018669d43e4a8",
+        "android_client_info": {
+          "package_name": "com.newmates.mylittlemerge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536896712825-anp2hhl1eed8ga1vtciv33jq3erqjs51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC87VOJJ5s7hiCo8anVGeIyvVOtG6Xyikc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536896712825-anp2hhl1eed8ga1vtciv33jq3erqjs51.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536896712825-d6g2q1j5c3pmflfa7lbunjd0avv2srlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newmates.mylittlemerge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

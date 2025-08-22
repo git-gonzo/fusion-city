@@ -1,0 +1,3476 @@
+fileFormatVersion: 2
+guid: 049c19b1b11c5784c8ab7c61184862db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1982884672813411901
+    second: IconsMergeTemp_0
+  - first:
+      213: -9134818233884781238
+    second: IconsMergeTemp_1
+  - first:
+      213: 6655398807279848856
+    second: IconsMergeTemp_2
+  - first:
+      213: -6638550010742283592
+    second: IconsMergeTemp_3
+  - first:
+      213: 3830920871121785167
+    second: IconsMergeTemp_4
+  - first:
+      213: 2839800949666824381
+    second: IconsMergeTemp_Drink2_5
+  - first:
+      213: -6751054618800896089
+    second: IconsMergeTemp_Drink2_4
+  - first:
+      213: 5760184337914902858
+    second: IconsMergeTemp_Drink2_3
+  - first:
+      213: -4278806841314772646
+    second: IconsMergeTemp_Drink2_2
+  - first:
+      213: 1509022074983631909
+    second: IconsMergeTemp_Drink2_1
+  - first:
+      213: -6456527517166897333
+    second: IconsMergeTemp_Drink1_1
+  - first:
+      213: -7197891378696594869
+    second: IconsMergeTemp_Drink1_2
+  - first:
+      213: -5877949880350458674
+    second: IconsMergeTemp_Drink1_3
+  - first:
+      213: -1847414779951742794
+    second: IconsMergeTemp_Drink1_4
+  - first:
+      213: -5772498869256060464
+    second: IconsMergeTemp_Drink1_5
+  - first:
+      213: 6203324234526130258
+    second: IconsMergeTemp_Drink3_1
+  - first:
+      213: 4937192012078138621
+    second: IconsMergeTemp_Drink3_2
+  - first:
+      213: -7851025634825748950
+    second: IconsMergeTemp_Drink3_3
+  - first:
+      213: -3623125782045100974
+    second: IconsMergeTemp_Drink3_4
+  - first:
+      213: -4073651611601375780
+    second: IconsMergeTemp_Drink3_5
+  - first:
+      213: -2634790490748251615
+    second: mergeIconShadow
+  - first:
+      213: -2150437652572863886
+    second: IconsBurger1
+  - first:
+      213: 2251947657691946049
+    second: IconsBurger0
+  - first:
+      213: -989918499648259566
+    second: IconsBurger2
+  - first:
+      213: -2589014886581720942
+    second: IconsBurger3
+  - first:
+      213: -2159696393456133246
+    second: IconsBurger4
+  - first:
+      213: -6070515897360735886
+    second: IconPantatas0
+  - first:
+      213: -5853839309681885128
+    second: IconPantatas1
+  - first:
+      213: 4396971347930624783
+    second: IconPantatas2
+  - first:
+      213: -2804769799216731860
+    second: IconPantatas3
+  - first:
+      213: 8235444670999809187
+    second: IconsBurgerTomate
+  - first:
+      213: 3725994189136270907
+    second: IconsBurgerBacon
+  - first:
+      213: -2088657464829896634
+    second: IconsBurger4_ketchup
+  - first:
+      213: 8147741880135693391
+    second: IconsBurgerMayonesa
+  - first:
+      213: -7581836739994957245
+    second: IconsBurgerCebolla
+  - first:
+      213: 2537033334429162892
+    second: IconsMergeGeneratorBurger
+  - first:
+      213: -6997482180389591580
+    second: IconsMergeCoin0
+  - first:
+      213: -8986056434391734452
+    second: IconsMergeCoin1
+  - first:
+      213: -3263199205005241297
+    second: IconsMergeCoin2
+  - first:
+      213: 3653280149652403283
+    second: IconsMergeCoin3
+  - first:
+      213: -740442269641789752
+    second: IconsMergeGem0
+  - first:
+      213: -5371439234260946754
+    second: IconsMergeGem1
+  - first:
+      213: 7435420075853996341
+    second: IconsMergeGem2
+  - first:
+      213: -2956875541082319514
+    second: IconsMergeGem3
+  - first:
+      213: 7170889836459687399
+    second: IconsMergeEnergyBooster1
+  - first:
+      213: -8565301738919415111
+    second: IconsMergeEnergyBooster2
+  - first:
+      213: -2542316361275600400
+    second: IconsMergeEnergyBooster3
+  - first:
+      213: 8654915842490534545
+    second: IconsMergeEnergyBoosterTop
+  - first:
+      213: -7176048595148724980
+    second: IconsMergeEnergyBooster1
+  - first:
+      213: -1311116444643055926
+    second: IconsMergeEnergyBoosterTop
+  - first:
+      213: 4584399383246477405
+    second: IconsMergeBakery1_1
+  - first:
+      213: 2907090176508290094
+    second: IconsMergeBakery1_2
+  - first:
+      213: 8915148097202974967
+    second: IconsMergeBakery1_3
+  - first:
+      213: -6964734483133774654
+    second: IconsMergeBakery1_4
+  - first:
+      213: 2524423911580871040
+    second: IconsMergeBakery1_5
+  - first:
+      213: -3051693826389029398
+    second: IconsMergeBakery2_1
+  - first:
+      213: 3474967288850536592
+    second: IconsMergeBakery2_2
+  - first:
+      213: -4213365369714198510
+    second: IconsMergeBakery2_3
+  - first:
+      213: -7751748078099790462
+    second: IconsMergeBakery2_4
+  - first:
+      213: 7682608991841207558
+    second: IconsMergeBakery3_1
+  - first:
+      213: -5083753521827630122
+    second: IconsMergeBakery3_2
+  - first:
+      213: 3706902485231779793
+    second: IconsMergeBakery3_3
+  - first:
+      213: 8627242969245569172
+    second: IconsMergeBakery3_6
+  - first:
+      213: -43501548387104999
+    second: IconsMergeBakery3_6
+  - first:
+      213: 5841862560659405061
+    second: IconsMergeBakery3_6
+  - first:
+      213: -2739602500860855286
+    second: IconsMergeGeneratorKitchen
+  - first:
+      213: -4082260842706587549
+    second: IconsMergeBakery4_1
+  - first:
+      213: -8916051487544431358
+    second: IconsMergeBakery4_2
+  - first:
+      213: -5228983103955390300
+    second: IconsMergeBakery4_3
+  - first:
+      213: -2302562037655797061
+    second: IconsMergeBakery4_4
+  - first:
+      213: -6310326866832767341
+    second: IconsMergeBakery4_5
+  - first:
+      213: -7682561534695575429
+    second: IconsMergeGeneratorDrinks
+  - first:
+      213: -8047865028083578872
+    second: IconsMergeTemp_Crate
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconsMergeTemp_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3258
+        width: 190
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d36655e06b74e0800000000000000
+      internalID: -1982884672813411901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3258
+        width: 196
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a455981f63b9a3180800000000000000
+      internalID: -9134818233884781238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3240
+        width: 194
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d497214f9bc5c50800000000000000
+      internalID: 6655398807279848856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3219
+        width: 215
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b26a0210f12fd3a0800000000000000
+      internalID: -6638550010742283592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3216
+        width: 217
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4118d53c3a2a2530800000000000000
+      internalID: 3830920871121785167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink2_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1602
+        width: 103
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db045b5faeff86720800000000000000
+      internalID: 2839800949666824381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink2_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1601
+        width: 110
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7cc13c79f6f42a0800000000000000
+      internalID: -6751054618800896089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink2_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1600
+        width: 108
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49bf26f22940ff40800000000000000
+      internalID: 5760184337914902858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink2_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1600
+        width: 109
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5091525, y: 0.49703088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59fbe019df9e94c0800000000000000
+      internalID: -4278806841314772646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink2_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1601
+        width: 109
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c4f91059f11f410800000000000000
+      internalID: 1509022074983631909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1377
+        width: 177
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477bb86e6ec566a0800000000000000
+      internalID: -6456527517166897333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 180
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a51f85de3fb1c90800000000000000
+      internalID: -7197891378696594869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1727
+        width: 187
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc392ef9b35d6ea0800000000000000
+      internalID: -5877949880350458674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1839
+        width: 199
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08b20bb0aac56e0800000000000000
+      internalID: -1847414779951742794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink1_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1944
+        width: 198
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d106a7ccd6f3efa0800000000000000
+      internalID: -5772498869256060464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink3_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1834
+        width: 103
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25080815682a61650800000000000000
+      internalID: 6203324234526130258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink3_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1836
+        width: 102
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df440d30afd648440800000000000000
+      internalID: 4937192012078138621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink3_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1795
+        width: 120
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb9b918cd8b0390800000000000000
+      internalID: -7851025634825748950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink3_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1794
+        width: 115
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25474a02c4218bdc0800000000000000
+      internalID: -3623125782045100974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Drink3_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1793
+        width: 127
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd6dcf317b7777c0800000000000000
+      internalID: -4073651611601375780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mergeIconShadow
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1878
+        width: 160
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1229f5522085f6bd0800000000000000
+      internalID: -2634790490748251615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurger1
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1962
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27205c6395c1822e0800000000000000
+      internalID: -2150437652572863886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurger0
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1899
+        width: 154
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c508d9676804f10800000000000000
+      internalID: 2251947657691946049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurger2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1824
+        width: 164
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab0ef8e5a1342f0800000000000000
+      internalID: -989918499648259566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurger3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1972
+        width: 177
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29829178da8f11cd0800000000000000
+      internalID: -2589014886581720942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurger4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1790
+        width: 175
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bda5d92973702e0800000000000000
+      internalID: -2159696393456133246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconPantatas0
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1940
+        width: 173
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a37e44f131cba0800000000000000
+      internalID: -6070515897360735886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconPantatas1
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1462
+        width: 93
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830813ea92cf2cea0800000000000000
+      internalID: -5853839309681885128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconPantatas2
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1930
+        width: 209
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b9f0152e250d30800000000000000
+      internalID: 4396971347930624783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconPantatas3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1462
+        width: 118
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2961f85ab47319d0800000000000000
+      internalID: -2804769799216731860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurgerTomate
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1863
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc3568b4d2a4270800000000000000
+      internalID: 8235444670999809187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurgerBacon
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1905
+        width: 160
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3613ae49f365b330800000000000000
+      internalID: 3725994189136270907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurger4_ketchup
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1904
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64898571a199303e0800000000000000
+      internalID: -2088657464829896634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurgerMayonesa
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1946
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44bf074218921170800000000000000
+      internalID: 8147741880135693391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsBurgerCebolla
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2006
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a489fb7a7e7c690800000000000000
+      internalID: -7581836739994957245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGeneratorBurger
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1640
+        width: 137
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d99f9306a553320800000000000000
+      internalID: 2537033334429162892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCoin0
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1330
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a0cbf703f3ee90800000000000000
+      internalID: -6997482180389591580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCoin1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 859
+        width: 210
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a778784d1b4380800000000000000
+      internalID: -8986056434391734452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCoin2
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 857
+        width: 220
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24535abc99c6b2d0800000000000000
+      internalID: -3263199205005241297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCoin3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 844
+        width: 233
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547401b0fe03b230800000000000000
+      internalID: 3653280149652403283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGem0
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1419
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2155cdab69b5f0800000000000000
+      internalID: -740442269641789752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGem1
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1426
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b74db970d475b0800000000000000
+      internalID: -5371439234260946754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGem2
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1419
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e5191a2bef2760800000000000000
+      internalID: 7435420075853996341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGem3
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1420
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6655fb09c5117f6d0800000000000000
+      internalID: -2956875541082319514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeEnergyBooster1
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1339
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed73a1305e148360800000000000000
+      internalID: 7170889836459687399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeEnergyBooster2
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1256
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b23ca9037fe12980800000000000000
+      internalID: -8565301738919415111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeEnergyBooster3
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1112
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1118b3db0e7bcd0800000000000000
+      internalID: -2542316361275600400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeEnergyBoosterTop
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1199
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a8c806a107c1870800000000000000
+      internalID: 8654915842490534545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeEnergy
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1753
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052833b2dd896c90800000000000000
+      internalID: 658971728330292833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePerrito
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1926
+        width: 193
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a0e94a8afdcde0800000000000000
+      internalID: -361343131761342299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery1_1
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 197
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d581dea23fe0f9f30800000000000000
+      internalID: 4584399383246477405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery1_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 159
+        width: 184
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24edc4fc1f085820800000000000000
+      internalID: 2907090176508290094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery1_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 196
+        width: 184
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f078cdb5f7f8bb70800000000000000
+      internalID: 8915148097202974967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery1_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 158
+        width: 193
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4c5e963ea485f90800000000000000
+      internalID: -6964734483133774654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery1_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 186
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a7403c2e880320800000000000000
+      internalID: 2524423911580871040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery2_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 187
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed44da22a436a5d0800000000000000
+      internalID: -3051693826389029398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery2_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 132
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d90a8650993030800000000000000
+      internalID: 3474967288850536592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery2_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 131
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218b045058e1785c0800000000000000
+      internalID: -4213365369714198510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery2_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 151
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858b8881324c6490800000000000000
+      internalID: -7751748078099790462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery3_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 555
+        width: 257
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605cae28c2c1e9a60800000000000000
+      internalID: 7682608991841207558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery3_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 678
+        width: 255
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b2d55b11e279b0800000000000000
+      internalID: -5083753521827630122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery3_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 222
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb0499b20917330800000000000000
+      internalID: 3706902485231779793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 166
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4905edc75cf1ab770800000000000000
+      internalID: 8601932585120585759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery3_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917053d7293756ff0800000000000000
+      internalID: 8627242969245569172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery3_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 140
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f1c22c07721150800000000000000
+      internalID: -5894240524598417930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGeneratorKitchen
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1460
+        width: 147
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cba6e5a0afaf9d0800000000000000
+      internalID: -2739602500860855286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery4_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1454
+        width: 269
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360bcfd6465e857c0800000000000000
+      internalID: -4082260842706587549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery4_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 788
+        width: 252
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d22dd4962d34480800000000000000
+      internalID: -8916051487544431358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery4_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 924
+        width: 249
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03830429bee67b0800000000000000
+      internalID: -5228983103955390300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery4_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1433
+        width: 270
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb20a38b608ab00e0800000000000000
+      internalID: -2302562037655797061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery4_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1062
+        width: 211
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39644dde5273d68a0800000000000000
+      internalID: -6310326866832767341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGeneratorDrinks
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1736
+        width: 168
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f367fcfe026590800000000000000
+      internalID: -7682561534695575429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Crate
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 0
+        width: 157
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080ac8756d305090800000000000000
+      internalID: -8047865028083578872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach1
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 330
+        width: 78
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f33e59f52c314198dea536c5594cb
+      internalID: -1443833433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach2
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 156
+        width: 74
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272e57cb2ac14445bb583200f949923
+      internalID: -1620894534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach3
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 156
+        width: 124
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2782cd98c1f340a40403eceb20bff
+      internalID: -575120933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach4
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 665
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcba36838c8db6429a6e7424d4c1fba
+      internalID: -474981648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach5
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 146
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05c6bc75fa4bc4ab828c476cccc51a
+      internalID: 45358290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach6
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 739
+        width: 246
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b3d01cf719d934ba92d9447bff9d38
+      internalID: -820314737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach7_1
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 638
+        width: 193
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98b8eb4d00c594a9320a85562acc66
+      internalID: 2086346350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach7_2
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 300
+        width: 65
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b14f16a6b96c97468d4bbe26a5a7531
+      internalID: -269207516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach8
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 500
+        width: 259
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c94fb1a7ecfb4e981dae18d1dc658
+      internalID: 458853630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach9
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 440
+        width: 231
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da66e040666e394dbd920e20a59f4eb
+      internalID: -257448278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach10
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1
+        width: 123
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4e95c140fa7f440b66d982f6c8c663
+      internalID: 52936907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeach11
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 507
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68cdafc58d56f4e9b1f05fd6831c96
+      internalID: -1920235169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeachGenerator
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 408
+        width: 241
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208eebefe7158d24386d5e73c1aeb1fe
+      internalID: 1041761079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurf6
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 0
+        width: 133
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3599e7d9ca0c0409496707230d2b3c
+      internalID: 1410759490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurf1
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 0
+        width: 117
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c108db5fb722e4082b2d3da1d1723d
+      internalID: -151060489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurf2
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 143
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1192acf9adc70468b29b136743f91e
+      internalID: -1868667988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurf3
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 126
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916002c9593fa3419efae4cc501efc0
+      internalID: 306263609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurf4
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 0
+        width: 115
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3f0169812e0745bf6e0846dce86a0
+      internalID: 1447495931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurf5
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 0
+        width: 121
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab865c2a7f278941a84fe1f95c82a3b
+      internalID: 719287476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 358
+        width: 185
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9055a122e75484e874cc0600767954
+      internalID: -1893963108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 522
+        width: 207
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc36c865af7a394398efa8504cac831
+      internalID: 416051111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 445
+        width: 210
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce83a3d134fb4428b20baea326ef70
+      internalID: 917215716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 362
+        width: 190
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628a6b218ab95c541a027fcaccbd60ec
+      internalID: -77513169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 444
+        width: 207
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50edff88b7f769b478dc330251a19bc2
+      internalID: -1300484892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 526
+        width: 198
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734f51bfc673b74590febbfe3eea105
+      internalID: 466586998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 609
+        width: 200
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9780d5f13d93e554f95db4e59d6811c9
+      internalID: 2003356084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 611
+        width: 204
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0348282124dd2b45a7a4cc6ed06ec26
+      internalID: -129205875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 694
+        width: 230
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372bf52b02458064f904ddb6475cafd9
+      internalID: 1635588720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 686
+        width: 240
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405542e4dec285241b253eb83ba25f63
+      internalID: 1670128407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 993
+        width: 277
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246410f14c7f9c4ba34f42f778e2ac5
+      internalID: -1891458977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSunGlass12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 795
+        width: 269
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fcdecebfebac24c90f6f335d1ac7b8
+      internalID: 659885772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBeachGenerator2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 580
+        width: 305
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a7c518dd6868947afae2886b6ab4d6
+      internalID: -264041206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitBanana1
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1105
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4f4ea8e52f79848b8942a6f97aecc9
+      internalID: -299260392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitBanana2
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1106
+        width: 92
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f17ac2094b1145986880012405d42
+      internalID: -1772901473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitBanana3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1106
+        width: 128
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788cfda81a87974ebbc4e0cf7d040df
+      internalID: 2016537162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitBanana4
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1120
+        width: 101
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064bd196447d3af47a31af34f404a978
+      internalID: 611271320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitBanana5
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1098
+        width: 128
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedeca95b1d6828438537f45b3e199b9
+      internalID: 2015795108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitBanana6
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1104
+        width: 227
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52306b061cdde49beec8a363be6a16
+      internalID: -1055445439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitSandia
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 891
+        width: 189
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e0aeacdad3d84fb8d95aae531710f
+      internalID: 1225108632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitCereza
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1105
+        width: 104
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f4e355438a1dd499d23b32793e24fa
+      internalID: -325256671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitPina
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1048
+        width: 229
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd01fda85c37c449cd77303b7be4a7
+      internalID: 228655520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitPera
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1189
+        width: 134
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2fa90c821340b42ad3012a9214e1fc
+      internalID: -1580072914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitManzana
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1187
+        width: 142
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65149edfd3bea6468039fc9b80473a8
+      internalID: 1924508188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitMelocoton
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1179
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a0c30dbd24924da9112af9b48262e
+      internalID: 452476637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitLimon
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1173
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97c9eb2dd0d5248980a1ab09d645eb
+      internalID: 1328368124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitCiruela
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1169
+        width: 169
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e41f384883a44fabf18202136c232
+      internalID: 2121837435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitFresa
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 677
+        width: 163
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777822658a0ed94395df49236cfcdfe
+      internalID: 1508371152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeStarBlue1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 411
+        width: 152
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b064fa615af929489401e6fd26620c8
+      internalID: -896523492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeStarGreen1
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 683
+        width: 152
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e24acf48f676b43884416e632fe55c
+      internalID: 778830351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeStarWhite
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 686
+        width: 148
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debeaa08be570e04a8894b142e55365a
+      internalID: 1604920914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeStarPink1
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1291
+        width: 149
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af0524bda107d418eaffb468984e6b
+      internalID: 1297793701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeStarPink2
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1295
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf783db23971844ba55aae5337ee757
+      internalID: -804871951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockedTileFront
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1526
+        width: 231
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f451f206e2f88499a06ca6dc176ddd
+      internalID: -410355170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockedTileBack
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1614
+        width: 197
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627c44606728e2e46b32b11894cd64bb
+      internalID: -969614593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeTemp_Crate2
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 860
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeebcff8ef5f9e41932216d88174310
+      internalID: 367692554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBoosterEnergy
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1685
+        width: 128
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5cc81cbb65e54a828e6d2bdde274d
+      internalID: 1762504321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBoosterGenerator
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1522
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7cfb9632adf246a27edb6b36a94d7
+      internalID: -962182196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSelection
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1540
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5947f2ef7e1fcfd43a1c5d09832f72c7
+      internalID: 461758081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeChest1
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1638
+        width: 216
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169de06187590c4ca4fb99f74d8f4cd
+      internalID: -1496139739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeChest2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1240
+        width: 232
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad824a002e7c27e40ba764f4721b3715
+      internalID: 1284915367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitAguacate
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1461
+        width: 168
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3defb08f707da459a4c75194b42d4b
+      internalID: 2069295063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeFruitKiwi
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1032
+        width: 209
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d75d3316a20d479c9222c9a5951ba
+      internalID: 1136873741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurfWood2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1846
+        width: 244
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bead8a3001a55d41a961a0c9b1962e8
+      internalID: 1932052155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeSurfWood1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 808
+        width: 122
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9adc6d443ab347a0c5f364f4dff7c
+      internalID: 89874228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery2_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 175
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2dfcbd62c8bc4183749b65f8c6ad0
+      internalID: 1157621812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBakery2_6
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 427
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e0e793f320364e9135fb2ef0cf31a
+      internalID: -1921479648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBoosterEnergy2
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1745
+        width: 138
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec42243d53da7ef418d7466a3a3e36c5
+      internalID: -1917670003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLevelUPBooster
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1559
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b62a4e4d12f840a6e661572aa5b4e
+      internalID: 138941262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IconLevelUPBooster: 138941262
+      IconPantatas0: -6070515897360735886
+      IconPantatas1: -5853839309681885128
+      IconPantatas2: 4396971347930624783
+      IconPantatas3: -2804769799216731860
+      IconsBurger0: 2251947657691946049
+      IconsBurger1: -2150437652572863886
+      IconsBurger2: -989918499648259566
+      IconsBurger3: -2589014886581720942
+      IconsBurger4: -2159696393456133246
+      IconsBurger4_ketchup: -2088657464829896634
+      IconsBurgerBacon: 3725994189136270907
+      IconsBurgerCebolla: -7581836739994957245
+      IconsBurgerMayonesa: 8147741880135693391
+      IconsBurgerTomate: 8235444670999809187
+      IconsMergeBakery1_1: 4584399383246477405
+      IconsMergeBakery1_2: 2907090176508290094
+      IconsMergeBakery1_3: 8915148097202974967
+      IconsMergeBakery1_4: -6964734483133774654
+      IconsMergeBakery1_5: 2524423911580871040
+      IconsMergeBakery2_1: -3051693826389029398
+      IconsMergeBakery2_2: 3474967288850536592
+      IconsMergeBakery2_3: -4213365369714198510
+      IconsMergeBakery2_4: -7751748078099790462
+      IconsMergeBakery2_5: 1157621812
+      IconsMergeBakery2_6: -1921479648
+      IconsMergeBakery3_1: 7682608991841207558
+      IconsMergeBakery3_2: -5083753521827630122
+      IconsMergeBakery3_3: 3706902485231779793
+      IconsMergeBakery3_4: -5894240524598417930
+      IconsMergeBakery3_5: 8601932585120585759
+      IconsMergeBakery3_6: 8627242969245569172
+      IconsMergeBakery4_1: -4082260842706587549
+      IconsMergeBakery4_2: -8916051487544431358
+      IconsMergeBakery4_3: -5228983103955390300
+      IconsMergeBakery4_4: -2302562037655797061
+      IconsMergeBakery4_5: -6310326866832767341
+      IconsMergeBeach1: -1443833433
+      IconsMergeBeach10: 52936907
+      IconsMergeBeach11: -1920235169
+      IconsMergeBeach2: -1620894534
+      IconsMergeBeach3: -575120933
+      IconsMergeBeach4: -474981648
+      IconsMergeBeach5: 45358290
+      IconsMergeBeach6: -820314737
+      IconsMergeBeach7_1: 2086346350
+      IconsMergeBeach7_2: -269207516
+      IconsMergeBeach8: 458853630
+      IconsMergeBeach9: -257448278
+      IconsMergeBeachGenerator: 1041761079
+      IconsMergeBeachGenerator2: -264041206
+      IconsMergeBoosterEnergy: 1762504321
+      IconsMergeBoosterEnergy2: -1917670003
+      IconsMergeBoosterGenerator: -962182196
+      IconsMergeChest1: -1496139739
+      IconsMergeChest2: 1284915367
+      IconsMergeCoin0: -6997482180389591580
+      IconsMergeCoin1: -8986056434391734452
+      IconsMergeCoin2: -3263199205005241297
+      IconsMergeCoin3: 3653280149652403283
+      IconsMergeEnergy: 658971728330292833
+      IconsMergeEnergyBooster1: 7170889836459687399
+      IconsMergeEnergyBooster2: -8565301738919415111
+      IconsMergeEnergyBooster3: -2542316361275600400
+      IconsMergeEnergyBoosterTop: 8654915842490534545
+      IconsMergeFruitAguacate: 2069295063
+      IconsMergeFruitBanana1: -299260392
+      IconsMergeFruitBanana2: -1772901473
+      IconsMergeFruitBanana3: 2016537162
+      IconsMergeFruitBanana4: 611271320
+      IconsMergeFruitBanana5: 2015795108
+      IconsMergeFruitBanana6: -1055445439
+      IconsMergeFruitCereza: -325256671
+      IconsMergeFruitCiruela: 2121837435
+      IconsMergeFruitFresa: 1508371152
+      IconsMergeFruitKiwi: 1136873741
+      IconsMergeFruitLimon: 1328368124
+      IconsMergeFruitManzana: 1924508188
+      IconsMergeFruitMelocoton: 452476637
+      IconsMergeFruitPera: -1580072914
+      IconsMergeFruitPina: 228655520
+      IconsMergeFruitSandia: 1225108632
+      IconsMergeGem0: -740442269641789752
+      IconsMergeGem1: -5371439234260946754
+      IconsMergeGem2: 7435420075853996341
+      IconsMergeGem3: -2956875541082319514
+      IconsMergeGeneratorBurger: 2537033334429162892
+      IconsMergeGeneratorDrinks: -7682561534695575429
+      IconsMergeGeneratorKitchen: -2739602500860855286
+      IconsMergePerrito: -361343131761342299
+      IconsMergeSelection: 461758081
+      IconsMergeSelection2: -570423938
+      IconsMergeStarBlue1: -896523492
+      IconsMergeStarBlue2: 1332236748
+      IconsMergeStarGreen1: 778830351
+      IconsMergeStarPink1: 1297793701
+      IconsMergeStarPink2: -804871951
+      IconsMergeStarWhite: 1604920914
+      IconsMergeSunGlass: 416051111
+      IconsMergeSunGlass10: 1635588720
+      IconsMergeSunGlass11: -1891458977
+      IconsMergeSunGlass12: 659885772
+      IconsMergeSunGlass2: -1893963108
+      IconsMergeSunGlass3: 917215716
+      IconsMergeSunGlass4: -77513169
+      IconsMergeSunGlass5: -1300484892
+      IconsMergeSunGlass6: 466586998
+      IconsMergeSunGlass7: 2003356084
+      IconsMergeSunGlass8: -129205875
+      IconsMergeSunGlass9: 1670128407
+      IconsMergeSurf1: -151060489
+      IconsMergeSurf2: -1868667988
+      IconsMergeSurf3: 306263609
+      IconsMergeSurf4: 1447495931
+      IconsMergeSurf5: 719287476
+      IconsMergeSurf6: 1410759490
+      IconsMergeSurfWood1: 89874228
+      IconsMergeSurfWood2: 1932052155
+      IconsMergeTemp_0: -1982884672813411901
+      IconsMergeTemp_1: -9134818233884781238
+      IconsMergeTemp_2: 6655398807279848856
+      IconsMergeTemp_3: -6638550010742283592
+      IconsMergeTemp_4: 3830920871121785167
+      IconsMergeTemp_Crate: -8047865028083578872
+      IconsMergeTemp_Crate2: 367692554
+      IconsMergeTemp_Drink1_1: -6456527517166897333
+      IconsMergeTemp_Drink1_2: -7197891378696594869
+      IconsMergeTemp_Drink1_3: -5877949880350458674
+      IconsMergeTemp_Drink1_4: -1847414779951742794
+      IconsMergeTemp_Drink1_5: -5772498869256060464
+      IconsMergeTemp_Drink2_1: 1509022074983631909
+      IconsMergeTemp_Drink2_2: -4278806841314772646
+      IconsMergeTemp_Drink2_3: 5760184337914902858
+      IconsMergeTemp_Drink2_4: -6751054618800896089
+      IconsMergeTemp_Drink2_5: 2839800949666824381
+      IconsMergeTemp_Drink3_1: 6203324234526130258
+      IconsMergeTemp_Drink3_2: 4937192012078138621
+      IconsMergeTemp_Drink3_3: -7851025634825748950
+      IconsMergeTemp_Drink3_4: -3623125782045100974
+      IconsMergeTemp_Drink3_5: -4073651611601375780
+      lockedTileBack: -969614593
+      lockedTileFront: -410355170
+      mergeIconShadow: -2634790490748251615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

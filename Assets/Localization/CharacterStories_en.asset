@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CharacterStories_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 67314442079c2974692967706d74d37d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15623806976
+    m_Localized: Hey Welcome to the Casino! Do you want to get great prizes in the
+      Roulette?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334965530624
+    m_Localized: I have some free tickets for you. Good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1328034338594816
+    m_Localized: Hi, I have some cheap bicycles if you want to move faster accross
+      the city
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1328101065777152
+    m_Localized: Oh you are here, let's do some shopping, I've seen a really nice
+      shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1328706790383616
+    m_Localized: My Captain said you will come, help us with the Station inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1329346174279680
+    m_Localized: S'up mate. We have a party on the beach tonight, would you come?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1329690019127296
+    m_Localized: My band needs new sets for our concerts, could you find cool guitars
+      for us?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1330187648131072
+    m_Localized: Welcome to the Circus, this is a Daily Challenge, the better you
+      score more fame you will get.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1330583787560960
+    m_Localized: ' Come every day to beat other players '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1330991847202816
+    m_Localized: 'I''ve heard you are a good student. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331162190471168
+    m_Localized: Come in and find your tools for the lessons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1332169125421056
+    m_Localized: Hi, Do you want to customise your car?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1343071904096256
+    m_Localized: Come to see me again when you unlock this
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807371684478976
+    m_Localized: There is a concert tonight, and guess what... it is you!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807688559951872
+    m_Localized: Probe you are a good musician, the bests of the day will get Fame
+      points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27186900553924608
+    m_Localized: Hey could you help me getting some items, I'd really appreciate
+      it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27187292058648576
+    m_Localized: I know it's not easy and you are very busy, but I still need those
+      items.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31496235807375360
+    m_Localized: 'What a beautiful view!
+
+      I need some things from the Academy,
+      would you help me?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31496578398126080
+    m_Localized: 'I really like this views.
+
+      You remember my request, don''t
+      you?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38243480897257472
+    m_Localized: Hey, it's me again. I was thinking about buying a new motorbike.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38243927263477760
+    m_Localized: It'd cool if you could help me with the outfit. Would you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38248507590246400
+    m_Localized: I cannot ride without my outfit, I can wait but don't forget about
+      me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38273671346454528
+    m_Localized: Hi! Intense day playing tennis, I need a break. Could bring me a
+      couple of items?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38273973143404544
+    m_Localized: I'm gonna keep playing while you find the things I need, take your
+      time
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

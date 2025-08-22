@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CharacterStories Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CharacterStories
+  m_TableCollectionNameGuidString: 67314442079c2974692967706d74d37d
+  m_Entries:
+  - m_Id: 15623806976
+    m_Key: StoryWelcomeCasino1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334965530624
+    m_Key: StoryWelcomeCasino2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1328034338594816
+    m_Key: StoryWelcomeBicycle1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1328101065777152
+    m_Key: StoryWelcomeShopping1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1328706790383616
+    m_Key: StoryWelcomePolice1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1329346174279680
+    m_Key: StoryWelcomeSurf1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1329690019127296
+    m_Key: StoryWelcomeMusic1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1330187648131072
+    m_Key: StoryWelcomeCircus1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1330583787560960
+    m_Key: StoryWelcomeCircus2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1330991847202816
+    m_Key: StoryWelcomeAcademy1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1331162190471168
+    m_Key: StoryWelcomeAcademy2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1332169125421056
+    m_Key: StoryWelcomeTaller1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1343071904096256
+    m_Key: StoryWelcomeCasino3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807371684478976
+    m_Key: StoryWelcomeConcert1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807688559951872
+    m_Key: StoryWelcomeConcert2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27186900553924608
+    m_Key: StoryBicicleMission1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27187292058648576
+    m_Key: StoryBicicleMission1_alternative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31496235807375360
+    m_Key: StoryNoriaLaura1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31496578398126080
+    m_Key: StoryNoriaLaura1_alternative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38243480897257472
+    m_Key: StoryMoto1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38243927263477760
+    m_Key: StoryMoto2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38248507590246400
+    m_Key: StoryMotoWaiting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38273671346454528
+    m_Key: "StoryTenis1\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38273973143404544
+    m_Key: StoryTenis1Waiting
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5747704128198934530
+  references:
+    version: 2
+    RefIds:
+    - rid: 5747704128198934530
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1700680661165

@@ -1,0 +1,735 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5311688323836621915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5847832484685247966}
+  - component: {fileID: 2102191713416900139}
+  m_Layer: 0
+  m_Name: GameConfig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5847832484685247966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5311688323836621915}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11.446644, y: -7.283061, z: 5.396059}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2102191713416900139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5311688323836621915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52e28d2df225cdf45a2f779b19eb7e12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsVisibility: 0
+  Level1XP: 2
+  Level2XP: 20
+  Level3XP: 120
+  Level4XP: 300
+  Level5XP: 600
+  LevelMultiplier: 1.3
+  defaultAvatar: {fileID: -1728889801, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  Avatars:
+  - id: 1
+    sprite: {fileID: -131727057725239500, guid: 3792fd136775b0148a1d5d56fa6b02d1,
+      type: 3}
+    unlockLevel: 0
+    isFree: 1
+    price:
+      rewardType: 0
+      amount: 0
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 2
+    sprite: {fileID: -4111250327430945692, guid: 3792fd136775b0148a1d5d56fa6b02d1,
+      type: 3}
+    unlockLevel: 4
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 2500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 3
+    sprite: {fileID: 4733092224072719694, guid: 3792fd136775b0148a1d5d56fa6b02d1,
+      type: 3}
+    unlockLevel: 0
+    isFree: 1
+    price:
+      rewardType: 0
+      amount: 0
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 4
+    sprite: {fileID: 5263932168545421906, guid: 3792fd136775b0148a1d5d56fa6b02d1,
+      type: 3}
+    unlockLevel: 0
+    isFree: 1
+    price:
+      rewardType: 0
+      amount: 0
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 5
+    sprite: {fileID: 8234704930683684187, guid: 3792fd136775b0148a1d5d56fa6b02d1,
+      type: 3}
+    unlockLevel: 4
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 2500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 6
+    sprite: {fileID: 5879984995472855378, guid: 3792fd136775b0148a1d5d56fa6b02d1,
+      type: 3}
+    unlockLevel: 0
+    isFree: 1
+    price:
+      rewardType: 0
+      amount: 0
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 7
+    sprite: {fileID: 7818066080147912437, guid: 3792fd136775b0148a1d5d56fa6b02d1,
+      type: 3}
+    unlockLevel: 3
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 8
+    sprite: {fileID: 388315381, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 5
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 5000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 9
+    sprite: {fileID: 1823311398, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 5
+    isFree: 0
+    price:
+      rewardType: 2
+      amount: 100
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 10
+    sprite: {fileID: 777859217, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 5
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 5000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 11
+    sprite: {fileID: 1519510435, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 7
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 20000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 12
+    sprite: {fileID: 342364848, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 5
+    isFree: 0
+    price:
+      rewardType: 2
+      amount: 100
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 13
+    sprite: {fileID: -2053372402, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 6
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 9000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 14
+    sprite: {fileID: 281646196, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 6
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 9000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 15
+    sprite: {fileID: 571232166, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 3
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 16
+    sprite: {fileID: -446619936, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 7
+    isFree: 0
+    price:
+      rewardType: 1
+      amount: 20000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 17
+    sprite: {fileID: 1062017336, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 8
+    isFree: 0
+    price:
+      rewardType: 2
+      amount: 250
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  - id: 18
+    sprite: {fileID: -1854789860, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+    unlockLevel: 8
+    isFree: 0
+    price:
+      rewardType: 2
+      amount: 250
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  vehiclesDefinition:
+  - {fileID: 11400000, guid: cec0556187901c14f96eb390ea3b368c, type: 2}
+  - {fileID: 11400000, guid: 279f8c12ed0fa284c8569bc2d13f25b9, type: 2}
+  - {fileID: 11400000, guid: 0e76435eea9b51b468cb3f41de4beb14, type: 2}
+  - {fileID: 11400000, guid: a4e4e174efa3683469947f789f989ebd, type: 2}
+  - {fileID: 11400000, guid: 4d52df09d8421aa4d8c93abf3f5bda7c, type: 2}
+  - {fileID: 11400000, guid: db390afe2d8cd8a4da38ffa7c5331ac2, type: 2}
+  - {fileID: 11400000, guid: d4559cf1f7970d04cab07b4eeefe939b, type: 2}
+  - {fileID: 11400000, guid: c3591e6e8d619cf44bed5912de871aed, type: 2}
+  - {fileID: 11400000, guid: 238645ed7cbb63e41b776ff09b6deb19, type: 2}
+  - {fileID: 11400000, guid: 4f64ce6e211b2ad479e123793397e72a, type: 2}
+  - {fileID: 11400000, guid: 81f9db03b471f8c4bafd0872188525f1, type: 2}
+  - {fileID: 11400000, guid: 1a057453012e66848b43dc5af3bffd50, type: 2}
+  - {fileID: 11400000, guid: 7fc1aaaf11b966841a1cb29fb2eeefe9, type: 2}
+  - {fileID: 11400000, guid: 85b8ae9ace470b04fb17465f7542023c, type: 2}
+  - {fileID: 11400000, guid: 5765373cce7c94b49a75b48e5ae98757, type: 2}
+  - {fileID: 11400000, guid: 9648c66928b0a4d48a5816558f80d25a, type: 2}
+  - {fileID: 11400000, guid: 3f5c119d7973e0042bc11590cbd5deab, type: 2}
+  - {fileID: 11400000, guid: c04100621f37c734d9a025c9fa717f2e, type: 2}
+  - {fileID: 11400000, guid: 0e907af271c27c14a80434158b61bab1, type: 2}
+  - {fileID: 11400000, guid: dac7c6baa4468834c92b79258f9e1148, type: 2}
+  - {fileID: 11400000, guid: 73332e7db74c0be4d8bae7e5b29272d1, type: 2}
+  - {fileID: 11400000, guid: 3e204ce4da8d3ed46a3db3695d9e2db6, type: 2}
+  - {fileID: 11400000, guid: 575690e6be729194f886b63487d6ca06, type: 2}
+  - {fileID: 11400000, guid: d9a00081b7b5aa04da91820839904196, type: 2}
+  vehicleIcons:
+  - transportType: 1
+    icon: {fileID: -7558435802741266728, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  - transportType: 3
+    icon: {fileID: -7165650821312141816, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  - transportType: 0
+    icon: {fileID: 8390263369728513726, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  - transportType: 4
+    icon: {fileID: 7692068942167713470, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  - transportType: 7
+    icon: {fileID: -4494234412595195627, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  - transportType: 8
+    icon: {fileID: -6983306457385399953, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  - transportType: 2
+    icon: {fileID: -7588049760754575609, guid: 3792fd136775b0148a1d5d56fa6b02d1, type: 3}
+  generatorsConfig:
+  - {fileID: 11400000, guid: 2d77c3c8bad0fbd4e872b8be1f2a12ae, type: 2}
+  - {fileID: 11400000, guid: 9bf978280a9c03e4da1975d1d825cac6, type: 2}
+  buildingsConfig: {fileID: 11400000, guid: 573c01e9d02199942997e9c30ffdb82e, type: 2}
+  charactersStory:
+  - {fileID: 11400000, guid: 2d33edfa0611c3e4899eb97a0c17713c, type: 2}
+  - {fileID: 11400000, guid: d518eff236aaa0a4d82cbe8b493b068c, type: 2}
+  - {fileID: 11400000, guid: 16d0f9e0d61d8f74b8e75984b11a3e47, type: 2}
+  - {fileID: 11400000, guid: ae80063a6ede91a4d8346a27e69553bf, type: 2}
+  - {fileID: 11400000, guid: 60e7927371b3c474284687171830c4a8, type: 2}
+  assistantsConfig:
+  - id: smartGenerators1
+    assistantType: 0
+    character: {fileID: 11400000, guid: 457382197734ccd4cb79b1fee32089df, type: 2}
+    assistantDescrip:
+      m_TableReference:
+        m_TableCollectionName: GUID:cfd06bfc363850c41ba135b79efa6c75
+      m_TableEntryReference:
+        m_KeyId: 400120130896363520
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    dayOfWeekToShow: 6
+    tiers:
+    - durationDays: 1
+      tier: 0
+    - durationDays: 1
+      tier: 1
+    - durationDays: 3
+      tier: 2
+    - durationDays: 7
+      tier: 3
+  seasonRewardsConfig:
+    rewards1:
+    - rewardType: 7
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 3
+    - rewardType: 2
+      amount: 200
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 1
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 48
+        Lvl: 1
+    rewards2:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 3
+    - rewardType: 2
+      amount: 150
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 45
+        Lvl: 1
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 48
+        Lvl: 0
+    rewards3:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 3
+    - rewardType: 2
+      amount: 100
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 45
+        Lvl: 1
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 1
+        Lvl: 0
+    rewards4:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    - rewardType: 2
+      amount: 75
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 52
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 1
+        Lvl: 0
+    rewards5:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    - rewardType: 1
+      amount: 5000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 50
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 1
+        Lvl: 0
+    rewards6:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    - rewardType: 1
+      amount: 5000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 40
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 52
+        Lvl: 0
+    rewards7_8:
+    - rewardType: 1
+      amount: 3000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 25
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    rewards9_10:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 10
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+  mergeConfig: {fileID: 11400000, guid: 36ad9b1405b67ee42b8aaebea19144f6, type: 2}
+  energyRefillCost:
+    rewardType: 2
+    amount: 10
+    vehicleID: 0
+    mergePiece:
+      pType: 0
+      Lvl: 0
+  energyRefillAmountWithGems: 50
+  energyRefillAmountWithVideo: 20
+  welcomePackHoursDuration: 48
+  welcomePackShowOnLevel: 4
+  specialOfferDuration: 24
+  carOffers:
+  - vehicleId: 111
+    extraRewards:
+    - rewardType: 2
+      amount: 50
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 25000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 3
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    priceTier: 0
+  - vehicleId: 112
+    extraRewards:
+    - rewardType: 2
+      amount: 50
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 25000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 3
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    priceTier: 0
+  - vehicleId: 113
+    extraRewards:
+    - rewardType: 2
+      amount: 50
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 25000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 3
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 19
+        Lvl: 9
+    priceTier: 0
+  - vehicleId: 114
+    extraRewards:
+    - rewardType: 2
+      amount: 50
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 25000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 3
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 61
+        Lvl: 9
+    priceTier: 0
+  - vehicleId: 115
+    extraRewards:
+    - rewardType: 2
+      amount: 250
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 50000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    - rewardType: 7
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 3
+    priceTier: 0
+  - vehicleId: 116
+    extraRewards:
+    - rewardType: 2
+      amount: 150
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 40000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 45
+        Lvl: 2
+    - rewardType: 7
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 3
+    priceTier: 0
+  - vehicleId: 117
+    extraRewards:
+    - rewardType: 2
+      amount: 50
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 45
+        Lvl: 2
+    - rewardType: 7
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 3
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 48
+        Lvl: 0
+    priceTier: 0
+  mapPlayerName: {fileID: 2487992815429005269, guid: 6423a24b99928674cbf5c337efd175b0,
+    type: 3}
+  RouletteConfigsDict:
+  - key: RouletteConfigCommon1
+    refConfig: {fileID: 11400000, guid: d468c47bba564d04ca8d98ed949538ae, type: 2}
+  - key: RouletteConfigCommon2
+    refConfig: {fileID: 11400000, guid: e7b79ce0014ebdc41931cb79fbe36320, type: 2}
+  - key: RouletteConfigCommon3
+    refConfig: {fileID: 11400000, guid: eb45b4e3fc4887c44be08598bbc9bafa, type: 2}
+  - key: RouletteConfigCommon4
+    refConfig: {fileID: 11400000, guid: 8441299c6d85c3748931e6dc842133c8, type: 2}
+  - key: RouletteConfigCommon5
+    refConfig: {fileID: 11400000, guid: 221c2c345f1a10944acbc5e93af2ca1b, type: 2}
+  - key: RouletteConfigCommon6
+    refConfig: {fileID: 11400000, guid: 1a2471baa2ad1de4a8bbab10cd6c764a, type: 2}
+  - key: RouletteConfigCommon7
+    refConfig: {fileID: 11400000, guid: c628af5fb7a598142a784b8c56d8a640, type: 2}
+  - key: RouletteConfigSpecial1
+    refConfig: {fileID: 11400000, guid: 785d0573303f5194684afb017e734738, type: 2}
+  - key: RouletteConfigSpecial2
+    refConfig: {fileID: 11400000, guid: c44f0372d3723cc47a6ffc280e67b63c, type: 2}
+  - key: RouletteConfigSpecial3
+    refConfig: {fileID: 11400000, guid: 8d0a6643789e4de42ad6f198a6ed51d6, type: 2}
+  - key: RouletteConfigSpecial4
+    refConfig: {fileID: 11400000, guid: bbaba285db142aa48ae4d31a223140d4, type: 2}
+  - key: RouletteConfigSpecial5
+    refConfig: {fileID: 11400000, guid: 24366a9ca561b1f41a06c304b6efc969, type: 2}
+  - key: RouletteConfigSpecial6
+    refConfig: {fileID: 11400000, guid: 937984d7c5fd71845aecf190353e89a3, type: 2}
+  - key: RouletteConfigSpecial7
+    refConfig: {fileID: 11400000, guid: 8bbe5d5932c26a048944c38d9e212df0, type: 2}
+  references:
+    version: 2
+    RefIds: []

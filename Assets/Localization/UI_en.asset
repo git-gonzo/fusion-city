@@ -1,0 +1,615 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cfd06bfc363850c41ba135b79efa6c75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 112543019008
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340953790820352
+    m_Localized: Enter Your Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341950890127360
+    m_Localized: Change your Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342054569127936
+    m_Localized: This will be your awesome character name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342490965487616
+    m_Localized: Changing your name could be expensive, be sure to choose the one
+      you like
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342720553299968
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348788708749312
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688093469749248
+    m_Localized: Arrive now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688324588482560
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 689143949963264
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 689385114054656
+    m_Localized: FAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695998428360704
+    m_Localized: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3251649142730752
+    m_Localized: REWARDS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3273654088904704
+    m_Localized: CLAIM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964012609679360
+    m_Localized: Jobs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7964092817354752
+    m_Localized: Activities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7965485976399872
+    m_Localized: Time to get here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16370506938068992
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19253748540256256
+    m_Localized: Garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21016867448958976
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21022917472432128
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21022986623922176
+    m_Localized: Durability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21162793807261696
+    m_Localized: Sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21164742099218432
+    m_Localized: Repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21171687774367744
+    m_Localized: View Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24744403311931392
+    m_Localized: People here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54086228387061760
+    m_Localized: Enter House
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60260542937325568
+    m_Localized: Encounter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60260892494815232
+    m_Localized: Incident
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60261330313043968
+    m_Localized: Surprise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147024255541248
+    m_Localized: Watch Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147164991217664
+    m_Localized: <color=yellow>Free</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68147681809162240
+    m_Localized: Get it <color=yellow>NOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70317003449065472
+    m_Localized: STATS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70317371620876288
+    m_Localized: Travels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73914289731166208
+    m_Localized: Vehicles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80900838146465792
+    m_Localized: Building Price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82739437779312640
+    m_Localized: Unlocks at level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83427836832014336
+    m_Localized: Unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86665398384091136
+    m_Localized: Owned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86963978550403072
+    m_Localized: Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86969195031453696
+    m_Localized: Profit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108462054322495488
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132029813945819136
+    m_Localized: Energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132029978224123904
+    m_Localized: Do you want to buy more energy?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142905654716162048
+    m_Localized: ALL TIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305107649552384
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305175395950592
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145305264046759936
+    m_Localized: High Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145314224359366656
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147789693835042816
+    m_Localized: Season
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147790777869688832
+    m_Localized: Season Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147949986271748096
+    m_Localized: Prizes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149196944563003392
+    m_Localized: View
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160509956687159296
+    m_Localized: Storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160839065258713088
+    m_Localized: Store items here, tap on an item to send it back to the board, buy
+      more slots if you need more space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163044299821309952
+    m_Localized: Deliveries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164966630663675904
+    m_Localized: Deliver in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164966746640375808
+    m_Localized: Show location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164972139856814080
+    m_Localized: Put the items in your storage to deliver them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164972351098740736
+    m_Localized: Complete tasks to get better rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196858132956209152
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209908689627275264
+    m_Localized: Ends in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213072879967821824
+    m_Localized: Merged items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213074123289550848
+    m_Localized: Orders complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213082761118900224
+    m_Localized: Walking is good for health but takes too long </br><color=yellow>Buy
+      a vehicle</color> to move faster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215321979245322240
+    m_Localized: BEST VEHICLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223570478650908672
+    m_Localized: Time Limited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224393886427013120
+    m_Localized: You have earned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224394122272727040
+    m_Localized: Congratulations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226076893546307584
+    m_Localized: Your Gifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226077000383619072
+    m_Localized: Tap on any to throw it to the board
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227678192272433152
+    m_Localized: Send Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227678293845893120
+    m_Localized: Steal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227684829905313792
+    m_Localized: Come to this place to interact with this player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227916792213823488
+    m_Localized: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228300732879626240
+    m_Localized: These are the items that the player needs<br>Select the item you
+      want to send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228473501357465600
+    m_Localized: Is Looking for
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228474332358139904
+    m_Localized: Select an Item to send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228981907801530368
+    m_Localized: You have received these gifts from
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229006611178348544
+    m_Localized: Git Received
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229006752169877504
+    m_Localized: You've been Stolen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229007334276358144
+    m_Localized: These items have been stolen by
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229036624971849728
+    m_Localized: Sending Gift . . .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229036735550480384
+    m_Localized: Stealing item . . .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229038973874364416
+    m_Localized: You need to have the items inside your Storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229406939648385024
+    m_Localized: Gift Sent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229413360951648256
+    m_Localized: No specific items needed, boosters are always welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229478908041388032
+    m_Localized: Here are the items you can steal<br>You will need a weapon of the
+      same level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229501717421514752
+    m_Localized: There are no items that can be stolen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229502450078343168
+    m_Localized: Your available weapons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229502758477127680
+    m_Localized: You need weapons from level 5 to steal items of the same level or
+      less
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229509860545290240
+    m_Localized: Choose a valid item to steal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275479196262400
+    m_Localized: Steal Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275854410309632
+    m_Localized: You got
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231275938845843456
+    m_Localized: Used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232253370293837824
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232265013841125376
+    m_Localized: 'Have any feedback, found a bug? <br>
+
+      we are here to help,
+      contact us '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232603141621702656
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232654255327043584
+    m_Localized: Discard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232654423292141568
+    m_Localized: Restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237325930295484416
+    m_Localized: Buildings Owned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237326233380085760
+    m_Localized: Gifts Sent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237326301164232704
+    m_Localized: Items Stolen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237728704430628864
+    m_Localized: coins/hour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237728823125237760
+    m_Localized: Max Capacity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237813711635505152
+    m_Localized: Building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237814704989298688
+    m_Localized: Buying a building produce profit over time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237817817875898368
+    m_Localized: Capacity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237845902729961472
+    m_Localized: Claim your earnings below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 238052196569079808
+    m_Localized: New Avatars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239143927871987712
+    m_Localized: Fame Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287427332338114560
+    m_Localized: Lucky Wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290019683652886528
+    m_Localized: Choose a Roulette <br> <color=#FFFF47>Common</color> or <color=#FF90FF>Special</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290019897688219648
+    m_Localized: You need 1 ticket to roll the Roulette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290020624829538304
+    m_Localized: Buy Tickets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290728917730353152
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291398541429989376
+    m_Localized: Spin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295019334592389120
+    m_Localized: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298349661926744064
+    m_Localized: Season End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318511745104633856
+    m_Localized: Choose your reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318676299600125952
+    m_Localized: Time's up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318676687636160512
+    m_Localized: Extra Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319714966091358208
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319715093078106112
+    m_Localized: Increase your chances
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319966247720607744
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320033075713040384
+    m_Localized: Leaderboard ends in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320033347680100352
+    m_Localized: Welcome to the <color=#EEE883>Circus</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320824442940841984
+    m_Localized: Yesterday's Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321915611070357504
+    m_Localized: Today's Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322235553510612992
+    m_Localized: Playing with
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335678925336240128
+    m_Localized: Requested Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335680094125187072
+    m_Localized: Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335680346974609408
+    m_Localized: Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368660812003246080
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372963291050246144
+    m_Localized: Attention
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372971530244554752
+    m_Localized: This version has technical changes to improve the game and it is
+      not compatible with the previous one, that's why your progress needs to be
+      reset. Here is a gift for your next adventure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125080848007168
+    m_Localized: "Get it now!\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125583539535872
+    m_Localized: Special Offer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376125795121201152
+    m_Localized: UNIQUE!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383492137663037440
+    m_Localized: You Own
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390981970744541184
+    m_Localized: Possible items generated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400120012071731200
+    m_Localized: 'Hire '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400120130896363520
+    m_Localized: I can help you with your generators, you will get only the items
+      you need. <br> For a reasonable price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400121291770658816
+    m_Localized: days
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

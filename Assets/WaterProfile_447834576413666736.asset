@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 004ffb8c9b4e90d438d35887f7b002e4, type: 3}
+  m_Name: WaterProfile_447834576413666736
+  m_EditorClassIdentifier: 
+  lightingModel: 2
+  useFlatLighting: 1
+  renderQueueIndex: 0
+  color: {r: 0.31480956, g: 0.5798096, b: 0.6981132, a: 1}
+  specColor: {r: 0.5377358, g: 0.5377358, b: 0.5377358, a: 1}
+  smoothness: 0.7
+  enableLightAbsorption: 1
+  depthColor: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0.92941177}
+  maxDepth: 10
+  enableFoam: 1
+  foamColor: {r: 1, g: 1, b: 1, a: 1}
+  foamDistance: 1.06
+  enableFoamHQ: 1
+  foamNoiseScaleHQ: 2.19
+  foamNoiseSpeedHQ: 4.21
+  shorelineFoamStrength: 0.831
+  crestFoamStrength: 0
+  crestMaxDepth: 0.81
+  slopeFoamStrength: 0.5
+  slopeFoamFlowSpeed: 20
+  slopeFoamDistance: 50
+  rippleHeight: 0.183
+  rippleSpeed: 5
+  rippleNoiseScale: 1
+  enableWave: 1
+  waveDirection: 88
+  waveSpeed: 1.29
+  waveHeight: 0.17
+  waveLength: 5
+  waveSteepness: 0.353
+  waveDeform: 0
+  fresnelStrength: 1.82
+  fresnelBias: 0.315
+  enableReflection: 0
+  reflectionTextureResolution: 256
+  enableReflectionPixelLight: 0
+  reflectionClipPlaneOffset: 0.1
+  reflectionLayers:
+    serializedVersion: 2
+    m_Bits: 1
+  reflectCustomSkybox: 0
+  reflectionDistortionStrength: 5
+  enableRefraction: 0
+  refractionDistortionStrength: 25
+  enableCaustic: 0
+  causticTexture: {fileID: 2800000, guid: eeacbffe8eb46d343b0d7a9189130772, type: 3}
+  causticSize: 10
+  causticStrength: 0.5
+  causticDistortionStrength: 25

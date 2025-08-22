@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58706596aae07a478f9789e5aa7cdcc, type: 3}
+  m_Name: BuildingsConfig
+  m_EditorClassIdentifier: 
+  data:
+  - buildingType: 5
+    stringKey: Academy
+    forSale: 1
+    currency: 1
+    price: 45000
+    profit: 300
+  - buildingType: 53
+    stringKey: RestaurantSmall
+    forSale: 0
+    currency: 0
+    price: 0
+    profit: 0
+  - buildingType: 39
+    stringKey: Bicycleshop
+    forSale: 1
+    currency: 1
+    price: 19000
+    profit: 150
+  - buildingType: 52
+    stringKey: MotoShop
+    forSale: 1
+    currency: 1
+    price: 30000
+    profit: 200
+  - buildingType: 43
+    stringKey: Carshop
+    forSale: 1
+    currency: 1
+    price: 98000
+    profit: 500
+  - buildingType: 10
+    stringKey: Casino
+    forSale: 1
+    currency: 2
+    price: 2000
+    profit: 4000
+  - buildingType: 21
+    stringKey: LiveStageSmall
+    forSale: 1
+    currency: 1
+    price: 295000
+    profit: 750
+  - buildingType: 46
+    stringKey: Police
+    forSale: 1
+    currency: 1
+    price: 500000
+    profit: 950
+  - buildingType: 48
+    stringKey: CityHall
+    forSale: 1
+    currency: 1
+    price: 1500000
+    profit: 2000
+  - buildingType: 12
+    stringKey: TenisSmall
+    forSale: 0
+    currency: 0
+    price: 0
+    profit: 0
+  - buildingType: 30
+    stringKey: Hospital
+    forSale: 1
+    currency: 1
+    price: 450000
+    profit: 900
+  - buildingType: 41
+    stringKey: Cinema
+    forSale: 1
+    currency: 1
+    price: 600000
+    profit: 1000
+  - buildingType: 49
+    stringKey: GaleryArt
+    forSale: 1
+    currency: 1
+    price: 700000
+    profit: 1100
+  - buildingType: 40
+    stringKey: Carworkshop
+    forSale: 1
+    currency: 1
+    price: 400000
+    profit: 800
+  - buildingType: 26
+    stringKey: SurfingShop
+    forSale: 1
+    currency: 1
+    price: 350000
+    profit: 780
+  - buildingType: 37
+    stringKey: Church
+    forSale: 1
+    currency: 1
+    price: 1200000
+    profit: 1500
+  - buildingType: 55
+    stringKey: ShoppingCenter
+    forSale: 1
+    currency: 1
+    price: 1600000
+    profit: 1600
+  - buildingType: 32
+    stringKey: Circus
+    forSale: 1
+    currency: 1
+    price: 700000
+    profit: 650
+  - buildingType: 44
+    stringKey: Circuit
+    forSale: 1
+    currency: 1
+    price: 1900000
+    profit: 1700
+  - buildingType: 54
+    stringKey: CarShopLuxury
+    forSale: 1
+    currency: 1
+    price: 1750000
+    profit: 1650
+  - buildingType: 22
+    stringKey: ConcertBig
+    forSale: 1
+    currency: 1
+    price: 9000000
+    profit: 3000

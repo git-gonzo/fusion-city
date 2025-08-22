@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tutorials_2 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tutorials_2
+  m_TableCollectionNameGuidString: 9751a0f253854274fb3d9d6513f2d81b
+  m_Entries:
+  - m_Id: 351715225645056
+    m_Key: Tutorial_House_MapButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394595977801728
+    m_Key: Tutorial_Map_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394928376393728
+    m_Key: Tutorial_Map_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395271243968512
+    m_Key: Tutorial_Map_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395545723416576
+    m_Key: Tutorial_Map_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398076444815360
+    m_Key: Tutorial_Map_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398358192992256
+    m_Key: Tutorial_Map_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398828487716864
+    m_Key: Tutorial_Map_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399277584429056
+    m_Key: Tutorial_Map_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399733433970688
+    m_Key: Tutorial_Map_20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399952431165440
+    m_Key: Tutorial_Map_21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400232098967552
+    m_Key: Tutorial_Map_22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400422113521664
+    m_Key: Tutorial_Map_23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407072157347840
+    m_Key: "Tutorial_House_AfterMap\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24759518774046720
+    m_Key: Tutorial_Map_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25471777385099264
+    m_Key: Tutorial_Map_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25472457663459328
+    m_Key: Tutorial_Map_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109403704284700672
+    m_Key: Tutorial_Merge_welcome1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109414350485217280
+    m_Key: Tutorial_Merge_welcome2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109423389155811328
+    m_Key: Tutorial_Merge_welcome3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109762533446934528
+    m_Key: Tutorial_Merge_Board1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109762788049575936
+    m_Key: Tutorial_Merge_Board2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112430745682731008
+    m_Key: Tutorial_Merge_Board3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113148701316243456
+    m_Key: Tutorial_Merge_Board4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113149407527985152
+    m_Key: Tutorial_Merge_Board5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113544118289850368
+    m_Key: Tutorial_Merge_Board6_SelectXP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113544693509283840
+    m_Key: Tutorial_Merge_Board6_CollecttXP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114229510156607488
+    m_Key: Tutorial_Merge_Board7_DoMoreMissions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134516524420456448
+    m_Key: Tutorial_Merge_Board8_RefillGenerator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142857811238346752
+    m_Key: TutorialChangeName1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146849512420302848
+    m_Key: TutorialChangeAvatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204855184436781056
+    m_Key: Tutorial_Merge_Board9_OpenBox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204989993427427328
+    m_Key: Tutorial_Merge_Board9_GoBackToBuilding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211664781671686144
+    m_Key: Tutorial_Merge_NewGenerator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211677005899390976
+    m_Key: Tutorial_Merge_OpenBox2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211678976286941184
+    m_Key: Tutorial_SpawnChest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227925589858738176
+    m_Key: PutInStorage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227925751150698496
+    m_Key: TakeItemsToLocation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227925943463731200
+    m_Key: CompleTheMission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259053906351382528
+    m_Key: Tutorial_Merge_Same_items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259054570964017152
+    m_Key: Tutorial_Merge_Complete_Orders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259075957787222016
+    m_Key: Tutorial_Deliveries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287002714481647616
+    m_Key: Tutorial_GiveVehicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330748513568710656
+    m_Key: Tutorial_DeliveriesHowTo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 393186051534553088
+    m_Key: Tutorial_Storage
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1616156381643

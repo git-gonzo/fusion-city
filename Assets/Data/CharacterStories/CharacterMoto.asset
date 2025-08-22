@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99bdd73a9c80384493e3162604df0a0, type: 3}
+  m_Name: CharacterMoto
+  m_EditorClassIdentifier: 
+  characterPortrait: {fileID: -1534938211, guid: 214ecdd6ef16b064fb7f591b459a8142,
+    type: 3}
+  characterImage: {fileID: 710858473, guid: 214ecdd6ef16b064fb7f591b459a8142, type: 3}
+  characterName: Tank
+  charactersSteps:
+  - id: Moto1
+    character: {fileID: 11400000, guid: 60e7927371b3c474284687171830c4a8, type: 2}
+    textContent: Welcome to my workshop, here you can customise your cars
+    localizedKeys:
+    - m_TableReference:
+        m_TableCollectionName: GUID:67314442079c2974692967706d74d37d
+      m_TableEntryReference:
+        m_KeyId: 38243480897257472
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    - m_TableReference:
+        m_TableCollectionName: GUID:67314442079c2974692967706d74d37d
+      m_TableEntryReference:
+        m_KeyId: 38243927263477760
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    isUnique: 0
+    hasRequirement: 1
+    requiredLevel: 5
+    requiredId: Noria1
+    hasMission: 1
+    mission:
+      piecesRequest:
+      - pType: 40
+        Lvl: 8
+      - pType: 62
+        Lvl: 8
+      location: 52
+      rewards:
+      - rewardType: 7
+        amount: 1
+        vehicleID: 0
+        mergePiece:
+          pType: 73
+          Lvl: 0
+      stepId: Noria1
+      characterId: 2
+    waitingForMissionlocalizedKeys:
+    - m_TableReference:
+        m_TableCollectionName: GUID:67314442079c2974692967706d74d37d
+      m_TableEntryReference:
+        m_KeyId: 38248507590246400
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    hasRewards: 0
+    rewards: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 2a10535c1f75428409a024aa5213b035
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 66
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconsMergeShopping_ShoesGenerator
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 611
+        width: 335
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04405a18f9ad5d24dad16ab01c217d1a
+      internalID: 595166375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1036
+        width: 282
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162a1c56a7cf44f42bb0b75ab9b77a2e
+      internalID: 122032478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 872
+        width: 281
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67981e7acc79a5b4e9818147599b762e
+      internalID: 955635089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 691
+        width: 271
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95702b6c3e6b7284ba7ee5264732d780
+      internalID: -1952354123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 491
+        width: 261
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe48c61c95cbbb40852fff2b5572f6b
+      internalID: 1381857949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 296
+        width: 273
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc17a9e1725885e45a23d8b37d80b9f0
+      internalID: 1915169770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 289
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8faa0d3e340c248bf1c09e6ca26b89
+      internalID: 1423968212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 293
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16411b31fda1a5242a64b47b890c699c
+      internalID: 1859808784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 242
+        width: 316
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff305446ddf5424f8eda8b0b4cf3206
+      internalID: -395387504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 512
+        width: 309
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948a90aae484eae49b92eeca82b158e0
+      internalID: 1802430566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_ManShoe10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 9
+        width: 316
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1b330c68e0a84e8236dacd0d5c9ad
+      internalID: 493756003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe1
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 6
+        width: 189
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310832fdb2b704943a73c983855a0098
+      internalID: -1287945445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe2
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3
+        width: 167
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c59004ede4d1a45b392b9f4a2ff287
+      internalID: 550738656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe3
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3
+        width: 162
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f30b81c36a84e4ebae3972cf64527b
+      internalID: 1015794275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe4
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 3
+        width: 141
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1d3da90e1c9c439c580c66fa11309
+      internalID: 585509827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe5
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 381
+        width: 139
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13224e4e8da445346829a34e19cbfebc
+      internalID: 1125253290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe6
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 135
+        width: 183
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463799a1b1574a146b5db5592e620831
+      internalID: 29052947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 366
+        width: 223
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad46aca0665da144ba0159a5caa2a92c
+      internalID: 528819759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe1_2
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 7
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35548659649992e48a1223a622ff9f56
+      internalID: -1344093261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1915
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2fed7ff12215b41859cd56f579fd8f
+      internalID: -1248642486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1722
+        width: 93
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f24297996178048a9b51f851bf2648
+      internalID: -725065303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1719
+        width: 99
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47df962396468f4db6228f338a44d42
+      internalID: 1436352751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1677
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a71372624c9bc4ab9541c7177e4a73
+      internalID: -156606911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1721
+        width: 129
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc87933dcdb5f54e872be8295b6fa5e
+      internalID: 134946866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1893
+        width: 127
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7731a34a7c863774fa1c47b68795a5c6
+      internalID: 1708201519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1872
+        width: 98
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d433521dcc349c4c923fb791ee8c537
+      internalID: -1632517888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1823
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3239c879f13dff84ca32d3269dc48e93
+      internalID: 1825635613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1491
+        width: 149
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a4d1b1345e676489a83ae320a6d7dc
+      internalID: 1033664891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall1
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1687
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f27abe8465092049b1376e1446361c9
+      internalID: -1438118496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1677
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d6963f4ded13468077fd268d4f79c
+      internalID: 1886826614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall3
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1682
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d2260d0df10e4bb758bd19117fc76
+      internalID: 1803663363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall4
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1678
+        width: 166
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b7ead63e2ecce49a93700db83457a0
+      internalID: 1324746485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall5
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1847
+        width: 200
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae077a8a6fac5c34c9fdaa53153097f9
+      internalID: 1053333737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall6
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1841
+        width: 203
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3b52a75517f2f4d8cbe813e8fa456d
+      internalID: -284250558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall7
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1846
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75accea4dc5db44796c51d6c652e875
+      internalID: -1264526988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeBall8
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1841
+        width: 205
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901f48b82bdd127499a9f23c01f7f659
+      internalID: -469921910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_sportGenerator
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 921
+        width: 305
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7af576627a03479e65275ac24563a
+      internalID: -1483366768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_perfume3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1524
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ffaf62950af594fbaa14d3e4478f89
+      internalID: 402328769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_perfumGenerator
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1205
+        width: 305
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd3a31404ba636479b2ee062ff4e4ad
+      internalID: -895745716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1703
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef2a4d8be3b634abf16ce2c421540b
+      internalID: -1915852967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1689
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61954f3a14dfbd8498bb1c73a13abfd6
+      internalID: 879917832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1784
+        width: 71
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4910d1269de3194082da8418a7557d7
+      internalID: 1072236021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1948
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460149422af280b468038a9433a3763c
+      internalID: -1556481685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1926
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5e1ff31edc83d4eafdeacacf94e0db
+      internalID: -968463278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1814
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2104bd659c9fa4b9af42284a97541b
+      internalID: -359392815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1719
+        width: 153
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d226aaaae52968489c441f8d1978152
+      internalID: -270916596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_Makeup8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1896
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593a601179c04240b4b976ffa09b093
+      internalID: -75551489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe7
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 136
+        width: 192
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab365cf6135597c49b582f5aae44de29
+      internalID: -1735036628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeShopping_WomanShoe8
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 212
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4749edf364bc74c43b58167730a84abb
+      internalID: -810113930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCash1
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1808
+        width: 240
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a60540fc8d2eb842b1193234b8d837a
+      internalID: 159274152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCash2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1955
+        width: 192
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b676f2d3fdaddd147b22311b4b9a9beb
+      internalID: -94465233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCash3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1673
+        width: 264
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed03310859f4345b1389e1f85f8510
+      internalID: -1397833091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeCash4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1648
+        width: 288
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96205b4112354344f8765c9b2671517e
+      internalID: -38893299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IconsMergeBall1: -1438118496
+      IconsMergeBall2: 1886826614
+      IconsMergeBall3: 1803663363
+      IconsMergeBall4: 1324746485
+      IconsMergeBall5: 1053333737
+      IconsMergeBall6: -284250558
+      IconsMergeBall7: -1264526988
+      IconsMergeBall8: -469921910
+      IconsMergeCash1: 159274152
+      IconsMergeCash2: -94465233
+      IconsMergeCash3: -1397833091
+      IconsMergeCash4: -38893299
+      IconsMergeShopping_Makeup1: -1915852967
+      IconsMergeShopping_Makeup2: 879917832
+      IconsMergeShopping_Makeup3: 1072236021
+      IconsMergeShopping_Makeup4: -1556481685
+      IconsMergeShopping_Makeup5: -968463278
+      IconsMergeShopping_Makeup6: -359392815
+      IconsMergeShopping_Makeup7: -270916596
+      IconsMergeShopping_Makeup8: -75551489
+      IconsMergeShopping_ManShoe1: 122032478
+      IconsMergeShopping_ManShoe10: 493756003
+      IconsMergeShopping_ManShoe2: 955635089
+      IconsMergeShopping_ManShoe3: -1952354123
+      IconsMergeShopping_ManShoe4: 1381857949
+      IconsMergeShopping_ManShoe5: 1915169770
+      IconsMergeShopping_ManShoe6: 1423968212
+      IconsMergeShopping_ManShoe7: 1859808784
+      IconsMergeShopping_ManShoe8: -395387504
+      IconsMergeShopping_ManShoe9: 1802430566
+      IconsMergeShopping_ShoesGenerator: 595166375
+      IconsMergeShopping_WomanShoe1: -1287945445
+      IconsMergeShopping_WomanShoe1_2: -1344093261
+      IconsMergeShopping_WomanShoe2: 550738656
+      IconsMergeShopping_WomanShoe3: 1015794275
+      IconsMergeShopping_WomanShoe4: 585509827
+      IconsMergeShopping_WomanShoe5: 1125253290
+      IconsMergeShopping_WomanShoe6: 29052947
+      IconsMergeShopping_WomanShoe7: -810113930
+      IconsMergeShopping_WomanShoe8: -810113930
+      IconsMergeShopping_WomanShoe9: -810113930
+      IconsMergeShopping_perfumGenerator: -895745716
+      IconsMergeShopping_sportGenerator: -1483366768
+      IconsMerge_perfume1: -1248642486
+      IconsMerge_perfume10: 1033664891
+      IconsMerge_perfume2: 1708201519
+      IconsMerge_perfume3: 402328769
+      IconsMerge_perfume4: 134946866
+      IconsMerge_perfume5: -156606911
+      IconsMerge_perfume6: -1632517888
+      IconsMerge_perfume7: -725065303
+      IconsMerge_perfume8: 1436352751
+      IconsMerge_perfume9: 1825635613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

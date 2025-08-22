@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DailyTasks_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 66fb3dddb4cc4aa4fbad685693284f86, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50541387776
+    m_Localized: Use any type of booster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 845181640704
+    m_Localized: Earn Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2506780336128
+    m_Localized: Send Gifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4634060021760
+    m_Localized: Complete Orders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4748832956416
+    m_Localized: Complete Missions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4861982695424
+    m_Localized: Steal items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18125135306752
+    m_Localized: Change your Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18251551629312
+    m_Localized: Merge this
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18404769554432
+    m_Localized: Do Travels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20416697491456
+    m_Localized: Daily Tasks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20513212620800
+    m_Localized: Final Rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699550113226752
+    m_Localized: Complete all the tasks to claim the final reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 700021750128640
+    m_Localized: Come back tomorrow for more taks and rewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002634995589120
+    m_Localized: Win Fame Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112128584966144
+    m_Localized: Merge Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113793279057920
+    m_Localized: Watch videos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1263120139968512
+    m_Localized: Buy a vehicle
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

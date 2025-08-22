@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b386db9d26906846a2154eb039ac2b0, type: 3}
+  m_Name: CarShop
+  m_EditorClassIdentifier: 
+  buildingType: 43
+  buildingName: Car Shop
+  buildingDescrip: Brand new cars to get faster everywhere, choose the one you like
+    the most
+  isHouse: 0
+  unlockLevel: 4
+  boardConfig: {fileID: 0}
+  vehiclesInShop:
+  - {fileID: 11400000, guid: 0e76435eea9b51b468cb3f41de4beb14, type: 2}
+  - {fileID: 11400000, guid: a4e4e174efa3683469947f789f989ebd, type: 2}
+  - {fileID: 11400000, guid: 4d52df09d8421aa4d8c93abf3f5bda7c, type: 2}
+  - {fileID: 11400000, guid: db390afe2d8cd8a4da38ffa7c5331ac2, type: 2}
+  - {fileID: 11400000, guid: d4559cf1f7970d04cab07b4eeefe939b, type: 2}

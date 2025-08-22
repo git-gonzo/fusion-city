@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170e10b39a663594f8e62013da9e0368, type: 3}
+  m_Name: RouletteConfigSpecial5
+  m_EditorClassIdentifier: 
+  rouletteItems:
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 71
+        Lvl: 7
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 50
+        Lvl: 6
+    Weight: 9
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 49
+        Lvl: 6
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 19
+        Lvl: 8
+    Weight: 10
+  - reward:
+      rewardType: 8
+      amount: 1
+      vehicleID: 106
+      mergePiece:
+        pType: 54
+        Lvl: 0
+    Weight: 3
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 52
+        Lvl: 0
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 18
+        Lvl: 7
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 41
+        Lvl: 9
+    Weight: 9
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 56
+        Lvl: 8
+    Weight: 9
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 62
+        Lvl: 7
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 39
+        Lvl: 7
+    Weight: 11
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 48
+        Lvl: 0
+    Weight: 8
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 34
+        Lvl: 6
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 66
+        Lvl: 6
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 63
+        Lvl: 7
+    Weight: 10
+  - reward:
+      rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 1
+        Lvl: 0
+    Weight: 10

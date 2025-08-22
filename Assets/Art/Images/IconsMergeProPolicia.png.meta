@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 6d800027c7e6e924ba37bd9a6b184733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4662367749379774106
+    second: IconsMergePolicia_silbato
+  - first:
+      213: -8992113840713180013
+    second: IconsMergePolicia_linterna
+  - first:
+      213: 1758831343223960892
+    second: IconsMergePolicia_megafono
+  - first:
+      213: 7172843147639554499
+    second: IconsMergePolicia_walkie
+  - first:
+      213: -2675492724460799529
+    second: IconsMergePolicia_sirena
+  - first:
+      213: 5815218874255090201
+    second: IconsMergePolicia_esposas
+  - first:
+      213: -7536608151185025979
+    second: IconsMergePolicia_gafas
+  - first:
+      213: -871685272627269734
+    second: IconsMergePolicia_gorra
+  - first:
+      213: -6147161324211282155
+    second: IconsMergePolicia_pistola
+  - first:
+      213: 4702116093995949201
+    second: IconsMergePolicia_cochepolicia
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 60
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconsMergePolicia_silbato
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 144
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d40a04ce04b040800000000000000
+      internalID: 4662367749379774106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_linterna
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 195
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cda68aa18953380800000000000000
+      internalID: -8992113840713180013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_megafono
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 297
+        width: 195
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ffa8b9cf986810800000000000000
+      internalID: 1758831343223960892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_walkie
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 452
+        width: 89
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c186a4e6de0b8360800000000000000
+      internalID: 7172843147639554499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_sirena
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 496
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d93f5fda8dbedad0800000000000000
+      internalID: -2675492724460799529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_esposas
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9122f1b71cec3b050800000000000000
+      internalID: 5815218874255090201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_gafas
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 844
+        width: 151
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5449d4131d6986790800000000000000
+      internalID: -7536608151185025979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_gorra
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 904
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fac19ecd627e3f0800000000000000
+      internalID: -871685272627269734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_pistola
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 886
+        width: 189
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fdd5d3855e0baa0800000000000000
+      internalID: -6147161324211282155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_cochepolicia
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 672
+        width: 371
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c9643bca5414140800000000000000
+      internalID: 4702116093995949201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 183
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72a299e1dcaf943852fbc8f53e084c
+      internalID: -451316430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 11
+        width: 157
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe1e3e894b2fb409fd601cbde84c7b
+      internalID: 1925336267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 322
+        width: 150
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a7a7c415ea7a4f8f60b1fe7d38b80
+      internalID: 202002683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 10
+        width: 173
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6201f96f2c0e4fa843c1736f50cd1
+      internalID: 1890278980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 160
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cd6d8a2ab2ad244a7faf71c574f87d
+      internalID: -466087340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 183
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f08ac367aa0484c81de44516e2ade0
+      internalID: -1660036299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 24
+        width: 145
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3cfd793b1b6b84f873fe6e39e34f90
+      internalID: -1875627243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 117
+        width: 147
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c3dd010431444aa4ad91347fe6bf3
+      internalID: -1564071738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 110
+        width: 163
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6854269f1661e459a059092ecf89bc
+      internalID: -368760352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_casco_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 24
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19560b91f9284e148872b546ef0f067c
+      internalID: 439326548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_GeneradorArmas
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 721
+        width: 232
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4aee2950db4d4dbd186e6ad7314b6
+      internalID: 1756667485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_Placa1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 328
+        width: 124
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e12e9131ec0c4ab876a33a2210a96
+      internalID: -614356097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_Placa2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 337
+        width: 153
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a721e3dc6fff340a906b8b0fee5c05
+      internalID: 1436073436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_Escudo
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 486
+        width: 128
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5060758cd63188045ab9959270e4913b
+      internalID: 2105377730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_bala
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 896
+        width: 60
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d99dac49eaf54bb0f81fe246c02aa
+      internalID: -946973077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_Cartucho
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 268
+        width: 71
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5231ff5fe4b2c349aa5030b4bce3095
+      internalID: 606116671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeProPolicia_escopeta
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 262
+        width: 239
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c827a5851be9d914ca99c5387b6af149
+      internalID: 10275222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_fusil_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 709
+        width: 166
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21fc71146183cc47a19301efbd66a13
+      internalID: -2083661782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_fusil_2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 422
+        width: 137
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a341685ffbe440be5b50f165ec764
+      internalID: -121356567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_Granada
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 508
+        width: 129
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b83306094cee47b836d8b5145bb8c
+      internalID: 214517338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_PistolaTaser
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 183
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5dcb1156430c4aa04b6ea21f0bc34
+      internalID: -1907372923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePolicia_Rocket
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 468
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c298761a4d2b40ac261dc842937e4
+      internalID: 818088712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c127db79f90be7149aad18db508ddd21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IconsMergePolicia_silbato: 4662367749379774106
+      IconsMergePolicia_Cartucho: 606116671
+      IconsMergePolicia_casco_8: -368760352
+      IconsMergePolicia_gorra: -871685272627269734
+      IconsMergePolicia_casco_5: -1660036299
+      IconsMergePolicia_casco_9: 439326548
+      IconsMergePolicia_fusil_1: -2083661782
+      IconsMergePolicia_cochepolicia: 4702116093995949201
+      IconsMergePolicia_Placa2: 1436073436
+      IconsMergePolicia_linterna: -8992113840713180013
+      IconsMergePolicia_walkie: 7172843147639554499
+      IconsMergePolicia_Rocket: 818088712
+      IconsMergePolicia_PistolaTaser: -1907372923
+      IconsMergePolicia_Escudo: 2105377730
+      IconsMergePolicia_casco_0: -451316430
+      IconsMergePolicia_Placa1: -614356097
+      IconsMergePolicia_casco_4: -466087340
+      IconsMergePolicia_Granada: 214517338
+      IconsMergePolicia_casco_3: 1890278980
+      IconsMergePolicia_pistola: -6147161324211282155
+      IconsMergePolicia_casco_6: -1875627243
+      IconsMergePolicia_GeneradorArmas: 1756667485
+      IconsMergePolicia_bala: -946973077
+      IconsMergePolicia_fusil_2: -121356567
+      IconsMergePolicia_sirena: -2675492724460799529
+      IconsMergePolicia_esposas: 5815218874255090201
+      IconsMergePolicia_gafas: -7536608151185025979
+      IconsMergePolicia_megafono: 1758831343223960892
+      IconsMergePolicia_casco_1: 1925336267
+      IconsMergePolicia_casco_2: 202002683
+      IconsMergePolicia_casco_7: -1564071738
+      IconsMergeProPolicia_escopeta: 10275222
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

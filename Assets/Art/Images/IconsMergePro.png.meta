@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 21e2412ac24f5ff41a81ead77ef470fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1066555028854140836
+    second: IconsMergePro_pantop
+  - first:
+      213: -6204678995560369264
+    second: IconsMergePro_panbottom
+  - first:
+      213: -823389315070014591
+    second: IconsMergePro_carne
+  - first:
+      213: -6100717394737316310
+    second: IconsMergePro_queso
+  - first:
+      213: 4432779665318626198
+    second: IconsMergePro_tomate
+  - first:
+      213: 3934012354504046207
+    second: IconsMergePro_bacon
+  - first:
+      213: -802021099839793304
+    second: IconsMergePro_lechuga
+  - first:
+      213: 246468057100839307
+    second: IconsMergePro_salsa1
+  - first:
+      213: -4937795902179237571
+    second: IconsMergePro_cebolla
+  - first:
+      213: -7258029998471717761
+    second: IconsMergePro_salsa2
+  - first:
+      213: -7670175928430519513
+    second: IconsMergePro_horno
+  - first:
+      213: 1463361223709209063
+    second: IconsMergePro_horno2
+  - first:
+      213: 1679027341784367261
+    second: IconsMergePro_patataPelada
+  - first:
+      213: -8933541394330110908
+    second: IconsMergePro_patatasFritas
+  - first:
+      213: -1049285244886331545
+    second: IconsMergePro_Patata
+  - first:
+      213: -8608159695426600181
+    second: IconsMergePro_PatataCortada
+  - first:
+      213: 8234687990884644420
+    second: IconsMergePro_Perrito
+  - first:
+      213: 2528888560382794386
+    second: IconsMergePro_cable
+  - first:
+      213: 1581390190540474880
+    second: IconsMergePro_music2
+  - first:
+      213: -6847533526769305681
+    second: IconsMergePro_guitar
+  - first:
+      213: 6384031229585533064
+    second: IconsMergePro_guitar2
+  - first:
+      213: -6274147882578176735
+    second: IconsMergePro_Altavoz
+  - first:
+      213: -7463379579910985707
+    second: IconsMergePro_musicbox
+  - first:
+      213: 1962931848448264857
+    second: IconsMergePro_micro
+  - first:
+      213: -5813994023105822041
+    second: IconsMergePro_letras4
+  - first:
+      213: 2750891117821446646
+    second: IconsMergePro_letras2
+  - first:
+      213: 1754963978777672406
+    second: IconsMergePro_letras1
+  - first:
+      213: -6216922789043162882
+    second: IconsMergePro_letras3
+  - first:
+      213: -3259117194838579023
+    second: IconsMergePro_letras6
+  - first:
+      213: -62754703691005490
+    second: IconsMergePro_letras5
+  - first:
+      213: 7948704398325878699
+    second: IconsMergePro_letras7
+  - first:
+      213: 2377748229539223881
+    second: IconsMergePro_letras8
+  - first:
+      213: 2877701197442407266
+    second: IconsMergePro_letras9
+  - first:
+      213: 8999286903981624112
+    second: IconsMergePro_GeneratorNevera
+  - first:
+      213: 3252070755624225465
+    second: IconsMergePro_Drum1
+  - first:
+      213: -944449013915031068
+    second: IconsMergePro_Drum3
+  - first:
+      213: -5709003623503517192
+    second: IconsMergePro_Drum2
+  - first:
+      213: -1959614957879924787
+    second: IconsMergePro_Drum4
+  - first:
+      213: -575852444084177336
+    second: hand_icon
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 74
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconsMergePro_cable
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 442
+        width: 176
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5a2e3fba681320800000000000000
+      internalID: 2528888560382794386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_music2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ac37eeff932f510800000000000000
+      internalID: 1581390190540474880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_guitar
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 855
+        width: 217
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77655898ca8f0a0800000000000000
+      internalID: -6847533526769305681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightBall1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 613
+        width: 237
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888227a4492a89850800000000000000
+      internalID: 6384031229585533064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Altavoz
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 252
+        width: 139
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12598ae1ebfbde8a0800000000000000
+      internalID: -6274147882578176735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_musicbox
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518608390dfbc6890800000000000000
+      internalID: -7463379579910985707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_micro
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 918
+        width: 172
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4f09bd1cbd3b10800000000000000
+      internalID: 1962931848448264857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Drum1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 994
+        width: 220
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0b6d3f1da12d20800000000000000
+      internalID: 3252070755624225465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Drum3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 614
+        width: 186
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9602130a4a4e2f0800000000000000
+      internalID: -944449013915031068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Drum2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 508
+        width: 161
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9a7a7b37b85c0b0800000000000000
+      internalID: -5709003623503517192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Drum4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 729
+        width: 183
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7660b049c0ec4e0800000000000000
+      internalID: -1959614957879924787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_VientoStick1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 828
+        width: 43
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc8859b26185043aad6352aa84806f
+      internalID: 1865634830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMerge_VientoStick2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 886
+        width: 44
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3202c53e91d001e4ca0e6be9e0903a9a
+      internalID: -1317978772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_guitarEsp
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 772
+        width: 244
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957ddf3a36aa3f49b73d2f3a01150a5
+      internalID: -618627814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Trompeta
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 901
+        width: 266
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee4b790cd797714b85421748a58126f
+      internalID: -367001168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Flauta
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 845
+        width: 41
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcd018d40aaf1e4ab48745805227794
+      internalID: 377153676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_FlautaPan
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 650
+        width: 146
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb3267196d95d4aa649ae326136a9f
+      internalID: 1606080133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_saxo
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 721
+        width: 133
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b48cb311adcde48a99785e82afcfe3
+      internalID: 464696081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightBulbyellow
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 519
+        width: 78
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb603ec97ab8c4097dc483abdb58e5
+      internalID: -217939390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightBulbBlue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 518
+        width: 78
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee939fa2cbef77d40aac7bc41fc396af
+      internalID: 1429321963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightBulbGreen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828c32c445f23984cb6ce01c396dba1a
+      internalID: -791212221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightBulbRed
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 81
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ca4558ccd6e5489c62c564841d713
+      internalID: 1152656930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightSpot1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 637
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f56e2e807e41c4c882fdf71e3131b1
+      internalID: 1806526049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightSpot2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 770
+        width: 134
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3da951e61da64d866d35d538e4062
+      internalID: 1038976391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_0
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 622
+        width: 146
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d69dae149043aa4ca3021e00aff2d40
+      internalID: -2129361108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeLightBall2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 450
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b44c3e84b5734abde6c9506584743
+      internalID: -1537196675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergeGeneratorMusic2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 335
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a14534879664548b62957ba3c9ca95
+      internalID: -1992552604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_DrumPandereta
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 405
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258b318b478ac34f83804e8da7833e9
+      internalID: -1177864877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_DrumDjembe
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 549
+        width: 130
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319f6d2bf84b164eb8d2e5527429b77
+      internalID: 102780923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_DrumBatery
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 188
+        width: 233
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a61af088a76847b8ae407d4c092be
+      internalID: -3323287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsMergePro_Tuba
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 207
+        width: 173
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd32db96b5f3146bc5620b2ee111f9
+      internalID: 1195824101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IconsMergeGeneratorMusic2: -1992552604
+      IconsMergeLightBall1: 6384031229585533064
+      IconsMergeLightBall2: -1537196675
+      IconsMergeLightBulbBlue: 1429321963
+      IconsMergeLightBulbGreen: -791212221
+      IconsMergeLightBulbRed: 1152656930
+      IconsMergeLightBulbyellow: -217939390
+      IconsMergeLightSpot1: 1806526049
+      IconsMergeLightSpot2: 1038976391
+      IconsMergePro_0: -2129361108
+      IconsMergePro_Altavoz: -6274147882578176735
+      IconsMergePro_Drum1: 3252070755624225465
+      IconsMergePro_Drum2: -5709003623503517192
+      IconsMergePro_Drum3: -944449013915031068
+      IconsMergePro_Drum4: -1959614957879924787
+      IconsMergePro_DrumBatery: -3323287
+      IconsMergePro_DrumDjembe: 102780923
+      IconsMergePro_DrumPandereta: -1177864877
+      IconsMergePro_Flauta: 377153676
+      IconsMergePro_FlautaPan: 1606080133
+      IconsMergePro_GeneratorNevera: 8999286903981624112
+      IconsMergePro_Patata: -1049285244886331545
+      IconsMergePro_PatataCortada: -8608159695426600181
+      IconsMergePro_Perrito: 8234687990884644420
+      IconsMergePro_Trompeta: -367001168
+      IconsMergePro_Tuba: 1195824101
+      IconsMergePro_bacon: 3934012354504046207
+      IconsMergePro_cable: 2528888560382794386
+      IconsMergePro_carne: -823389315070014591
+      IconsMergePro_cebolla: -4937795902179237571
+      IconsMergePro_guitar: -6847533526769305681
+      IconsMergePro_guitarEsp: -618627814
+      IconsMergePro_horno: -7670175928430519513
+      IconsMergePro_horno2: 1463361223709209063
+      IconsMergePro_lechuga: -802021099839793304
+      IconsMergePro_letras1: 1754963978777672406
+      IconsMergePro_letras2: 2750891117821446646
+      IconsMergePro_letras3: -6216922789043162882
+      IconsMergePro_letras4: -5813994023105822041
+      IconsMergePro_letras5: -62754703691005490
+      IconsMergePro_letras6: -3259117194838579023
+      IconsMergePro_letras7: 7948704398325878699
+      IconsMergePro_letras8: 2377748229539223881
+      IconsMergePro_letras9: 2877701197442407266
+      IconsMergePro_micro: 1962931848448264857
+      IconsMergePro_music2: 1581390190540474880
+      IconsMergePro_musicbox: -7463379579910985707
+      IconsMergePro_panbottom: -6204678995560369264
+      IconsMergePro_pantop: 1066555028854140836
+      IconsMergePro_patataPelada: 1679027341784367261
+      IconsMergePro_patatasFritas: -8933541394330110908
+      IconsMergePro_queso: -6100717394737316310
+      IconsMergePro_salsa1: 246468057100839307
+      IconsMergePro_salsa2: -7258029998471717761
+      IconsMergePro_saxo: 464696081
+      IconsMergePro_tomate: 4432779665318626198
+      IconsMerge_VientoStick1: 1865634830
+      IconsMerge_VientoStick2: -1317978772
+      hand_icon: -575852444084177336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

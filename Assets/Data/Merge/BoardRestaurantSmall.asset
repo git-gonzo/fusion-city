@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06427fb831014c046a65aadabaa0365d, type: 3}
+  m_Name: BoardRestaurantSmall
+  m_EditorClassIdentifier: 
+  boardID: restaurantSmalltest3
+  sizeX: 4
+  sizeY: 4
+  pieces:
+  - pieceType: 0
+    pieceLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 5
+    pieceLevel: 0
+    generator:
+      capLeft: 12
+  missions:
+  - piece:
+      pieceType: 6
+      pieceLevel: 2
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 25
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 6
+      pieceLevel: 3
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 30
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 6
+      pieceLevel: 4
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 50
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 6
+      pieceLevel: 5
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 75
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 6
+      pieceLevel: 6
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 100
+    - rewardType: 2
+      amount: 1
+    - rewardType: 3
+      amount: 1
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 13
+      pieceLevel: 1
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 25
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 13
+      pieceLevel: 2
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 35
+    requirePlayerLevel: 1
+  - piece:
+      pieceType: 13
+      pieceLevel: 3
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 45
+    requirePlayerLevel: 1
+  - piece:
+      pieceType: 13
+      pieceLevel: 4
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 60
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 13
+      pieceLevel: 5
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 75
+    - rewardType: 3
+      amount: 1
+    requirePlayerLevel: 3
+  startingMissions: 1
+  maxVisibleMissions: 3
+  missionsCooldown: 180
+  boardTileColorNormal: {r: 1, g: 1, b: 1, a: 0.078431375}
+  boardTileColorDark: {r: 0.6698113, g: 0.66665184, b: 0.66665184, a: 0.12156863}
+  boardTileColorSelected: {r: 0.990566, g: 0.9510362, b: 0.2663314, a: 1}

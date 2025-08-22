@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Buildings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Buildings
+  m_TableCollectionNameGuidString: afa8858c523ae704cac9f0aa71d08052
+  m_Entries:
+  - m_Id: 48037388288
+    m_Key: Academy_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204375875584
+    m_Key: Academy_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574000680960
+    m_Key: Bank_Small_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1716799954944
+    m_Key: Bank_Small_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946800574464
+    m_Key: Bar_Small_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3291459117056
+    m_Key: Bar_Small_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321611668414464
+    m_Key: Basketball_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322231666237440
+    m_Key: Basketball_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322589687832576
+    m_Key: Bicycleshop_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322695594008576
+    m_Key: Bicycleshop_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322860228829184
+    m_Key: Carshop_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323023789907968
+    m_Key: Carshop_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323451046879232
+    m_Key: Carworkshop_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323539932569600
+    m_Key: Carworkshop_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323790500290560
+    m_Key: Casino_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323855948210176
+    m_Key: Casino_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334525645217792
+    m_Key: Church_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334583589527552
+    m_Key: Church_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335172574666752
+    m_Key: Cinema_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335236286144512
+    m_Key: Cinema_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335405069131776
+    m_Key: Circus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335470672240640
+    m_Key: Circus_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335759831752704
+    m_Key: Circuit_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447015846273024
+    m_Key: CityHall_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447109253423104
+    m_Key: CityHall_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1464881412857856
+    m_Key: LiveStageBig_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465201270480896
+    m_Key: LiveStageBig_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465606213754880
+    m_Key: LiveStageSmall_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465779719528448
+    m_Key: LiveStageSmall_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466007214383104
+    m_Key: GaleryArt_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466554856267776
+    m_Key: GaleryArt_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469223377330176
+    m_Key: RestaurantSmall_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469378432360448
+    m_Key: RestaurantSmall_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155497587351248896
+    m_Key: SurfingShop_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155497754112581632
+    m_Key: SurfingShop_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155498983555358720
+    m_Key: Police_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155499173326643200
+    m_Key: Police_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164583943251714048
+    m_Key: CarShopLuxury_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164584068330053632
+    m_Key: CarShopLuxury_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164584441266593792
+    m_Key: Circuit_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166674139392794624
+    m_Key: ShopHelicopter_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166674541752377344
+    m_Key: ShopHelicopter_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251915498965458944
+    m_Key: TenisSmall_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251915708768739328
+    m_Key: TenisSmall_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252223936564060160
+    m_Key: MotoShop_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252229096963072000
+    m_Key: MotoShop_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252231798619136000
+    m_Key: Hospital_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252231882756874240
+    m_Key: Hospital_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252236093045366784
+    m_Key: ShoppingCenter_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252236269688479744
+    m_Key: ShoppingCenter_descrip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289915656475738112
+    m_Key: ConcertBig_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289915790718631936
+    m_Key: ConcertBig_descrip
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1635096866386

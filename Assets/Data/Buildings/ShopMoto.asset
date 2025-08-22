@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b386db9d26906846a2154eb039ac2b0, type: 3}
+  m_Name: ShopMoto
+  m_EditorClassIdentifier: 
+  buildingType: 52
+  buildingName: Motorcycles Shop
+  buildingDescrip: Cool and fresh motorcycles to move within the city
+  isHouse: 0
+  unlockLevel: 3
+  boardUnlockLevel: 0
+  boardConfig: {fileID: 0}
+  vehiclesInShop:
+  - {fileID: 11400000, guid: 73332e7db74c0be4d8bae7e5b29272d1, type: 2}
+  - {fileID: 11400000, guid: 3e204ce4da8d3ed46a3db3695d9e2db6, type: 2}
+  characterStory: {fileID: 11400000, guid: b2733c4e848619641913a337cc40e8f9, type: 2}

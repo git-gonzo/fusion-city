@@ -1,0 +1,310 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06427fb831014c046a65aadabaa0365d, type: 3}
+  m_Name: BoardSpeedChallenge
+  m_EditorClassIdentifier: 
+  boardID: SpeedBoard
+  sizeX: 6
+  sizeY: 7
+  isSpeedBoard: 1
+  pieces:
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    generator:
+      capLeft: 0
+  - pieceType: 0
+    pieceLevel: 0
+    locked: 0
+    hidden: 0
+    unlockLevel: 0
+    generator:
+      capLeft: 0
+  missions:
+  - piece:
+      pieceType: 10
+      pieceLevel: 2
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 15
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 11
+      pieceLevel: 2
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 20
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 10
+      pieceLevel: 3
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 25
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 11
+      pieceLevel: 3
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 35
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 0
+  - piece:
+      pieceType: 10
+      pieceLevel: 4
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 35
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 11
+      pieceLevel: 4
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 55
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 3
+  - piece:
+      pieceType: 12
+      pieceLevel: 2
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 25
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 12
+      pieceLevel: 3
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 40
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 2
+  - piece:
+      pieceType: 12
+      pieceLevel: 4
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardPiece:
+      pieceType: 7
+      pieceLevel: 0
+      locked: 0
+      hidden: 0
+      unlockLevel: 0
+      generator:
+        capLeft: 0
+    rewardInstant:
+    - rewardType: 1
+      amount: 60
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 3
+  startingMissions: 2
+  maxVisibleMissions: 3
+  missionsCooldown: 0
+  BGColor: {r: 0.19575472, g: 0.52968305, b: 0.7830189, a: 1}
+  boardBGColor: {r: 0.36436453, g: 0.8084336, b: 0.8679245, a: 1}
+  boardTileColorNormal: {r: 1, g: 1, b: 1, a: 0.078431375}
+  boardTileColorDark: {r: 0.67058825, g: 0.6666667, b: 0.6666667, a: 0.13725491}
+  boardTileColorSelected: {r: 0.990566, g: 0.9510362, b: 0.2663314, a: 1}

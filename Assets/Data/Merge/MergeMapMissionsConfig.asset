@@ -1,0 +1,1248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c44efdf41318f42b9a5aac6c4c802e, type: 3}
+  m_Name: MergeMapMissionsConfig
+  m_EditorClassIdentifier: 
+  mapMissions:
+  - piecesRequest:
+    - pType: 6
+      Lvl: 3
+    location: 39
+    rewardInstant:
+    - rewardType: 1
+      amount: 1000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 2
+    requirePlayerLevel: 2
+    untilPlayerLevel: 4
+  - piecesRequest:
+    - pType: 6
+      Lvl: 4
+    - pType: 13
+      Lvl: 3
+    location: 30
+    rewardInstant:
+    - rewardType: 1
+      amount: 1250
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 3
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 8
+        Lvl: 4
+    requirePlayerLevel: 2
+    untilPlayerLevel: 4
+  - piecesRequest:
+    - pType: 6
+      Lvl: 3
+    - pType: 10
+      Lvl: 3
+    location: 39
+    rewardInstant:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 4
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 2
+    untilPlayerLevel: 4
+  - piecesRequest:
+    - pType: 13
+      Lvl: 3
+    - pType: 11
+      Lvl: 2
+    location: 12
+    rewardInstant:
+    - rewardType: 1
+      amount: 1200
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 0
+    requirePlayerLevel: 2
+    untilPlayerLevel: 4
+  - piecesRequest:
+    - pType: 10
+      Lvl: 4
+    - pType: 11
+      Lvl: 2
+    - pType: 6
+      Lvl: 4
+    location: 30
+    rewardInstant:
+    - rewardType: 1
+      amount: 1300
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 4
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 0
+    requirePlayerLevel: 2
+    untilPlayerLevel: 4
+  - piecesRequest:
+    - pType: 13
+      Lvl: 3
+    - pType: 11
+      Lvl: 2
+    - pType: 12
+      Lvl: 3
+    location: 39
+    rewardInstant:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 4
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 0
+    requirePlayerLevel: 2
+    untilPlayerLevel: 4
+  - piecesRequest:
+    - pType: 13
+      Lvl: 4
+    - pType: 11
+      Lvl: 2
+    - pType: 27
+      Lvl: 3
+    location: 5
+    rewardInstant:
+    - rewardType: 1
+      amount: 1800
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 6
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 0
+    requirePlayerLevel: 3
+    untilPlayerLevel: 5
+  - piecesRequest:
+    - pType: 6
+      Lvl: 5
+    - pType: 26
+      Lvl: 3
+    location: 10
+    rewardInstant:
+    - rewardType: 1
+      amount: 1200
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 0
+      amount: 20
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 3
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 3
+    untilPlayerLevel: 5
+  - piecesRequest:
+    - pType: 21
+      Lvl: 3
+    - pType: 28
+      Lvl: 3
+    - pType: 6
+      Lvl: 4
+    location: 30
+    rewardInstant:
+    - rewardType: 0
+      amount: 30
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 1000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 5
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 12
+      Lvl: 2
+    - pType: 29
+      Lvl: 5
+    - pType: 32
+      Lvl: 5
+    location: 10
+    rewardInstant:
+    - rewardType: 0
+      amount: 30
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 7
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 0
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 6
+      Lvl: 6
+    - pType: 50
+      Lvl: 5
+    - pType: 26
+      Lvl: 4
+    location: 39
+    rewardInstant:
+    - rewardType: 1
+      amount: 800
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 12
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 1
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 31
+      Lvl: 6
+    - pType: 13
+      Lvl: 5
+    - pType: 36
+      Lvl: 4
+    location: 50
+    rewardInstant:
+    - rewardType: 1
+      amount: 1000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 8
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 39
+      Lvl: 6
+    - pType: 38
+      Lvl: 4
+    - pType: 49
+      Lvl: 3
+    location: 53
+    rewardInstant:
+    - rewardType: 1
+      amount: 550
+      vehicleID: 0
+      mergePiece:
+        pType: 46
+        Lvl: 0
+    - rewardType: 2
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 7
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 21
+      Lvl: 6
+    - pType: 33
+      Lvl: 5
+    - pType: 31
+      Lvl: 4
+    location: 32
+    rewardInstant:
+    - rewardType: 1
+      amount: 750
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 9
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 3
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 27
+      Lvl: 4
+    - pType: 39
+      Lvl: 5
+    - pType: 11
+      Lvl: 4
+    location: 5
+    rewardInstant:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 3
+    - rewardType: 1
+      amount: 900
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 6
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 34
+      Lvl: 4
+    - pType: 36
+      Lvl: 6
+    - pType: 10
+      Lvl: 4
+    location: 50
+    rewardInstant:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 2
+    - rewardType: 1
+      amount: 800
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 9
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 12
+      Lvl: 3
+    - pType: 33
+      Lvl: 4
+    - pType: 21
+      Lvl: 4
+    location: 49
+    rewardInstant:
+    - rewardType: 1
+      amount: 450
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 5
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 3
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 31
+      Lvl: 6
+    - pType: 28
+      Lvl: 3
+    - pType: 39
+      Lvl: 8
+    location: 37
+    rewardInstant:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 22
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 2
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 27
+      Lvl: 4
+    - pType: 61
+      Lvl: 4
+    - pType: 21
+      Lvl: 5
+    location: 32
+    rewardInstant:
+    - rewardType: 1
+      amount: 1000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 6
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 49
+        Lvl: 3
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 38
+      Lvl: 5
+    - pType: 22
+      Lvl: 5
+    location: 39
+    rewardInstant:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 6
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 4
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 63
+      Lvl: 5
+    - pType: 49
+      Lvl: 5
+    - pType: 13
+      Lvl: 5
+    location: 21
+    rewardInstant:
+    - rewardType: 1
+      amount: 1600
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 9
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 29
+        Lvl: 4
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 61
+      Lvl: 7
+    - pType: 39
+      Lvl: 6
+    - pType: 13
+      Lvl: 5
+    location: 44
+    rewardInstant:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 16
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 34
+        Lvl: 4
+    requirePlayerLevel: 4
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 26
+      Lvl: 4
+    - pType: 40
+      Lvl: 4
+    - pType: 21
+      Lvl: 5
+    location: 23
+    rewardInstant:
+    - rewardType: 1
+      amount: 600
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 8
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 3
+    requirePlayerLevel: 5
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 19
+      Lvl: 8
+    - pType: 40
+      Lvl: 6
+    - pType: 38
+      Lvl: 3
+    location: 4
+    rewardInstant:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 4
+    - rewardType: 2
+      amount: 5
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 25
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 5
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 40
+      Lvl: 4
+    - pType: 39
+      Lvl: 5
+    - pType: 50
+      Lvl: 5
+    location: 23
+    rewardInstant:
+    - rewardType: 1
+      amount: 900
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 7
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 33
+        Lvl: 5
+    requirePlayerLevel: 5
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 41
+      Lvl: 7
+    - pType: 34
+      Lvl: 5
+    - pType: 21
+      Lvl: 4
+    location: 41
+    rewardInstant:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 8
+        Lvl: 4
+    - rewardType: 3
+      amount: 10
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 4
+    requirePlayerLevel: 5
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 19
+      Lvl: 4
+    - pType: 40
+      Lvl: 3
+    - pType: 66
+      Lvl: 5
+    location: 48
+    rewardInstant:
+    - rewardType: 1
+      amount: 900
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 3
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 9
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 5
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 63
+      Lvl: 7
+    - pType: 41
+      Lvl: 6
+    - pType: 36
+      Lvl: 5
+    location: 48
+    rewardInstant:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 18
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 69
+        Lvl: 3
+    requirePlayerLevel: 5
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 47
+      Lvl: 4
+    - pType: 36
+      Lvl: 8
+    - pType: 40
+      Lvl: 3
+    location: 32
+    rewardInstant:
+    - rewardType: 3
+      amount: 20
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 1
+      amount: 2500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 9
+        Lvl: 1
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 14
+      Lvl: 4
+    - pType: 21
+      Lvl: 5
+    - pType: 6
+      Lvl: 5
+    location: 26
+    rewardInstant:
+    - rewardType: 1
+      amount: 750
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 8
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 4
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 14
+      Lvl: 5
+    - pType: 33
+      Lvl: 5
+    - pType: 40
+      Lvl: 8
+    location: 41
+    rewardInstant:
+    - rewardType: 1
+      amount: 1150
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 15
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 3
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 31
+      Lvl: 7
+    - pType: 33
+      Lvl: 8
+    - pType: 14
+      Lvl: 4
+    location: 10
+    rewardInstant:
+    - rewardType: 1
+      amount: 2000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 28
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 5
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 33
+      Lvl: 6
+    - pType: 47
+      Lvl: 5
+    - pType: 32
+      Lvl: 5
+    location: 49
+    rewardInstant:
+    - rewardType: 1
+      amount: 650
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 10
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 3
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 28
+      Lvl: 4
+    - pType: 18
+      Lvl: 4
+    - pType: 40
+      Lvl: 6
+    location: 45
+    rewardInstant:
+    - rewardType: 1
+      amount: 750
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 9
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 4
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 18
+      Lvl: 6
+    - pType: 19
+      Lvl: 7
+    - pType: 49
+      Lvl: 5
+    location: 44
+    rewardInstant:
+    - rewardType: 1
+      amount: 1600
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 12
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 2
+      amount: 4
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 51
+      Lvl: 4
+    - pType: 34
+      Lvl: 5
+    - pType: 22
+      Lvl: 6
+    location: 16
+    rewardInstant:
+    - rewardType: 1
+      amount: 1250
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 8
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 9
+        Lvl: 1
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 18
+      Lvl: 7
+    - pType: 38
+      Lvl: 5
+    - pType: 49
+      Lvl: 5
+    location: 28
+    rewardInstant:
+    - rewardType: 1
+      amount: 950
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 13
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 4
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 51
+      Lvl: 7
+    - pType: 39
+      Lvl: 6
+    - pType: 31
+      Lvl: 6
+    location: 16
+    rewardInstant:
+    - rewardType: 1
+      amount: 1800
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 16
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 7
+        Lvl: 3
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 56
+      Lvl: 5
+    - pType: 62
+      Lvl: 5
+    - pType: 36
+      Lvl: 4
+    location: 50
+    rewardInstant:
+    - rewardType: 1
+      amount: 1500
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 7
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 19
+        Lvl: 3
+    requirePlayerLevel: 7
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 58
+      Lvl: 6
+    - pType: 64
+      Lvl: 5
+    - pType: 47
+      Lvl: 6
+    location: 41
+    rewardInstant:
+    - rewardType: 2
+      amount: 2
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 14
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 50
+        Lvl: 3
+    requirePlayerLevel: 7
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 64
+      Lvl: 6
+    - pType: 60
+      Lvl: 6
+    - pType: 62
+      Lvl: 6
+    location: 54
+    rewardInstant:
+    - rewardType: 1
+      amount: 2000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 18
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 52
+        Lvl: 0
+    requirePlayerLevel: 7
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 28
+      Lvl: 5
+    - pType: 31
+      Lvl: 6
+    - pType: 66
+      Lvl: 7
+    location: 37
+    rewardInstant:
+    - rewardType: 1
+      amount: 3000
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 3
+      amount: 18
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 2
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
+  - piecesRequest:
+    - pType: 63
+      Lvl: 8
+    - pType: 22
+      Lvl: 7
+    - pType: 14
+      Lvl: 5
+    location: 48
+    rewardInstant:
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 24
+        Lvl: 0
+    - rewardType: 3
+      amount: 16
+      vehicleID: 0
+      mergePiece:
+        pType: 0
+        Lvl: 0
+    - rewardType: 7
+      amount: 1
+      vehicleID: 0
+      mergePiece:
+        pType: 70
+        Lvl: 1
+    requirePlayerLevel: 6
+    untilPlayerLevel: 0
